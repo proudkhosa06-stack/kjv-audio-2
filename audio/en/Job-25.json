@@ -1,0 +1,48 @@
+{
+ "book": "Job",
+ "chapter": 25,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Job-25.mp3",
+ "duration": 33.55,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 2.63,
+   "text": "Then answered Bildad the Shuhite, and said,"
+  },
+  {
+   "verse": 2,
+   "start": 3.33,
+   "end": 7.89,
+   "text": "Dominion and fear are with him, he maketh peace in his high places."
+  },
+  {
+   "verse": 3,
+   "start": 8.59,
+   "end": 12.98,
+   "text": "Is there any number of his armies? and upon whom doth not his light arise?"
+  },
+  {
+   "verse": 4,
+   "start": 13.68,
+   "end": 19.2,
+   "text": "How then can man be justified with God? or how can he be clean that is born of a woman?"
+  },
+  {
+   "verse": 5,
+   "start": 19.9,
+   "end": 26.18,
+   "text": "Behold even to the moon, and it shineth not; yea, the stars are not pure in his sight."
+  },
+  {
+   "verse": 6,
+   "start": 26.88,
+   "end": 32.49,
+   "text": "How much less man, that is a worm? and the son of man, which is a worm?"
+  }
+ ]
+}

@@ -1,0 +1,216 @@
+{
+ "book": "Job",
+ "chapter": 21,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Job-21.mp3",
+ "duration": 193.9,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 1.99,
+   "text": "But Job answered and said,"
+  },
+  {
+   "verse": 2,
+   "start": 2.69,
+   "end": 6.66,
+   "text": "Hear diligently my speech, and let this be your consolations."
+  },
+  {
+   "verse": 3,
+   "start": 7.36,
+   "end": 11.84,
+   "text": "Suffer me that I may speak; and after that I have spoken, mock on."
+  },
+  {
+   "verse": 4,
+   "start": 12.54,
+   "end": 18.88,
+   "text": "As for me, is my complaint to man? and if it were so, why should not my spirit be troubled?"
+  },
+  {
+   "verse": 5,
+   "start": 19.58,
+   "end": 23.34,
+   "text": "Mark me, and be astonished, and lay your hand upon your mouth."
+  },
+  {
+   "verse": 6,
+   "start": 24.04,
+   "end": 29.62,
+   "text": "Even when I remember I am afraid, and trembling taketh hold on my flesh."
+  },
+  {
+   "verse": 7,
+   "start": 30.32,
+   "end": 34.89,
+   "text": "Wherefore do the wicked live, become old, yea, are mighty in power?"
+  },
+  {
+   "verse": 8,
+   "start": 35.59,
+   "end": 40.85,
+   "text": "Their seed is established in their sight with them, and their offspring before their eyes."
+  },
+  {
+   "verse": 9,
+   "start": 41.55,
+   "end": 45.67,
+   "text": "Their houses are safe from fear, neither is the rod of God upon them."
+  },
+  {
+   "verse": 10,
+   "start": 46.37,
+   "end": 52.27,
+   "text": "Their bull gendereth, and faileth not; their cow calveth, and casteth not her calf."
+  },
+  {
+   "verse": 11,
+   "start": 52.97,
+   "end": 56.61,
+   "text": "They send forth their little ones like a flock, and their children dance."
+  },
+  {
+   "verse": 12,
+   "start": 57.31,
+   "end": 61.15,
+   "text": "They take the timbrel and harp, and rejoice at the sound of the organ."
+  },
+  {
+   "verse": 13,
+   "start": 61.85,
+   "end": 65.85,
+   "text": "They spend their days in wealth, and in a moment go down to the grave."
+  },
+  {
+   "verse": 14,
+   "start": 66.55,
+   "end": 72.63,
+   "text": "Therefore they say unto God, Depart from us; for we desire not the knowledge of thy ways."
+  },
+  {
+   "verse": 15,
+   "start": 73.33,
+   "end": 79.37,
+   "text": "What is the Almighty, that we should serve him? and what profit should we have, if we pray unto him?"
+  },
+  {
+   "verse": 16,
+   "start": 80.07,
+   "end": 85.47,
+   "text": "Lo, their good is not in their hand: the counsel of the wicked is far from me."
+  },
+  {
+   "verse": 17,
+   "start": 86.17,
+   "end": 95.61,
+   "text": "How oft is the candle of the wicked put out! and how oft cometh their destruction upon them! God distributeth sorrows in his anger."
+  },
+  {
+   "verse": 18,
+   "start": 96.31,
+   "end": 101.24,
+   "text": "They are as stubble before the wind, and as chaff that the storm carrieth away."
+  },
+  {
+   "verse": 19,
+   "start": 101.94,
+   "end": 107.21,
+   "text": "God layeth up his iniquity for his children: he rewardeth him, and he shall know it."
+  },
+  {
+   "verse": 20,
+   "start": 107.91,
+   "end": 112.96,
+   "text": "His eyes shall see his destruction, and he shall drink of the wrath of the Almighty."
+  },
+  {
+   "verse": 21,
+   "start": 113.66,
+   "end": 119.42,
+   "text": "For what pleasure hath he in his house after him, when the number of his months is cut off in the midst?"
+  },
+  {
+   "verse": 22,
+   "start": 120.12,
+   "end": 124.25,
+   "text": "Shall any teach God knowledge? seeing he judgeth those that are high."
+  },
+  {
+   "verse": 23,
+   "start": 124.95,
+   "end": 129.39,
+   "text": "One dieth in his full strength, being wholly at ease and quiet."
+  },
+  {
+   "verse": 24,
+   "start": 130.09,
+   "end": 133.97,
+   "text": "His breasts are full of milk, and his bones are moistened with marrow."
+  },
+  {
+   "verse": 25,
+   "start": 134.67,
+   "end": 139.65,
+   "text": "And another dieth in the bitterness of his soul, and never eateth with pleasure."
+  },
+  {
+   "verse": 26,
+   "start": 140.35,
+   "end": 144.18,
+   "text": "They shall lie down alike in the dust, and the worms shall cover them."
+  },
+  {
+   "verse": 27,
+   "start": 144.88,
+   "end": 150.08,
+   "text": "Behold, I know your thoughts, and the devices which ye wrongfully imagine against me."
+  },
+  {
+   "verse": 28,
+   "start": 150.78,
+   "end": 156.25,
+   "text": "For ye say, Where is the house of the prince? and where are the dwelling places of the wicked?"
+  },
+  {
+   "verse": 29,
+   "start": 156.95,
+   "end": 161.49,
+   "text": "Have ye not asked them that go by the way? and do ye not know their tokens,"
+  },
+  {
+   "verse": 30,
+   "start": 162.19,
+   "end": 168.43,
+   "text": "That the wicked is reserved to the day of destruction? they shall be brought forth to the day of wrath."
+  },
+  {
+   "verse": 31,
+   "start": 169.13,
+   "end": 174.08,
+   "text": "Who shall declare his way to his face? and who shall repay him what he hath done?"
+  },
+  {
+   "verse": 32,
+   "start": 174.78,
+   "end": 178.7,
+   "text": "Yet shall he be brought to the grave, and shall remain in the tomb."
+  },
+  {
+   "verse": 33,
+   "start": 179.4,
+   "end": 186.58,
+   "text": "The clods of the valley shall be sweet unto him, and every man shall draw after him, as there are innumerable before him."
+  },
+  {
+   "verse": 34,
+   "start": 187.28,
+   "end": 192.83,
+   "text": "How then comfort ye me in vain, seeing in your answers there remaineth falsehood?"
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "book": "Psalms",
+ "chapter": 98,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-98.mp3",
+ "duration": 65.57,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 10.34,
+   "text": "A Psalm. O sing unto the LORD a new song; for he hath done marvellous things: his right hand, and his holy arm, hath gotten him the victory."
+  },
+  {
+   "verse": 2,
+   "start": 11.04,
+   "end": 17.74,
+   "text": "The LORD hath made known his salvation: his righteousness hath he openly shewed in the sight of the heathen."
+  },
+  {
+   "verse": 3,
+   "start": 18.44,
+   "end": 26.22,
+   "text": "He hath remembered his mercy and his truth toward the house of Israel: all the ends of the earth have seen the salvation of our God."
+  },
+  {
+   "verse": 4,
+   "start": 26.92,
+   "end": 33.7,
+   "text": "Make a joyful noise unto the LORD, all the earth: make a loud noise, and rejoice, and sing praise."
+  },
+  {
+   "verse": 5,
+   "start": 34.4,
+   "end": 39.11,
+   "text": "Sing unto the LORD with the harp; with the harp, and the voice of a psalm."
+  },
+  {
+   "verse": 6,
+   "start": 39.81,
+   "end": 45.13,
+   "text": "With trumpets and sound of cornet make a joyful noise before the LORD, the King."
+  },
+  {
+   "verse": 7,
+   "start": 45.83,
+   "end": 51.34,
+   "text": "Let the sea roar, and the fulness thereof; the world, and they that dwell therein."
+  },
+  {
+   "verse": 8,
+   "start": 52.04,
+   "end": 56.25,
+   "text": "Let the floods clap their hands: let the hills be joyful together"
+  },
+  {
+   "verse": 9,
+   "start": 56.95,
+   "end": 64.52,
+   "text": "Before the LORD; for he cometh to judge the earth: with righteousness shall he judge the world, and the people with equity."
+  }
+ ]
+}

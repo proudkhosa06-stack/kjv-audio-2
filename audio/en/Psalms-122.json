@@ -1,0 +1,66 @@
+{
+ "book": "Psalms",
+ "chapter": 122,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-122.mp3",
+ "duration": 49.18,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 6.31,
+   "text": "A Song of degrees of David. I was glad when they said unto me, Let us go into the house of the LORD."
+  },
+  {
+   "verse": 2,
+   "start": 7.01,
+   "end": 10.0,
+   "text": "Our feet shall stand within thy gates, O Jerusalem."
+  },
+  {
+   "verse": 3,
+   "start": 10.7,
+   "end": 14.03,
+   "text": "Jerusalem is builded as a city that is compact together:"
+  },
+  {
+   "verse": 4,
+   "start": 14.73,
+   "end": 22.78,
+   "text": "Whither the tribes go up, the tribes of the LORD, unto the testimony of Israel, to give thanks unto the name of the LORD."
+  },
+  {
+   "verse": 5,
+   "start": 23.48,
+   "end": 27.99,
+   "text": "For there are set thrones of judgment, the thrones of the house of David."
+  },
+  {
+   "verse": 6,
+   "start": 28.69,
+   "end": 32.7,
+   "text": "Pray for the peace of Jerusalem: they shall prosper that love thee."
+  },
+  {
+   "verse": 7,
+   "start": 33.4,
+   "end": 38.05,
+   "text": "Peace be within thy walls, and prosperity within thy palaces."
+  },
+  {
+   "verse": 8,
+   "start": 38.75,
+   "end": 43.42,
+   "text": "For my brethren and companions' sakes, I will now say, Peace be within thee."
+  },
+  {
+   "verse": 9,
+   "start": 44.12,
+   "end": 48.12,
+   "text": "Because of the house of the LORD our God I will seek thy good."
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "book": "Psalms",
+ "chapter": 101,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-101.mp3",
+ "duration": 62.28,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 6.51,
+   "text": "A Psalm of David. I will sing of mercy and judgment: unto thee, O LORD, will I sing."
+  },
+  {
+   "verse": 2,
+   "start": 7.21,
+   "end": 15.64,
+   "text": "I will behave myself wisely in a perfect way. O when wilt thou come unto me? I will walk within my house with a perfect heart."
+  },
+  {
+   "verse": 3,
+   "start": 16.34,
+   "end": 22.98,
+   "text": "I will set no wicked thing before mine eyes: I hate the work of them that turn aside; it shall not cleave to me."
+  },
+  {
+   "verse": 4,
+   "start": 23.68,
+   "end": 27.54,
+   "text": "A froward heart shall depart from me: I will not know a wicked person."
+  },
+  {
+   "verse": 5,
+   "start": 28.24,
+   "end": 37.12,
+   "text": "Whoso privily slandereth his neighbour, him will I cut off: him that hath an high look and a proud heart will not I suffer."
+  },
+  {
+   "verse": 6,
+   "start": 37.82,
+   "end": 46.55,
+   "text": "Mine eyes shall be upon the faithful of the land, that they may dwell with me: he that walketh in a perfect way, he shall serve me."
+  },
+  {
+   "verse": 7,
+   "start": 47.25,
+   "end": 54.14,
+   "text": "He that worketh deceit shall not dwell within my house: he that telleth lies shall not tarry in my sight."
+  },
+  {
+   "verse": 8,
+   "start": 54.84,
+   "end": 61.22,
+   "text": "I will early destroy all the wicked of the land; that I may cut off all wicked doers from the city of the LORD."
+  }
+ ]
+}

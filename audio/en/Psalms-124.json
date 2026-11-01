@@ -1,0 +1,60 @@
+{
+ "book": "Psalms",
+ "chapter": 124,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-124.mp3",
+ "duration": 45.34,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 8.36,
+   "text": "A Song of degrees of David. If it had not been the LORD who was on our side, now may Israel say;"
+  },
+  {
+   "verse": 2,
+   "start": 9.06,
+   "end": 14.01,
+   "text": "If it had not been the LORD who was on our side, when men rose up against us:"
+  },
+  {
+   "verse": 3,
+   "start": 14.71,
+   "end": 18.99,
+   "text": "Then they had swallowed us up quick, when their wrath was kindled against us:"
+  },
+  {
+   "verse": 4,
+   "start": 19.69,
+   "end": 23.9,
+   "text": "Then the waters had overwhelmed us, the stream had gone over our soul:"
+  },
+  {
+   "verse": 5,
+   "start": 24.6,
+   "end": 27.29,
+   "text": "Then the proud waters had gone over our soul."
+  },
+  {
+   "verse": 6,
+   "start": 27.99,
+   "end": 32.01,
+   "text": "Blessed be the LORD, who hath not given us as a prey to their teeth."
+  },
+  {
+   "verse": 7,
+   "start": 32.71,
+   "end": 40.03,
+   "text": "Our soul is escaped as a bird out of the snare of the fowlers: the snare is broken, and we are escaped."
+  },
+  {
+   "verse": 8,
+   "start": 40.73,
+   "end": 44.28,
+   "text": "Our help is in the name of the LORD, who made heaven and earth."
+  }
+ ]
+}

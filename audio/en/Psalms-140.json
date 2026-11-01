@@ -1,0 +1,90 @@
+{
+ "book": "Psalms",
+ "chapter": 140,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-140.mp3",
+ "duration": 96.29,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 9.07,
+   "text": "To the chief Musician, A Psalm of David. Deliver me, O LORD, from the evil man: preserve me from the violent man;"
+  },
+  {
+   "verse": 2,
+   "start": 9.77,
+   "end": 15.0,
+   "text": "Which imagine mischiefs in their heart; continually are they gathered together for war."
+  },
+  {
+   "verse": 3,
+   "start": 15.7,
+   "end": 20.09,
+   "text": "They have sharpened their tongues like a serpent; adders' poison is under their lips. Selah."
+  },
+  {
+   "verse": 4,
+   "start": 20.79,
+   "end": 28.84,
+   "text": "Keep me, O LORD, from the hands of the wicked; preserve me from the violent man; who have purposed to overthrow my goings."
+  },
+  {
+   "verse": 5,
+   "start": 29.54,
+   "end": 37.72,
+   "text": "The proud have hid a snare for me, and cords; they have spread a net by the wayside; they have set gins for me. Selah."
+  },
+  {
+   "verse": 6,
+   "start": 38.42,
+   "end": 43.98,
+   "text": "I said unto the LORD, Thou art my God: hear the voice of my supplications, O LORD."
+  },
+  {
+   "verse": 7,
+   "start": 44.68,
+   "end": 50.49,
+   "text": "O GOD the Lord, the strength of my salvation, thou hast covered my head in the day of battle."
+  },
+  {
+   "verse": 8,
+   "start": 51.19,
+   "end": 58.51,
+   "text": "Grant not, O LORD, the desires of the wicked: further not his wicked device; lest they exalt themselves. Selah."
+  },
+  {
+   "verse": 9,
+   "start": 59.21,
+   "end": 64.94,
+   "text": "As for the head of those that compass me about, let the mischief of their own lips cover them."
+  },
+  {
+   "verse": 10,
+   "start": 65.64,
+   "end": 74.58,
+   "text": "Let burning coals fall upon them: let them be cast into the fire; into deep pits, that they rise not up again."
+  },
+  {
+   "verse": 11,
+   "start": 75.28,
+   "end": 82.65,
+   "text": "Let not an evil speaker be established in the earth: evil shall hunt the violent man to overthrow him."
+  },
+  {
+   "verse": 12,
+   "start": 83.35,
+   "end": 88.57,
+   "text": "I know that the LORD will maintain the cause of the afflicted, and the right of the poor."
+  },
+  {
+   "verse": 13,
+   "start": 89.27,
+   "end": 95.22,
+   "text": "Surely the righteous shall give thanks unto thy name: the upright shall dwell in thy presence."
+  }
+ ]
+}

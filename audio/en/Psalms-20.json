@@ -1,0 +1,66 @@
+{
+ "book": "Psalms",
+ "chapter": 20,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-20.mp3",
+ "duration": 58.25,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 8.96,
+   "text": "To the chief Musician, A Psalm of David. The LORD hear thee in the day of trouble; the name of the God of Jacob defend thee;"
+  },
+  {
+   "verse": 2,
+   "start": 9.66,
+   "end": 13.8,
+   "text": "Send thee help from the sanctuary, and strengthen thee out of Zion;"
+  },
+  {
+   "verse": 3,
+   "start": 14.5,
+   "end": 19.1,
+   "text": "Remember all thy offerings, and accept thy burnt sacrifice; Selah."
+  },
+  {
+   "verse": 4,
+   "start": 19.8,
+   "end": 24.23,
+   "text": "Grant thee according to thine own heart, and fulfil all thy counsel."
+  },
+  {
+   "verse": 5,
+   "start": 24.93,
+   "end": 32.39,
+   "text": "We will rejoice in thy salvation, and in the name of our God we will set up our banners: the LORD fulfil all thy petitions."
+  },
+  {
+   "verse": 6,
+   "start": 33.09,
+   "end": 40.67,
+   "text": "Now know I that the LORD saveth his anointed; he will hear him from his holy heaven with the saving strength of his right hand."
+  },
+  {
+   "verse": 7,
+   "start": 41.37,
+   "end": 47.9,
+   "text": "Some trust in chariots, and some in horses: but we will remember the name of the LORD our God."
+  },
+  {
+   "verse": 8,
+   "start": 48.6,
+   "end": 53.28,
+   "text": "They are brought down and fallen: but we are risen, and stand upright."
+  },
+  {
+   "verse": 9,
+   "start": 53.98,
+   "end": 57.19,
+   "text": "Save, LORD: let the king hear us when we call."
+  }
+ ]
+}

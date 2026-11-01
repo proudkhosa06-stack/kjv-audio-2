@@ -1,0 +1,48 @@
+{
+ "book": "Psalms",
+ "chapter": 23,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-23.mp3",
+ "duration": 46.61,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 4.99,
+   "text": "A Psalm of David. The LORD is my shepherd; I shall not want."
+  },
+  {
+   "verse": 2,
+   "start": 5.69,
+   "end": 11.53,
+   "text": "He maketh me to lie down in green pastures: he leadeth me beside the still waters."
+  },
+  {
+   "verse": 3,
+   "start": 12.23,
+   "end": 17.88,
+   "text": "He restoreth my soul: he leadeth me in the paths of righteousness for his name's sake."
+  },
+  {
+   "verse": 4,
+   "start": 18.58,
+   "end": 28.61,
+   "text": "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me."
+  },
+  {
+   "verse": 5,
+   "start": 29.31,
+   "end": 37.43,
+   "text": "Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over."
+  },
+  {
+   "verse": 6,
+   "start": 38.13,
+   "end": 45.54,
+   "text": "Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the LORD for ever."
+  }
+ ]
+}

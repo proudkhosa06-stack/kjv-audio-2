@@ -1,0 +1,30 @@
+{
+ "book": "Psalms",
+ "chapter": 133,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-133.mp3",
+ "duration": 28.03,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 7.17,
+   "text": "A Song of degrees of David. Behold, how good and how pleasant it is for brethren to dwell together in unity!"
+  },
+  {
+   "verse": 2,
+   "start": 7.87,
+   "end": 16.59,
+   "text": "It is like the precious ointment upon the head, that ran down upon the beard, even Aaron's beard: that went down to the skirts of his garments;"
+  },
+  {
+   "verse": 3,
+   "start": 17.29,
+   "end": 26.97,
+   "text": "As the dew of Hermon, and as the dew that descended upon the mountains of Zion: for there the LORD commanded the blessing, even life for evermore."
+  }
+ ]
+}

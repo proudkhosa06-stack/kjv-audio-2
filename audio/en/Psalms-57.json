@@ -1,0 +1,78 @@
+{
+ "book": "Psalms",
+ "chapter": 57,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-57.mp3",
+ "duration": 93.79,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 19.11,
+   "text": "To the chief Musician, Al-taschith, Michtam of David, when he fled from Saul in the cave. Be merciful unto me, O God, be merciful unto me: for my soul trusteth in thee: yea, in the shadow of thy wings will I make my refuge, until these calamities be overpast."
+  },
+  {
+   "verse": 2,
+   "start": 19.81,
+   "end": 24.54,
+   "text": "I will cry unto God most high; unto God that performeth all things for me."
+  },
+  {
+   "verse": 3,
+   "start": 25.24,
+   "end": 34.91,
+   "text": "He shall send from heaven, and save me from the reproach of him that would swallow me up. Selah. God shall send forth his mercy and his truth."
+  },
+  {
+   "verse": 4,
+   "start": 35.61,
+   "end": 46.38,
+   "text": "My soul is among lions: and I lie even among them that are set on fire, even the sons of men, whose teeth are spears and arrows, and their tongue a sharp sword."
+  },
+  {
+   "verse": 5,
+   "start": 47.08,
+   "end": 52.41,
+   "text": "Be thou exalted, O God, above the heavens; let thy glory be above all the earth."
+  },
+  {
+   "verse": 6,
+   "start": 53.11,
+   "end": 62.79,
+   "text": "They have prepared a net for my steps; my soul is bowed down: they have digged a pit before me, into the midst whereof they are fallen themselves. Selah."
+  },
+  {
+   "verse": 7,
+   "start": 63.49,
+   "end": 68.74,
+   "text": "My heart is fixed, O God, my heart is fixed: I will sing and give praise."
+  },
+  {
+   "verse": 8,
+   "start": 69.44,
+   "end": 75.22,
+   "text": "Awake up, my glory; awake, psaltery and harp: I myself will awake early."
+  },
+  {
+   "verse": 9,
+   "start": 75.92,
+   "end": 81.86,
+   "text": "I will praise thee, O Lord, among the people: I will sing unto thee among the nations."
+  },
+  {
+   "verse": 10,
+   "start": 82.56,
+   "end": 86.71,
+   "text": "For thy mercy is great unto the heavens, and thy truth unto the clouds."
+  },
+  {
+   "verse": 11,
+   "start": 87.41,
+   "end": 92.74,
+   "text": "Be thou exalted, O God, above the heavens: let thy glory be above all the earth."
+  }
+ ]
+}

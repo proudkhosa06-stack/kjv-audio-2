@@ -1,0 +1,30 @@
+{
+ "book": "Psalms",
+ "chapter": 131,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-131.mp3",
+ "duration": 25.54,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 11.86,
+   "text": "A Song of degrees of David. LORD, my heart is not haughty, nor mine eyes lofty: neither do I exercise myself in great matters, or in things too high for me."
+  },
+  {
+   "verse": 2,
+   "start": 12.56,
+   "end": 20.45,
+   "text": "Surely I have behaved and quieted myself, as a child that is weaned of his mother: my soul is even as a weaned child."
+  },
+  {
+   "verse": 3,
+   "start": 21.15,
+   "end": 24.48,
+   "text": "Let Israel hope in the LORD from henceforth and for ever."
+  }
+ ]
+}

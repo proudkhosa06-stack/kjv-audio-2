@@ -1,0 +1,90 @@
+{
+ "book": "Psalms",
+ "chapter": 108,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-108.mp3",
+ "duration": 87.22,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 9.42,
+   "text": "A Song or Psalm of David. O God, my heart is fixed; I will sing and give praise, even with my glory."
+  },
+  {
+   "verse": 2,
+   "start": 10.12,
+   "end": 14.02,
+   "text": "Awake, psaltery and harp: I myself will awake early."
+  },
+  {
+   "verse": 3,
+   "start": 14.72,
+   "end": 20.83,
+   "text": "I will praise thee, O LORD, among the people: and I will sing praises unto thee among the nations."
+  },
+  {
+   "verse": 4,
+   "start": 21.53,
+   "end": 26.19,
+   "text": "For thy mercy is great above the heavens: and thy truth reacheth unto the clouds."
+  },
+  {
+   "verse": 5,
+   "start": 26.89,
+   "end": 31.58,
+   "text": "Be thou exalted, O God, above the heavens: and thy glory above all the earth;"
+  },
+  {
+   "verse": 6,
+   "start": 32.28,
+   "end": 37.08,
+   "text": "That thy beloved may be delivered: save with thy right hand, and answer me."
+  },
+  {
+   "verse": 7,
+   "start": 37.78,
+   "end": 45.33,
+   "text": "God hath spoken in his holiness; I will rejoice, I will divide Shechem, and mete out the valley of Succoth."
+  },
+  {
+   "verse": 8,
+   "start": 46.03,
+   "end": 54.94,
+   "text": "Gilead is mine; Manasseh is mine; Ephraim also is the strength of mine head; Judah is my lawgiver;"
+  },
+  {
+   "verse": 9,
+   "start": 55.64,
+   "end": 62.53,
+   "text": "Moab is my washpot; over Edom will I cast out my shoe; over Philistia will I triumph."
+  },
+  {
+   "verse": 10,
+   "start": 63.23,
+   "end": 67.63,
+   "text": "Who will bring me into the strong city? who will lead me into Edom?"
+  },
+  {
+   "verse": 11,
+   "start": 68.33,
+   "end": 75.67,
+   "text": "Wilt not thou, O God, who hast cast us off? and wilt not thou, O God, go forth with our hosts?"
+  },
+  {
+   "verse": 12,
+   "start": 76.37,
+   "end": 79.79,
+   "text": "Give us help from trouble: for vain is the help of man."
+  },
+  {
+   "verse": 13,
+   "start": 80.49,
+   "end": 86.16,
+   "text": "Through God we shall do valiantly: for he it is that shall tread down our enemies."
+  }
+ ]
+}

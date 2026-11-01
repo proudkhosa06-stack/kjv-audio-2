@@ -1,0 +1,24 @@
+{
+ "book": "Psalms",
+ "chapter": 117,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-117.mp3",
+ "duration": 13.73,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 4.54,
+   "text": "O praise the LORD, all ye nations: praise him, all ye people."
+  },
+  {
+   "verse": 2,
+   "start": 5.24,
+   "end": 12.67,
+   "text": "For his merciful kindness is great toward us: and the truth of the LORD endureth for ever. Praise ye the LORD."
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "book": "Psalms",
+ "chapter": 54,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-54.mp3",
+ "duration": 52.66,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 14.96,
+   "text": "To the chief Musician on Neginoth, Maschil, A Psalm of David, when the Ziphims came and said to Saul, Doth not David hide himself with us? Save me, O God, by thy name, and judge me by thy strength."
+  },
+  {
+   "verse": 2,
+   "start": 15.66,
+   "end": 19.57,
+   "text": "Hear my prayer, O God; give ear to the words of my mouth."
+  },
+  {
+   "verse": 3,
+   "start": 20.27,
+   "end": 27.83,
+   "text": "For strangers are risen up against me, and oppressors seek after my soul: they have not set God before them. Selah."
+  },
+  {
+   "verse": 4,
+   "start": 28.53,
+   "end": 32.8,
+   "text": "Behold, God is mine helper: the Lord is with them that uphold my soul."
+  },
+  {
+   "verse": 5,
+   "start": 33.5,
+   "end": 37.94,
+   "text": "He shall reward evil unto mine enemies: cut them off in thy truth."
+  },
+  {
+   "verse": 6,
+   "start": 38.64,
+   "end": 44.89,
+   "text": "I will freely sacrifice unto thee: I will praise thy name, O LORD; for it is good."
+  },
+  {
+   "verse": 7,
+   "start": 45.59,
+   "end": 51.6,
+   "text": "For he hath delivered me out of all trouble: and mine eye hath seen his desire upon mine enemies."
+  }
+ ]
+}

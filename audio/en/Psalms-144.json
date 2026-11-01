@@ -1,0 +1,102 @@
+{
+ "book": "Psalms",
+ "chapter": 144,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-144.mp3",
+ "duration": 118.9,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 7.43,
+   "text": "A Psalm of David. Blessed be the LORD my strength, which teacheth my hands to war, and my fingers to fight:"
+  },
+  {
+   "verse": 2,
+   "start": 8.13,
+   "end": 16.99,
+   "text": "My goodness, and my fortress; my high tower, and my deliverer; my shield, and he in whom I trust; who subdueth my people under me."
+  },
+  {
+   "verse": 3,
+   "start": 17.69,
+   "end": 25.69,
+   "text": "LORD, what is man, that thou takest knowledge of him! or the son of man, that thou makest account of him!"
+  },
+  {
+   "verse": 4,
+   "start": 26.39,
+   "end": 30.79,
+   "text": "Man is like to vanity: his days are as a shadow that passeth away."
+  },
+  {
+   "verse": 5,
+   "start": 31.49,
+   "end": 36.53,
+   "text": "Bow thy heavens, O LORD, and come down: touch the mountains, and they shall smoke."
+  },
+  {
+   "verse": 6,
+   "start": 37.23,
+   "end": 42.13,
+   "text": "Cast forth lightning, and scatter them: shoot out thine arrows, and destroy them."
+  },
+  {
+   "verse": 7,
+   "start": 42.83,
+   "end": 50.4,
+   "text": "Send thine hand from above; rid me, and deliver me out of great waters, from the hand of strange children;"
+  },
+  {
+   "verse": 8,
+   "start": 51.1,
+   "end": 55.99,
+   "text": "Whose mouth speaketh vanity, and their right hand is a right hand of falsehood."
+  },
+  {
+   "verse": 9,
+   "start": 56.69,
+   "end": 64.71,
+   "text": "I will sing a new song unto thee, O God: upon a psaltery and an instrument of ten strings will I sing praises unto thee."
+  },
+  {
+   "verse": 10,
+   "start": 65.41,
+   "end": 71.5,
+   "text": "It is he that giveth salvation unto kings: who delivereth David his servant from the hurtful sword."
+  },
+  {
+   "verse": 11,
+   "start": 72.2,
+   "end": 80.73,
+   "text": "Rid me, and deliver me from the hand of strange children, whose mouth speaketh vanity, and their right hand is a right hand of falsehood:"
+  },
+  {
+   "verse": 12,
+   "start": 81.43,
+   "end": 90.59,
+   "text": "That our sons may be as plants grown up in their youth; that our daughters may be as corner stones, polished after the similitude of a palace:"
+  },
+  {
+   "verse": 13,
+   "start": 91.29,
+   "end": 100.51,
+   "text": "That our garners may be full, affording all manner of store: that our sheep may bring forth thousands and ten thousands in our streets:"
+  },
+  {
+   "verse": 14,
+   "start": 101.21,
+   "end": 109.97,
+   "text": "That our oxen may be strong to labour; that there be no breaking in, nor going out; that there be no complaining in our streets."
+  },
+  {
+   "verse": 15,
+   "start": 110.67,
+   "end": 117.83,
+   "text": "Happy is that people, that is in such a case: yea, happy is that people, whose God is the LORD."
+  }
+ ]
+}

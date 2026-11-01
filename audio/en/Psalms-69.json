@@ -1,0 +1,228 @@
+{
+ "book": "Psalms",
+ "chapter": 69,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-69.mp3",
+ "duration": 255.82,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 8.83,
+   "text": "To the chief Musician upon Shoshannim, A Psalm of David. Save me, O God; for the waters are come in unto my soul."
+  },
+  {
+   "verse": 2,
+   "start": 9.53,
+   "end": 16.28,
+   "text": "I sink in deep mire, where there is no standing: I am come into deep waters, where the floods overflow me."
+  },
+  {
+   "verse": 3,
+   "start": 16.98,
+   "end": 22.86,
+   "text": "I am weary of my crying: my throat is dried: mine eyes fail while I wait for my God."
+  },
+  {
+   "verse": 4,
+   "start": 23.56,
+   "end": 36.25,
+   "text": "They that hate me without a cause are more than the hairs of mine head: they that would destroy me, being mine enemies wrongfully, are mighty: then I restored that which I took not away."
+  },
+  {
+   "verse": 5,
+   "start": 36.95,
+   "end": 41.35,
+   "text": "O God, thou knowest my foolishness; and my sins are not hid from thee."
+  },
+  {
+   "verse": 6,
+   "start": 42.05,
+   "end": 52.84,
+   "text": "Let not them that wait on thee, O Lord GOD of hosts, be ashamed for my sake: let not those that seek thee be confounded for my sake, O God of Israel."
+  },
+  {
+   "verse": 7,
+   "start": 53.54,
+   "end": 58.49,
+   "text": "Because for thy sake I have borne reproach; shame hath covered my face."
+  },
+  {
+   "verse": 8,
+   "start": 59.19,
+   "end": 64.07,
+   "text": "I am become a stranger unto my brethren, and an alien unto my mother's children."
+  },
+  {
+   "verse": 9,
+   "start": 64.77,
+   "end": 72.81,
+   "text": "For the zeal of thine house hath eaten me up; and the reproaches of them that reproached thee are fallen upon me."
+  },
+  {
+   "verse": 10,
+   "start": 73.51,
+   "end": 78.62,
+   "text": "When I wept, and chastened my soul with fasting, that was to my reproach."
+  },
+  {
+   "verse": 11,
+   "start": 79.32,
+   "end": 83.94,
+   "text": "I made sackcloth also my garment; and I became a proverb to them."
+  },
+  {
+   "verse": 12,
+   "start": 84.64,
+   "end": 89.94,
+   "text": "They that sit in the gate speak against me; and I was the song of the drunkards."
+  },
+  {
+   "verse": 13,
+   "start": 90.64,
+   "end": 101.84,
+   "text": "But as for me, my prayer is unto thee, O LORD, in an acceptable time: O God, in the multitude of thy mercy hear me, in the truth of thy salvation."
+  },
+  {
+   "verse": 14,
+   "start": 102.54,
+   "end": 110.66,
+   "text": "Deliver me out of the mire, and let me not sink: let me be delivered from them that hate me, and out of the deep waters."
+  },
+  {
+   "verse": 15,
+   "start": 111.36,
+   "end": 118.98,
+   "text": "Let not the waterflood overflow me, neither let the deep swallow me up, and let not the pit shut her mouth upon me."
+  },
+  {
+   "verse": 16,
+   "start": 119.68,
+   "end": 126.71,
+   "text": "Hear me, O LORD; for thy lovingkindness is good: turn unto me according to the multitude of thy tender mercies."
+  },
+  {
+   "verse": 17,
+   "start": 127.41,
+   "end": 132.23,
+   "text": "And hide not thy face from thy servant; for I am in trouble: hear me speedily."
+  },
+  {
+   "verse": 18,
+   "start": 132.93,
+   "end": 138.33,
+   "text": "Draw nigh unto my soul, and redeem it: deliver me because of mine enemies."
+  },
+  {
+   "verse": 19,
+   "start": 139.03,
+   "end": 145.41,
+   "text": "Thou hast known my reproach, and my shame, and my dishonour: mine adversaries are all before thee."
+  },
+  {
+   "verse": 20,
+   "start": 146.11,
+   "end": 157.26,
+   "text": "Reproach hath broken my heart; and I am full of heaviness: and I looked for some to take pity, but there was none; and for comforters, but I found none."
+  },
+  {
+   "verse": 21,
+   "start": 157.96,
+   "end": 163.71,
+   "text": "They gave me also gall for my meat; and in my thirst they gave me vinegar to drink."
+  },
+  {
+   "verse": 22,
+   "start": 164.41,
+   "end": 171.09,
+   "text": "Let their table become a snare before them: and that which should have been for their welfare, let it become a trap."
+  },
+  {
+   "verse": 23,
+   "start": 171.79,
+   "end": 177.71,
+   "text": "Let their eyes be darkened, that they see not; and make their loins continually to shake."
+  },
+  {
+   "verse": 24,
+   "start": 178.41,
+   "end": 183.73,
+   "text": "Pour out thine indignation upon them, and let thy wrathful anger take hold of them."
+  },
+  {
+   "verse": 25,
+   "start": 184.43,
+   "end": 188.54,
+   "text": "Let their habitation be desolate; and let none dwell in their tents."
+  },
+  {
+   "verse": 26,
+   "start": 189.24,
+   "end": 196.27,
+   "text": "For they persecute him whom thou hast smitten; and they talk to the grief of those whom thou hast wounded."
+  },
+  {
+   "verse": 27,
+   "start": 196.97,
+   "end": 201.71,
+   "text": "Add iniquity unto their iniquity: and let them not come into thy righteousness."
+  },
+  {
+   "verse": 28,
+   "start": 202.41,
+   "end": 207.42,
+   "text": "Let them be blotted out of the book of the living, and not be written with the righteous."
+  },
+  {
+   "verse": 29,
+   "start": 208.12,
+   "end": 213.66,
+   "text": "But I am poor and sorrowful: let thy salvation, O God, set me up on high."
+  },
+  {
+   "verse": 30,
+   "start": 214.36,
+   "end": 219.41,
+   "text": "I will praise the name of God with a song, and will magnify him with thanksgiving."
+  },
+  {
+   "verse": 31,
+   "start": 220.11,
+   "end": 225.39,
+   "text": "This also shall please the LORD better than an ox or bullock that hath horns and hoofs."
+  },
+  {
+   "verse": 32,
+   "start": 226.09,
+   "end": 230.58,
+   "text": "The humble shall see this, and be glad: and your heart shall live that seek God."
+  },
+  {
+   "verse": 33,
+   "start": 231.28,
+   "end": 235.24,
+   "text": "For the LORD heareth the poor, and despiseth not his prisoners."
+  },
+  {
+   "verse": 34,
+   "start": 235.94,
+   "end": 241.46,
+   "text": "Let the heaven and earth praise him, the seas, and every thing that moveth therein."
+  },
+  {
+   "verse": 35,
+   "start": 242.16,
+   "end": 248.79,
+   "text": "For God will save Zion, and will build the cities of Judah: that they may dwell there, and have it in possession."
+  },
+  {
+   "verse": 36,
+   "start": 249.49,
+   "end": 254.76,
+   "text": "The seed also of his servants shall inherit it: and they that love his name shall dwell therein."
+  }
+ ]
+}

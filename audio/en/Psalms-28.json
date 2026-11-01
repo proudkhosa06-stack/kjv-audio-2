@@ -1,0 +1,66 @@
+{
+ "book": "Psalms",
+ "chapter": 28,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-28.mp3",
+ "duration": 77.21,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 12.08,
+   "text": "A Psalm of David. Unto thee will I cry, O LORD my rock; be not silent to me: lest, if thou be silent to me, I become like them that go down into the pit."
+  },
+  {
+   "verse": 2,
+   "start": 12.78,
+   "end": 20.37,
+   "text": "Hear the voice of my supplications, when I cry unto thee, when I lift up my hands toward thy holy oracle."
+  },
+  {
+   "verse": 3,
+   "start": 21.07,
+   "end": 29.95,
+   "text": "Draw me not away with the wicked, and with the workers of iniquity, which speak peace to their neighbours, but mischief is in their hearts."
+  },
+  {
+   "verse": 4,
+   "start": 30.65,
+   "end": 39.28,
+   "text": "Give them according to their deeds, and according to the wickedness of their endeavours: give them after the work of their hands; render to them their desert."
+  },
+  {
+   "verse": 5,
+   "start": 39.98,
+   "end": 48.05,
+   "text": "Because they regard not the works of the LORD, nor the operation of his hands, he shall destroy them, and not build them up."
+  },
+  {
+   "verse": 6,
+   "start": 48.75,
+   "end": 53.38,
+   "text": "Blessed be the LORD, because he hath heard the voice of my supplications."
+  },
+  {
+   "verse": 7,
+   "start": 54.08,
+   "end": 64.35,
+   "text": "The LORD is my strength and my shield; my heart trusted in him, and I am helped: therefore my heart greatly rejoiceth; and with my song will I praise him."
+  },
+  {
+   "verse": 8,
+   "start": 65.05,
+   "end": 69.47,
+   "text": "The LORD is their strength, and he is the saving strength of his anointed."
+  },
+  {
+   "verse": 9,
+   "start": 70.17,
+   "end": 76.15,
+   "text": "Save thy people, and bless thine inheritance: feed them also, and lift them up for ever."
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "book": "Psalms",
+ "chapter": 114,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-114.mp3",
+ "duration": 44.09,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 5.86,
+   "text": "When Israel went out of Egypt, the house of Jacob from a people of strange language;"
+  },
+  {
+   "verse": 2,
+   "start": 6.56,
+   "end": 9.96,
+   "text": "Judah was his sanctuary, and Israel his dominion."
+  },
+  {
+   "verse": 3,
+   "start": 10.66,
+   "end": 13.85,
+   "text": "The sea saw it, and fled: Jordan was driven back."
+  },
+  {
+   "verse": 4,
+   "start": 14.55,
+   "end": 18.63,
+   "text": "The mountains skipped like rams, and the little hills like lambs."
+  },
+  {
+   "verse": 5,
+   "start": 19.33,
+   "end": 25.15,
+   "text": "What ailed thee, O thou sea, that thou fleddest? thou Jordan, that thou wast driven back?"
+  },
+  {
+   "verse": 6,
+   "start": 25.85,
+   "end": 30.89,
+   "text": "Ye mountains, that ye skipped like rams; and ye little hills, like lambs?"
+  },
+  {
+   "verse": 7,
+   "start": 31.59,
+   "end": 37.67,
+   "text": "Tremble, thou earth, at the presence of the Lord, at the presence of the God of Jacob;"
+  },
+  {
+   "verse": 8,
+   "start": 38.37,
+   "end": 43.03,
+   "text": "Which turned the rock into a standing water, the flint into a fountain of waters."
+  }
+ ]
+}

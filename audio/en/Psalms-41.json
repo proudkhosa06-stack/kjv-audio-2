@@ -1,0 +1,90 @@
+{
+ "book": "Psalms",
+ "chapter": 41,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-41.mp3",
+ "duration": 96.96,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 9.94,
+   "text": "To the chief Musician, A Psalm of David. Blessed is he that considereth the poor: the LORD will deliver him in time of trouble."
+  },
+  {
+   "verse": 2,
+   "start": 10.64,
+   "end": 20.22,
+   "text": "The LORD will preserve him, and keep him alive; and he shall be blessed upon the earth: and thou wilt not deliver him unto the will of his enemies."
+  },
+  {
+   "verse": 3,
+   "start": 20.92,
+   "end": 26.56,
+   "text": "The LORD will strengthen him upon the bed of languishing: thou wilt make all his bed in his sickness."
+  },
+  {
+   "verse": 4,
+   "start": 27.26,
+   "end": 32.8,
+   "text": "I said, LORD, be merciful unto me: heal my soul; for I have sinned against thee."
+  },
+  {
+   "verse": 5,
+   "start": 33.5,
+   "end": 37.9,
+   "text": "Mine enemies speak evil of me, When shall he die, and his name perish?"
+  },
+  {
+   "verse": 6,
+   "start": 38.6,
+   "end": 46.25,
+   "text": "And if he come to see me, he speaketh vanity: his heart gathereth iniquity to itself; when he goeth abroad, he telleth it."
+  },
+  {
+   "verse": 7,
+   "start": 46.95,
+   "end": 51.5,
+   "text": "All that hate me whisper together against me: against me do they devise my hurt."
+  },
+  {
+   "verse": 8,
+   "start": 52.2,
+   "end": 59.24,
+   "text": "An evil disease, say they, cleaveth fast unto him: and now that he lieth he shall rise up no more."
+  },
+  {
+   "verse": 9,
+   "start": 59.94,
+   "end": 68.32,
+   "text": "Yea, mine own familiar friend, in whom I trusted, which did eat of my bread, hath lifted up his heel against me."
+  },
+  {
+   "verse": 10,
+   "start": 69.02,
+   "end": 75.07,
+   "text": "But thou, O LORD, be merciful unto me, and raise me up, that I may requite them."
+  },
+  {
+   "verse": 11,
+   "start": 75.77,
+   "end": 80.82,
+   "text": "By this I know that thou favourest me, because mine enemy doth not triumph over me."
+  },
+  {
+   "verse": 12,
+   "start": 81.52,
+   "end": 87.9,
+   "text": "And as for me, thou upholdest me in mine integrity, and settest me before thy face for ever."
+  },
+  {
+   "verse": 13,
+   "start": 88.6,
+   "end": 95.9,
+   "text": "Blessed be the LORD God of Israel from everlasting, and to everlasting. Amen, and Amen."
+  }
+ ]
+}

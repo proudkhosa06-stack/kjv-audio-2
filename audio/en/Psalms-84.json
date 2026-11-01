@@ -1,0 +1,84 @@
+{
+ "book": "Psalms",
+ "chapter": 84,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-84.mp3",
+ "duration": 88.08,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 8.79,
+   "text": "To the chief Musician upon Gittith, A Psalm for the sons of Korah. How amiable are thy tabernacles, O LORD of hosts!"
+  },
+  {
+   "verse": 2,
+   "start": 9.49,
+   "end": 18.33,
+   "text": "My soul longeth, yea, even fainteth for the courts of the LORD: my heart and my flesh crieth out for the living God."
+  },
+  {
+   "verse": 3,
+   "start": 19.03,
+   "end": 30.37,
+   "text": "Yea, the sparrow hath found an house, and the swallow a nest for herself, where she may lay her young, even thine altars, O LORD of hosts, my King, and my God."
+  },
+  {
+   "verse": 4,
+   "start": 31.07,
+   "end": 35.64,
+   "text": "Blessed are they that dwell in thy house: they will be still praising thee. Selah."
+  },
+  {
+   "verse": 5,
+   "start": 36.34,
+   "end": 41.4,
+   "text": "Blessed is the man whose strength is in thee; in whose heart are the ways of them."
+  },
+  {
+   "verse": 6,
+   "start": 42.1,
+   "end": 47.53,
+   "text": "Who passing through the valley of Baca make it a well; the rain also filleth the pools."
+  },
+  {
+   "verse": 7,
+   "start": 48.23,
+   "end": 52.9,
+   "text": "They go from strength to strength, every one of them in Zion appeareth before God."
+  },
+  {
+   "verse": 8,
+   "start": 53.6,
+   "end": 58.07,
+   "text": "O LORD God of hosts, hear my prayer: give ear, O God of Jacob. Selah."
+  },
+  {
+   "verse": 9,
+   "start": 58.77,
+   "end": 63.66,
+   "text": "Behold, O God our shield, and look upon the face of thine anointed."
+  },
+  {
+   "verse": 10,
+   "start": 64.36,
+   "end": 73.08,
+   "text": "For a day in thy courts is better than a thousand. I had rather be a doorkeeper in the house of my God, than to dwell in the tents of wickedness."
+  },
+  {
+   "verse": 11,
+   "start": 73.78,
+   "end": 82.58,
+   "text": "For the LORD God is a sun and shield: the LORD will give grace and glory: no good thing will he withhold from them that walk uprightly."
+  },
+  {
+   "verse": 12,
+   "start": 83.28,
+   "end": 87.01,
+   "text": "O LORD of hosts, blessed is the man that trusteth in thee."
+  }
+ ]
+}

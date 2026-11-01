@@ -1,0 +1,96 @@
+{
+ "book": "Psalms",
+ "chapter": 27,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-27.mp3",
+ "duration": 123.24,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 10.4,
+   "text": "A Psalm of David. The LORD is my light and my salvation; whom shall I fear? the LORD is the strength of my life; of whom shall I be afraid?"
+  },
+  {
+   "verse": 2,
+   "start": 11.1,
+   "end": 18.05,
+   "text": "When the wicked, even mine enemies and my foes, came upon me to eat up my flesh, they stumbled and fell."
+  },
+  {
+   "verse": 3,
+   "start": 18.75,
+   "end": 26.89,
+   "text": "Though an host should encamp against me, my heart shall not fear: though war should rise against me, in this will I be confident."
+  },
+  {
+   "verse": 4,
+   "start": 27.59,
+   "end": 39.58,
+   "text": "One thing have I desired of the LORD, that will I seek after; that I may dwell in the house of the LORD all the days of my life, to behold the beauty of the LORD, and to enquire in his temple."
+  },
+  {
+   "verse": 5,
+   "start": 40.28,
+   "end": 48.75,
+   "text": "For in the time of trouble he shall hide me in his pavilion: in the secret of his tabernacle shall he hide me; he shall set me up upon a rock."
+  },
+  {
+   "verse": 6,
+   "start": 49.45,
+   "end": 63.44,
+   "text": "And now shall mine head be lifted up above mine enemies round about me: therefore will I offer in his tabernacle sacrifices of joy; I will sing, yea, I will sing praises unto the LORD."
+  },
+  {
+   "verse": 7,
+   "start": 64.14,
+   "end": 69.9,
+   "text": "Hear, O LORD, when I cry with my voice: have mercy also upon me, and answer me."
+  },
+  {
+   "verse": 8,
+   "start": 70.6,
+   "end": 77.07,
+   "text": "When thou saidst, Seek ye my face; my heart said unto thee, Thy face, LORD, will I seek."
+  },
+  {
+   "verse": 9,
+   "start": 77.77,
+   "end": 88.46,
+   "text": "Hide not thy face far from me; put not thy servant away in anger: thou hast been my help; leave me not, neither forsake me, O God of my salvation."
+  },
+  {
+   "verse": 10,
+   "start": 89.16,
+   "end": 93.42,
+   "text": "When my father and my mother forsake me, then the LORD will take me up."
+  },
+  {
+   "verse": 11,
+   "start": 94.12,
+   "end": 99.61,
+   "text": "Teach me thy way, O LORD, and lead me in a plain path, because of mine enemies."
+  },
+  {
+   "verse": 12,
+   "start": 100.31,
+   "end": 108.12,
+   "text": "Deliver me not over unto the will of mine enemies: for false witnesses are risen up against me, and such as breathe out cruelty."
+  },
+  {
+   "verse": 13,
+   "start": 108.82,
+   "end": 114.45,
+   "text": "I had fainted, unless I had believed to see the goodness of the LORD in the land of the living."
+  },
+  {
+   "verse": 14,
+   "start": 115.15,
+   "end": 122.19,
+   "text": "Wait on the LORD: be of good courage, and he shall strengthen thine heart: wait, I say, on the LORD."
+  }
+ ]
+}

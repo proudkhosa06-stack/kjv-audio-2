@@ -1,0 +1,72 @@
+{
+ "book": "Psalms",
+ "chapter": 146,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-146.mp3",
+ "duration": 69.46,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 3.63,
+   "text": "Praise ye the LORD. Praise the LORD, O my soul."
+  },
+  {
+   "verse": 2,
+   "start": 4.33,
+   "end": 9.88,
+   "text": "While I live will I praise the LORD: I will sing praises unto my God while I have any being."
+  },
+  {
+   "verse": 3,
+   "start": 10.58,
+   "end": 16.34,
+   "text": "Put not your trust in princes, nor in the son of man, in whom there is no help."
+  },
+  {
+   "verse": 4,
+   "start": 17.04,
+   "end": 23.13,
+   "text": "His breath goeth forth, he returneth to his earth; in that very day his thoughts perish."
+  },
+  {
+   "verse": 5,
+   "start": 23.83,
+   "end": 29.05,
+   "text": "Happy is he that hath the God of Jacob for his help, whose hope is in the LORD his God:"
+  },
+  {
+   "verse": 6,
+   "start": 29.75,
+   "end": 35.92,
+   "text": "Which made heaven, and earth, the sea, and all that therein is: which keepeth truth for ever:"
+  },
+  {
+   "verse": 7,
+   "start": 36.62,
+   "end": 43.56,
+   "text": "Which executeth judgment for the oppressed: which giveth food to the hungry. The LORD looseth the prisoners:"
+  },
+  {
+   "verse": 8,
+   "start": 44.26,
+   "end": 51.91,
+   "text": "The LORD openeth the eyes of the blind: the LORD raiseth them that are bowed down: the LORD loveth the righteous:"
+  },
+  {
+   "verse": 9,
+   "start": 52.61,
+   "end": 59.98,
+   "text": "The LORD preserveth the strangers; he relieveth the fatherless and widow: but the way of the wicked he turneth upside down."
+  },
+  {
+   "verse": 10,
+   "start": 60.68,
+   "end": 68.4,
+   "text": "The LORD shall reign for ever, even thy God, O Zion, unto all generations. Praise ye the LORD."
+  }
+ ]
+}

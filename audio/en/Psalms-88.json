@@ -1,0 +1,120 @@
+{
+ "book": "Psalms",
+ "chapter": 88,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-88.mp3",
+ "duration": 124.25,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 15.42,
+   "text": "A Song or Psalm for the sons of Korah, to the chief Musician upon Mahalath Leannoth, Maschil of Heman the Ezrahite. O LORD God of my salvation, I have cried day and night before thee:"
+  },
+  {
+   "verse": 2,
+   "start": 16.12,
+   "end": 20.79,
+   "text": "Let my prayer come before thee: incline thine ear unto my cry;"
+  },
+  {
+   "verse": 3,
+   "start": 21.49,
+   "end": 26.56,
+   "text": "For my soul is full of troubles: and my life draweth nigh unto the grave."
+  },
+  {
+   "verse": 4,
+   "start": 27.26,
+   "end": 32.06,
+   "text": "I am counted with them that go down into the pit: I am as a man that hath no strength:"
+  },
+  {
+   "verse": 5,
+   "start": 32.76,
+   "end": 40.4,
+   "text": "Free among the dead, like the slain that lie in the grave, whom thou rememberest no more: and they are cut off from thy hand."
+  },
+  {
+   "verse": 6,
+   "start": 41.1,
+   "end": 45.28,
+   "text": "Thou hast laid me in the lowest pit, in darkness, in the deeps."
+  },
+  {
+   "verse": 7,
+   "start": 45.98,
+   "end": 51.45,
+   "text": "Thy wrath lieth hard upon me, and thou hast afflicted me with all thy waves. Selah."
+  },
+  {
+   "verse": 8,
+   "start": 52.15,
+   "end": 61.23,
+   "text": "Thou hast put away mine acquaintance far from me; thou hast made me an abomination unto them: I am shut up, and I cannot come forth."
+  },
+  {
+   "verse": 9,
+   "start": 61.93,
+   "end": 69.78,
+   "text": "Mine eye mourneth by reason of affliction: LORD, I have called daily upon thee, I have stretched out my hands unto thee."
+  },
+  {
+   "verse": 10,
+   "start": 70.48,
+   "end": 75.51,
+   "text": "Wilt thou shew wonders to the dead? shall the dead arise and praise thee? Selah."
+  },
+  {
+   "verse": 11,
+   "start": 76.21,
+   "end": 82.17,
+   "text": "Shall thy lovingkindness be declared in the grave? or thy faithfulness in destruction?"
+  },
+  {
+   "verse": 12,
+   "start": 82.87,
+   "end": 88.36,
+   "text": "Shall thy wonders be known in the dark? and thy righteousness in the land of forgetfulness?"
+  },
+  {
+   "verse": 13,
+   "start": 89.06,
+   "end": 94.03,
+   "text": "But unto thee have I cried, O LORD; and in the morning shall my prayer prevent thee."
+  },
+  {
+   "verse": 14,
+   "start": 94.73,
+   "end": 99.78,
+   "text": "LORD, why castest thou off my soul? why hidest thou thy face from me?"
+  },
+  {
+   "verse": 15,
+   "start": 100.48,
+   "end": 107.34,
+   "text": "I am afflicted and ready to die from my youth up: while I suffer thy terrors I am distracted."
+  },
+  {
+   "verse": 16,
+   "start": 108.04,
+   "end": 112.45,
+   "text": "Thy fierce wrath goeth over me; thy terrors have cut me off."
+  },
+  {
+   "verse": 17,
+   "start": 113.15,
+   "end": 117.65,
+   "text": "They came round about me daily like water; they compassed me about together."
+  },
+  {
+   "verse": 18,
+   "start": 118.35,
+   "end": 123.2,
+   "text": "Lover and friend hast thou put far from me, and mine acquaintance into darkness."
+  }
+ ]
+}

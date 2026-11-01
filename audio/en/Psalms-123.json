@@ -1,0 +1,36 @@
+{
+ "book": "Psalms",
+ "chapter": 123,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-123.mp3",
+ "duration": 35.18,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 6.33,
+   "text": "A Song of degrees. Unto thee lift I up mine eyes, O thou that dwellest in the heavens."
+  },
+  {
+   "verse": 2,
+   "start": 7.03,
+   "end": 20.44,
+   "text": "Behold, as the eyes of servants look unto the hand of their masters, and as the eyes of a maiden unto the hand of her mistress; so our eyes wait upon the LORD our God, until that he have mercy upon us."
+  },
+  {
+   "verse": 3,
+   "start": 21.14,
+   "end": 27.07,
+   "text": "Have mercy upon us, O LORD, have mercy upon us: for we are exceedingly filled with contempt."
+  },
+  {
+   "verse": 4,
+   "start": 27.77,
+   "end": 34.12,
+   "text": "Our soul is exceedingly filled with the scorning of those that are at ease, and with the contempt of the proud."
+  }
+ ]
+}

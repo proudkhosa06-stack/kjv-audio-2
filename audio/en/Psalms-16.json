@@ -1,0 +1,78 @@
+{
+ "book": "Psalms",
+ "chapter": 16,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-16.mp3",
+ "duration": 80.5,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 5.68,
+   "text": "Michtam of David. Preserve me, O God: for in thee do I put my trust."
+  },
+  {
+   "verse": 2,
+   "start": 6.38,
+   "end": 12.71,
+   "text": "O my soul, thou hast said unto the LORD, Thou art my Lord: my goodness extendeth not to thee;"
+  },
+  {
+   "verse": 3,
+   "start": 13.41,
+   "end": 18.74,
+   "text": "But to the saints that are in the earth, and to the excellent, in whom is all my delight."
+  },
+  {
+   "verse": 4,
+   "start": 19.44,
+   "end": 29.14,
+   "text": "Their sorrows shall be multiplied that hasten after another god: their drink offerings of blood will I not offer, nor take up their names into my lips."
+  },
+  {
+   "verse": 5,
+   "start": 29.84,
+   "end": 35.02,
+   "text": "The LORD is the portion of mine inheritance and of my cup: thou maintainest my lot."
+  },
+  {
+   "verse": 6,
+   "start": 35.72,
+   "end": 41.12,
+   "text": "The lines are fallen unto me in pleasant places; yea, I have a goodly heritage."
+  },
+  {
+   "verse": 7,
+   "start": 41.82,
+   "end": 48.12,
+   "text": "I will bless the LORD, who hath given me counsel: my reins also instruct me in the night seasons."
+  },
+  {
+   "verse": 8,
+   "start": 48.82,
+   "end": 55.37,
+   "text": "I have set the LORD always before me: because he is at my right hand, I shall not be moved."
+  },
+  {
+   "verse": 9,
+   "start": 56.07,
+   "end": 62.56,
+   "text": "Therefore my heart is glad, and my glory rejoiceth: my flesh also shall rest in hope."
+  },
+  {
+   "verse": 10,
+   "start": 63.26,
+   "end": 69.76,
+   "text": "For thou wilt not leave my soul in hell; neither wilt thou suffer thine Holy One to see corruption."
+  },
+  {
+   "verse": 11,
+   "start": 70.46,
+   "end": 79.44,
+   "text": "Thou wilt shew me the path of life: in thy presence is fulness of joy; at thy right hand there are pleasures for evermore."
+  }
+ ]
+}

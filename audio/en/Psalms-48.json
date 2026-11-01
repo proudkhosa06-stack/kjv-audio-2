@@ -1,0 +1,96 @@
+{
+ "book": "Psalms",
+ "chapter": 48,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-48.mp3",
+ "duration": 90.5,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 10.3,
+   "text": "A Song and Psalm for the sons of Korah. Great is the LORD, and greatly to be praised in the city of our God, in the mountain of his holiness."
+  },
+  {
+   "verse": 2,
+   "start": 11.0,
+   "end": 18.91,
+   "text": "Beautiful for situation, the joy of the whole earth, is mount Zion, on the sides of the north, the city of the great King."
+  },
+  {
+   "verse": 3,
+   "start": 19.61,
+   "end": 22.11,
+   "text": "God is known in her palaces for a refuge."
+  },
+  {
+   "verse": 4,
+   "start": 22.81,
+   "end": 26.92,
+   "text": "For, lo, the kings were assembled, they passed by together."
+  },
+  {
+   "verse": 5,
+   "start": 27.62,
+   "end": 32.89,
+   "text": "They saw it, and so they marvelled; they were troubled, and hasted away."
+  },
+  {
+   "verse": 6,
+   "start": 33.59,
+   "end": 38.28,
+   "text": "Fear took hold upon them there, and pain, as of a woman in travail."
+  },
+  {
+   "verse": 7,
+   "start": 38.98,
+   "end": 42.14,
+   "text": "Thou breakest the ships of Tarshish with an east wind."
+  },
+  {
+   "verse": 8,
+   "start": 42.84,
+   "end": 51.61,
+   "text": "As we have heard, so have we seen in the city of the LORD of hosts, in the city of our God: God will establish it for ever. Selah."
+  },
+  {
+   "verse": 9,
+   "start": 52.31,
+   "end": 56.95,
+   "text": "We have thought of thy lovingkindness, O God, in the midst of thy temple."
+  },
+  {
+   "verse": 10,
+   "start": 57.65,
+   "end": 65.6,
+   "text": "According to thy name, O God, so is thy praise unto the ends of the earth: thy right hand is full of righteousness."
+  },
+  {
+   "verse": 11,
+   "start": 66.3,
+   "end": 71.85,
+   "text": "Let mount Zion rejoice, let the daughters of Judah be glad, because of thy judgments."
+  },
+  {
+   "verse": 12,
+   "start": 72.55,
+   "end": 76.49,
+   "text": "Walk about Zion, and go round about her: tell the towers thereof."
+  },
+  {
+   "verse": 13,
+   "start": 77.19,
+   "end": 83.32,
+   "text": "Mark ye well her bulwarks, consider her palaces; that ye may tell it to the generation following."
+  },
+  {
+   "verse": 14,
+   "start": 84.02,
+   "end": 89.44,
+   "text": "For this God is our God for ever and ever: he will be our guide even unto death."
+  }
+ ]
+}

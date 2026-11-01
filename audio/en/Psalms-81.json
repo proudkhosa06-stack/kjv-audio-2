@@ -1,0 +1,108 @@
+{
+ "book": "Psalms",
+ "chapter": 81,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-81.mp3",
+ "duration": 105.79,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 9.25,
+   "text": "To the chief Musician upon Gittith, A Psalm of Asaph. Sing aloud unto God our strength: make a joyful noise unto the God of Jacob."
+  },
+  {
+   "verse": 2,
+   "start": 9.95,
+   "end": 15.03,
+   "text": "Take a psalm, and bring hither the timbrel, the pleasant harp with the psaltery."
+  },
+  {
+   "verse": 3,
+   "start": 15.73,
+   "end": 21.27,
+   "text": "Blow up the trumpet in the new moon, in the time appointed, on our solemn feast day."
+  },
+  {
+   "verse": 4,
+   "start": 21.97,
+   "end": 26.18,
+   "text": "For this was a statute for Israel, and a law of the God of Jacob."
+  },
+  {
+   "verse": 5,
+   "start": 26.88,
+   "end": 35.35,
+   "text": "This he ordained in Joseph for a testimony, when he went out through the land of Egypt: where I heard a language that I understood not."
+  },
+  {
+   "verse": 6,
+   "start": 36.05,
+   "end": 40.84,
+   "text": "I removed his shoulder from the burden: his hands were delivered from the pots."
+  },
+  {
+   "verse": 7,
+   "start": 41.54,
+   "end": 49.27,
+   "text": "Thou calledst in trouble, and I delivered thee; I answered thee in the secret place of thunder: I proved thee at the waters of Meribah. Selah."
+  },
+  {
+   "verse": 8,
+   "start": 49.97,
+   "end": 56.19,
+   "text": "Hear, O my people, and I will testify unto thee: O Israel, if thou wilt hearken unto me;"
+  },
+  {
+   "verse": 9,
+   "start": 56.89,
+   "end": 61.54,
+   "text": "There shall no strange god be in thee; neither shalt thou worship any strange god."
+  },
+  {
+   "verse": 10,
+   "start": 62.24,
+   "end": 68.56,
+   "text": "I am the LORD thy God, which brought thee out of the land of Egypt: open thy mouth wide, and I will fill it."
+  },
+  {
+   "verse": 11,
+   "start": 69.26,
+   "end": 73.52,
+   "text": "But my people would not hearken to my voice; and Israel would none of me."
+  },
+  {
+   "verse": 12,
+   "start": 74.22,
+   "end": 79.01,
+   "text": "So I gave them up unto their own hearts' lust: and they walked in their own counsels."
+  },
+  {
+   "verse": 13,
+   "start": 79.71,
+   "end": 84.93,
+   "text": "Oh that my people had hearkened unto me, and Israel had walked in my ways!"
+  },
+  {
+   "verse": 14,
+   "start": 85.63,
+   "end": 89.82,
+   "text": "I should soon have subdued their enemies, and turned my hand against their adversaries."
+  },
+  {
+   "verse": 15,
+   "start": 90.52,
+   "end": 96.87,
+   "text": "The haters of the LORD should have submitted themselves unto him: but their time should have endured for ever."
+  },
+  {
+   "verse": 16,
+   "start": 97.57,
+   "end": 104.73,
+   "text": "He should have fed them also with the finest of the wheat: and with honey out of the rock should I have satisfied thee."
+  }
+ ]
+}

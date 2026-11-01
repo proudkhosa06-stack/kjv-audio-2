@@ -1,0 +1,72 @@
+{
+ "book": "Psalms",
+ "chapter": 112,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-112.mp3",
+ "duration": 70.8,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 6.87,
+   "text": "Praise ye the LORD. Blessed is the man that feareth the LORD, that delighteth greatly in his commandments."
+  },
+  {
+   "verse": 2,
+   "start": 7.57,
+   "end": 13.38,
+   "text": "His seed shall be mighty upon earth: the generation of the upright shall be blessed."
+  },
+  {
+   "verse": 3,
+   "start": 14.08,
+   "end": 18.93,
+   "text": "Wealth and riches shall be in his house: and his righteousness endureth for ever."
+  },
+  {
+   "verse": 4,
+   "start": 19.63,
+   "end": 26.43,
+   "text": "Unto the upright there ariseth light in the darkness: he is gracious, and full of compassion, and righteous."
+  },
+  {
+   "verse": 5,
+   "start": 27.13,
+   "end": 32.58,
+   "text": "A good man sheweth favour, and lendeth: he will guide his affairs with discretion."
+  },
+  {
+   "verse": 6,
+   "start": 33.28,
+   "end": 38.87,
+   "text": "Surely he shall not be moved for ever: the righteous shall be in everlasting remembrance."
+  },
+  {
+   "verse": 7,
+   "start": 39.57,
+   "end": 44.8,
+   "text": "He shall not be afraid of evil tidings: his heart is fixed, trusting in the LORD."
+  },
+  {
+   "verse": 8,
+   "start": 45.5,
+   "end": 51.49,
+   "text": "His heart is established, he shall not be afraid, until he see his desire upon his enemies."
+  },
+  {
+   "verse": 9,
+   "start": 52.19,
+   "end": 60.14,
+   "text": "He hath dispersed, he hath given to the poor; his righteousness endureth for ever; his horn shall be exalted with honour."
+  },
+  {
+   "verse": 10,
+   "start": 60.84,
+   "end": 69.73,
+   "text": "The wicked shall see it, and be grieved; he shall gnash with his teeth, and melt away: the desire of the wicked shall perish."
+  }
+ ]
+}

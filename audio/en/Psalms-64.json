@@ -1,0 +1,72 @@
+{
+ "book": "Psalms",
+ "chapter": 64,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-64.mp3",
+ "duration": 75.14,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 9.36,
+   "text": "To the chief Musician, A Psalm of David. Hear my voice, O God, in my prayer: preserve my life from fear of the enemy."
+  },
+  {
+   "verse": 2,
+   "start": 10.06,
+   "end": 15.54,
+   "text": "Hide me from the secret counsel of the wicked; from the insurrection of the workers of iniquity:"
+  },
+  {
+   "verse": 3,
+   "start": 16.24,
+   "end": 22.56,
+   "text": "Who whet their tongue like a sword, and bend their bows to shoot their arrows, even bitter words:"
+  },
+  {
+   "verse": 4,
+   "start": 23.26,
+   "end": 28.69,
+   "text": "That they may shoot in secret at the perfect: suddenly do they shoot at him, and fear not."
+  },
+  {
+   "verse": 5,
+   "start": 29.39,
+   "end": 36.9,
+   "text": "They encourage themselves in an evil matter: they commune of laying snares privily; they say, Who shall see them?"
+  },
+  {
+   "verse": 6,
+   "start": 37.6,
+   "end": 46.79,
+   "text": "They search out iniquities; they accomplish a diligent search: both the inward thought of every one of them, and the heart, is deep."
+  },
+  {
+   "verse": 7,
+   "start": 47.49,
+   "end": 51.65,
+   "text": "But God shall shoot at them with an arrow; suddenly shall they be wounded."
+  },
+  {
+   "verse": 8,
+   "start": 52.35,
+   "end": 58.45,
+   "text": "So they shall make their own tongue to fall upon themselves: all that see them shall flee away."
+  },
+  {
+   "verse": 9,
+   "start": 59.15,
+   "end": 66.25,
+   "text": "And all men shall fear, and shall declare the work of God; for they shall wisely consider of his doing."
+  },
+  {
+   "verse": 10,
+   "start": 66.95,
+   "end": 74.08,
+   "text": "The righteous shall be glad in the LORD, and shall trust in him; and all the upright in heart shall glory."
+  }
+ ]
+}

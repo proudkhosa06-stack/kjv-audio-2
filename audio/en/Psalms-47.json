@@ -1,0 +1,66 @@
+{
+ "book": "Psalms",
+ "chapter": 47,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-47.mp3",
+ "duration": 58.87,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 10.14,
+   "text": "To the chief Musician, A Psalm for the sons of Korah. O clap your hands, all ye people; shout unto God with the voice of triumph."
+  },
+  {
+   "verse": 2,
+   "start": 10.84,
+   "end": 15.71,
+   "text": "For the LORD most high is terrible; he is a great King over all the earth."
+  },
+  {
+   "verse": 3,
+   "start": 16.41,
+   "end": 20.58,
+   "text": "He shall subdue the people under us, and the nations under our feet."
+  },
+  {
+   "verse": 4,
+   "start": 21.28,
+   "end": 25.88,
+   "text": "He shall choose our inheritance for us, the excellency of Jacob whom he loved. Selah."
+  },
+  {
+   "verse": 5,
+   "start": 26.58,
+   "end": 30.74,
+   "text": "God is gone up with a shout, the LORD with the sound of a trumpet."
+  },
+  {
+   "verse": 6,
+   "start": 31.44,
+   "end": 36.96,
+   "text": "Sing praises to God, sing praises: sing praises unto our King, sing praises."
+  },
+  {
+   "verse": 7,
+   "start": 37.66,
+   "end": 42.07,
+   "text": "For God is the King of all the earth: sing ye praises with understanding."
+  },
+  {
+   "verse": 8,
+   "start": 42.77,
+   "end": 47.46,
+   "text": "God reigneth over the heathen: God sitteth upon the throne of his holiness."
+  },
+  {
+   "verse": 9,
+   "start": 48.16,
+   "end": 57.82,
+   "text": "The princes of the people are gathered together, even the people of the God of Abraham: for the shields of the earth belong unto God: he is greatly exalted."
+  }
+ ]
+}

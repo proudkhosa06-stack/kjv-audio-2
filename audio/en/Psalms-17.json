@@ -1,0 +1,102 @@
+{
+ "book": "Psalms",
+ "chapter": 17,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-17.mp3",
+ "duration": 116.35,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 9.87,
+   "text": "A Prayer of David. Hear the right, O LORD, attend unto my cry, give ear unto my prayer, that goeth not out of feigned lips."
+  },
+  {
+   "verse": 2,
+   "start": 10.57,
+   "end": 16.09,
+   "text": "Let my sentence come forth from thy presence; let thine eyes behold the things that are equal."
+  },
+  {
+   "verse": 3,
+   "start": 16.79,
+   "end": 27.08,
+   "text": "Thou hast proved mine heart; thou hast visited me in the night; thou hast tried me, and shalt find nothing; I am purposed that my mouth shall not transgress."
+  },
+  {
+   "verse": 4,
+   "start": 27.78,
+   "end": 34.04,
+   "text": "Concerning the works of men, by the word of thy lips I have kept me from the paths of the destroyer."
+  },
+  {
+   "verse": 5,
+   "start": 34.74,
+   "end": 38.6,
+   "text": "Hold up my goings in thy paths, that my footsteps slip not."
+  },
+  {
+   "verse": 6,
+   "start": 39.3,
+   "end": 45.94,
+   "text": "I have called upon thee, for thou wilt hear me, O God: incline thine ear unto me, and hear my speech."
+  },
+  {
+   "verse": 7,
+   "start": 46.64,
+   "end": 56.0,
+   "text": "Shew thy marvellous lovingkindness, O thou that savest by thy right hand them which put their trust in thee from those that rise up against them."
+  },
+  {
+   "verse": 8,
+   "start": 56.7,
+   "end": 61.42,
+   "text": "Keep me as the apple of the eye, hide me under the shadow of thy wings,"
+  },
+  {
+   "verse": 9,
+   "start": 62.12,
+   "end": 66.75,
+   "text": "From the wicked that oppress me, from my deadly enemies, who compass me about."
+  },
+  {
+   "verse": 10,
+   "start": 67.45,
+   "end": 71.67,
+   "text": "They are inclosed in their own fat: with their mouth they speak proudly."
+  },
+  {
+   "verse": 11,
+   "start": 72.37,
+   "end": 77.55,
+   "text": "They have now compassed us in our steps: they have set their eyes bowing down to the earth;"
+  },
+  {
+   "verse": 12,
+   "start": 78.25,
+   "end": 84.81,
+   "text": "Like as a lion that is greedy of his prey, and as it were a young lion lurking in secret places."
+  },
+  {
+   "verse": 13,
+   "start": 85.51,
+   "end": 93.14,
+   "text": "Arise, O LORD, disappoint him, cast him down: deliver my soul from the wicked, which is thy sword:"
+  },
+  {
+   "verse": 14,
+   "start": 93.84,
+   "end": 107.12,
+   "text": "From men which are thy hand, O LORD, from men of the world, which have their portion in this life, and whose belly thou fillest with thy hid treasure: they are full of children, and leave the rest of their substance to their babes."
+  },
+  {
+   "verse": 15,
+   "start": 107.82,
+   "end": 115.3,
+   "text": "As for me, I will behold thy face in righteousness: I shall be satisfied, when I awake, with thy likeness."
+  }
+ ]
+}

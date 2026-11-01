@@ -1,0 +1,66 @@
+{
+ "book": "Psalms",
+ "chapter": 52,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-52.mp3",
+ "duration": 80.38,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 18.31,
+   "text": "To the chief Musician, Maschil, A Psalm of David, when Doeg the Edomite came and told Saul, and said unto him, David is come to the house of Ahimelech. Why boastest thou thyself in mischief, O mighty man? the goodness of God endureth continually."
+  },
+  {
+   "verse": 2,
+   "start": 19.01,
+   "end": 24.01,
+   "text": "Thy tongue deviseth mischiefs; like a sharp razor, working deceitfully."
+  },
+  {
+   "verse": 3,
+   "start": 24.71,
+   "end": 32.75,
+   "text": "Thou lovest evil more than good; and lying rather than to speak righteousness. Selah."
+  },
+  {
+   "verse": 4,
+   "start": 33.45,
+   "end": 37.58,
+   "text": "Thou lovest all devouring words, O thou deceitful tongue."
+  },
+  {
+   "verse": 5,
+   "start": 38.28,
+   "end": 48.39,
+   "text": "God shall likewise destroy thee for ever, he shall take thee away, and pluck thee out of thy dwelling place, and root thee out of the land of the living. Selah."
+  },
+  {
+   "verse": 6,
+   "start": 49.09,
+   "end": 53.21,
+   "text": "The righteous also shall see, and fear, and shall laugh at him:"
+  },
+  {
+   "verse": 7,
+   "start": 53.91,
+   "end": 62.91,
+   "text": "Lo, this is the man that made not God his strength; but trusted in the abundance of his riches, and strengthened himself in his wickedness."
+  },
+  {
+   "verse": 8,
+   "start": 63.61,
+   "end": 69.77,
+   "text": "But I am like a green olive tree in the house of God: I trust in the mercy of God for ever and ever."
+  },
+  {
+   "verse": 9,
+   "start": 70.47,
+   "end": 79.32,
+   "text": "I will praise thee for ever, because thou hast done it: and I will wait on thy name; for it is good before thy saints."
+  }
+ ]
+}

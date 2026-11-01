@@ -1,0 +1,66 @@
+{
+ "book": "Psalms",
+ "chapter": 99,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-99.mp3",
+ "duration": 64.56,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 7.43,
+   "text": "The LORD reigneth; let the people tremble: he sitteth between the cherubims; let the earth be moved."
+  },
+  {
+   "verse": 2,
+   "start": 8.13,
+   "end": 12.6,
+   "text": "The LORD is great in Zion; and he is high above all the people."
+  },
+  {
+   "verse": 3,
+   "start": 13.3,
+   "end": 17.18,
+   "text": "Let them praise thy great and terrible name; for it is holy."
+  },
+  {
+   "verse": 4,
+   "start": 17.88,
+   "end": 26.19,
+   "text": "The king's strength also loveth judgment; thou dost establish equity, thou executest judgment and righteousness in Jacob."
+  },
+  {
+   "verse": 5,
+   "start": 26.89,
+   "end": 32.46,
+   "text": "Exalt ye the LORD our God, and worship at his footstool; for he is holy."
+  },
+  {
+   "verse": 6,
+   "start": 33.16,
+   "end": 41.22,
+   "text": "Moses and Aaron among his priests, and Samuel among them that call upon his name; they called upon the LORD, and he answered them."
+  },
+  {
+   "verse": 7,
+   "start": 41.92,
+   "end": 47.69,
+   "text": "He spake unto them in the cloudy pillar: they kept his testimonies, and the ordinance that he gave them."
+  },
+  {
+   "verse": 8,
+   "start": 48.39,
+   "end": 56.91,
+   "text": "Thou answeredst them, O LORD our God: thou wast a God that forgavest them, though thou tookest vengeance of their inventions."
+  },
+  {
+   "verse": 9,
+   "start": 57.61,
+   "end": 63.49,
+   "text": "Exalt the LORD our God, and worship at his holy hill; for the LORD our God is holy."
+  }
+ ]
+}

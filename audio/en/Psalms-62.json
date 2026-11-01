@@ -1,0 +1,84 @@
+{
+ "book": "Psalms",
+ "chapter": 62,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-62.mp3",
+ "duration": 95.69,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 9.08,
+   "text": "To the chief Musician, to Jeduthun, A Psalm of David. Truly my soul waiteth upon God: from him cometh my salvation."
+  },
+  {
+   "verse": 2,
+   "start": 9.78,
+   "end": 16.46,
+   "text": "He only is my rock and my salvation; he is my defence; I shall not be greatly moved."
+  },
+  {
+   "verse": 3,
+   "start": 17.16,
+   "end": 26.67,
+   "text": "How long will ye imagine mischief against a man? ye shall be slain all of you: as a bowing wall shall ye be, and as a tottering fence."
+  },
+  {
+   "verse": 4,
+   "start": 27.37,
+   "end": 36.42,
+   "text": "They only consult to cast him down from his excellency: they delight in lies: they bless with their mouth, but they curse inwardly. Selah."
+  },
+  {
+   "verse": 5,
+   "start": 37.12,
+   "end": 42.27,
+   "text": "My soul, wait thou only upon God; for my expectation is from him."
+  },
+  {
+   "verse": 6,
+   "start": 42.97,
+   "end": 48.92,
+   "text": "He only is my rock and my salvation: he is my defence; I shall not be moved."
+  },
+  {
+   "verse": 7,
+   "start": 49.62,
+   "end": 56.91,
+   "text": "In God is my salvation and my glory: the rock of my strength, and my refuge, is in God."
+  },
+  {
+   "verse": 8,
+   "start": 57.61,
+   "end": 64.13,
+   "text": "Trust in him at all times; ye people, pour out your heart before him: God is a refuge for us. Selah."
+  },
+  {
+   "verse": 9,
+   "start": 64.83,
+   "end": 73.76,
+   "text": "Surely men of low degree are vanity, and men of high degree are a lie: to be laid in the balance, they are altogether lighter than vanity."
+  },
+  {
+   "verse": 10,
+   "start": 74.46,
+   "end": 81.5,
+   "text": "Trust not in oppression, and become not vain in robbery: if riches increase, set not your heart upon them."
+  },
+  {
+   "verse": 11,
+   "start": 82.2,
+   "end": 87.75,
+   "text": "God hath spoken once; twice have I heard this; that power belongeth unto God."
+  },
+  {
+   "verse": 12,
+   "start": 88.45,
+   "end": 94.63,
+   "text": "Also unto thee, O Lord, belongeth mercy: for thou renderest to every man according to his work."
+  }
+ ]
+}

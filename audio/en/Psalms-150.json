@@ -1,0 +1,48 @@
+{
+ "book": "Psalms",
+ "chapter": 150,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-150.mp3",
+ "duration": 34.32,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 6.37,
+   "text": "Praise ye the LORD. Praise God in his sanctuary: praise him in the firmament of his power."
+  },
+  {
+   "verse": 2,
+   "start": 7.07,
+   "end": 11.29,
+   "text": "Praise him for his mighty acts: praise him according to his excellent greatness."
+  },
+  {
+   "verse": 3,
+   "start": 11.99,
+   "end": 16.9,
+   "text": "Praise him with the sound of the trumpet: praise him with the psaltery and harp."
+  },
+  {
+   "verse": 4,
+   "start": 17.6,
+   "end": 22.94,
+   "text": "Praise him with the timbrel and dance: praise him with stringed instruments and organs."
+  },
+  {
+   "verse": 5,
+   "start": 23.64,
+   "end": 28.61,
+   "text": "Praise him upon the loud cymbals: praise him upon the high sounding cymbals."
+  },
+  {
+   "verse": 6,
+   "start": 29.31,
+   "end": 33.27,
+   "text": "Let every thing that hath breath praise the LORD. Praise ye the LORD."
+  }
+ ]
+}

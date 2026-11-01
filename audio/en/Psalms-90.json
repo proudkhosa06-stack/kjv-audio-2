@@ -1,0 +1,114 @@
+{
+ "book": "Psalms",
+ "chapter": 90,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-90.mp3",
+ "duration": 121.85,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 7.15,
+   "text": "A Prayer of Moses the man of God. Lord, thou hast been our dwelling place in all generations."
+  },
+  {
+   "verse": 2,
+   "start": 7.85,
+   "end": 17.0,
+   "text": "Before the mountains were brought forth, or ever thou hadst formed the earth and the world, even from everlasting to everlasting, thou art God."
+  },
+  {
+   "verse": 3,
+   "start": 17.7,
+   "end": 22.86,
+   "text": "Thou turnest man to destruction; and sayest, Return, ye children of men."
+  },
+  {
+   "verse": 4,
+   "start": 23.56,
+   "end": 29.87,
+   "text": "For a thousand years in thy sight are but as yesterday when it is past, and as a watch in the night."
+  },
+  {
+   "verse": 5,
+   "start": 30.57,
+   "end": 37.66,
+   "text": "Thou carriest them away as with a flood; they are as a sleep: in the morning they are like grass which groweth up."
+  },
+  {
+   "verse": 6,
+   "start": 38.36,
+   "end": 44.07,
+   "text": "In the morning it flourisheth, and groweth up; in the evening it is cut down, and withereth."
+  },
+  {
+   "verse": 7,
+   "start": 44.77,
+   "end": 49.47,
+   "text": "For we are consumed by thine anger, and by thy wrath are we troubled."
+  },
+  {
+   "verse": 8,
+   "start": 50.17,
+   "end": 55.53,
+   "text": "Thou hast set our iniquities before thee, our secret sins in the light of thy countenance."
+  },
+  {
+   "verse": 9,
+   "start": 56.23,
+   "end": 62.37,
+   "text": "For all our days are passed away in thy wrath: we spend our years as a tale that is told."
+  },
+  {
+   "verse": 10,
+   "start": 63.07,
+   "end": 75.32,
+   "text": "The days of our years are threescore years and ten; and if by reason of strength they be fourscore years, yet is their strength labour and sorrow; for it is soon cut off, and we fly away."
+  },
+  {
+   "verse": 11,
+   "start": 76.02,
+   "end": 81.56,
+   "text": "Who knoweth the power of thine anger? even according to thy fear, so is thy wrath."
+  },
+  {
+   "verse": 12,
+   "start": 82.26,
+   "end": 86.65,
+   "text": "So teach us to number our days, that we may apply our hearts unto wisdom."
+  },
+  {
+   "verse": 13,
+   "start": 87.35,
+   "end": 92.4,
+   "text": "Return, O LORD, how long? and let it repent thee concerning thy servants."
+  },
+  {
+   "verse": 14,
+   "start": 93.1,
+   "end": 98.95,
+   "text": "O satisfy us early with thy mercy; that we may rejoice and be glad all our days."
+  },
+  {
+   "verse": 15,
+   "start": 99.65,
+   "end": 106.0,
+   "text": "Make us glad according to the days wherein thou hast afflicted us, and the years wherein we have seen evil."
+  },
+  {
+   "verse": 16,
+   "start": 106.7,
+   "end": 111.08,
+   "text": "Let thy work appear unto thy servants, and thy glory unto their children."
+  },
+  {
+   "verse": 17,
+   "start": 111.78,
+   "end": 120.8,
+   "text": "And let the beauty of the LORD our God be upon us: and establish thou the work of our hands upon us; yea, the work of our hands establish thou it."
+  }
+ ]
+}

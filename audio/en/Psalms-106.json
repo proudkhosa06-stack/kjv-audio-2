@@ -1,0 +1,300 @@
+{
+ "book": "Psalms",
+ "chapter": 106,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-106.mp3",
+ "duration": 296.93,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 7.65,
+   "text": "Praise ye the LORD. O give thanks unto the LORD; for he is good: for his mercy endureth for ever."
+  },
+  {
+   "verse": 2,
+   "start": 8.35,
+   "end": 13.47,
+   "text": "Who can utter the mighty acts of the LORD? who can shew forth all his praise?"
+  },
+  {
+   "verse": 3,
+   "start": 14.17,
+   "end": 19.18,
+   "text": "Blessed are they that keep judgment, and he that doeth righteousness at all times."
+  },
+  {
+   "verse": 4,
+   "start": 19.88,
+   "end": 27.0,
+   "text": "Remember me, O LORD, with the favour that thou bearest unto thy people: O visit me with thy salvation;"
+  },
+  {
+   "verse": 5,
+   "start": 27.7,
+   "end": 36.33,
+   "text": "That I may see the good of thy chosen, that I may rejoice in the gladness of thy nation, that I may glory with thine inheritance."
+  },
+  {
+   "verse": 6,
+   "start": 37.03,
+   "end": 42.08,
+   "text": "We have sinned with our fathers, we have committed iniquity, we have done wickedly."
+  },
+  {
+   "verse": 7,
+   "start": 42.78,
+   "end": 52.94,
+   "text": "Our fathers understood not thy wonders in Egypt; they remembered not the multitude of thy mercies; but provoked him at the sea, even at the Red sea."
+  },
+  {
+   "verse": 8,
+   "start": 53.64,
+   "end": 59.25,
+   "text": "Nevertheless he saved them for his name's sake, that he might make his mighty power to be known."
+  },
+  {
+   "verse": 9,
+   "start": 59.95,
+   "end": 66.33,
+   "text": "He rebuked the Red sea also, and it was dried up: so he led them through the depths, as through the wilderness."
+  },
+  {
+   "verse": 10,
+   "start": 67.03,
+   "end": 73.15,
+   "text": "And he saved them from the hand of him that hated them, and redeemed them from the hand of the enemy."
+  },
+  {
+   "verse": 11,
+   "start": 73.85,
+   "end": 77.76,
+   "text": "And the waters covered their enemies: there was not one of them left."
+  },
+  {
+   "verse": 12,
+   "start": 78.46,
+   "end": 81.55,
+   "text": "Then believed they his words; they sang his praise."
+  },
+  {
+   "verse": 13,
+   "start": 82.25,
+   "end": 86.39,
+   "text": "They soon forgat his works; they waited not for his counsel:"
+  },
+  {
+   "verse": 14,
+   "start": 87.09,
+   "end": 91.83,
+   "text": "But lusted exceedingly in the wilderness, and tempted God in the desert."
+  },
+  {
+   "verse": 15,
+   "start": 92.53,
+   "end": 96.67,
+   "text": "And he gave them their request; but sent leanness into their soul."
+  },
+  {
+   "verse": 16,
+   "start": 97.37,
+   "end": 102.06,
+   "text": "They envied Moses also in the camp, and Aaron the saint of the LORD."
+  },
+  {
+   "verse": 17,
+   "start": 102.76,
+   "end": 107.19,
+   "text": "The earth opened and swallowed up Dathan, and covered the company of Abiram."
+  },
+  {
+   "verse": 18,
+   "start": 107.89,
+   "end": 112.19,
+   "text": "And a fire was kindled in their company; the flame burned up the wicked."
+  },
+  {
+   "verse": 19,
+   "start": 112.89,
+   "end": 116.72,
+   "text": "They made a calf in Horeb, and worshipped the molten image."
+  },
+  {
+   "verse": 20,
+   "start": 117.42,
+   "end": 122.38,
+   "text": "Thus they changed their glory into the similitude of an ox that eateth grass."
+  },
+  {
+   "verse": 21,
+   "start": 123.08,
+   "end": 126.94,
+   "text": "They forgat God their saviour, which had done great things in Egypt;"
+  },
+  {
+   "verse": 22,
+   "start": 127.64,
+   "end": 132.66,
+   "text": "Wondrous works in the land of Ham, and terrible things by the Red sea."
+  },
+  {
+   "verse": 23,
+   "start": 133.36,
+   "end": 142.88,
+   "text": "Therefore he said that he would destroy them, had not Moses his chosen stood before him in the breach, to turn away his wrath, lest he should destroy them."
+  },
+  {
+   "verse": 24,
+   "start": 143.58,
+   "end": 147.58,
+   "text": "Yea, they despised the pleasant land, they believed not his word:"
+  },
+  {
+   "verse": 25,
+   "start": 148.28,
+   "end": 152.71,
+   "text": "But murmured in their tents, and hearkened not unto the voice of the LORD."
+  },
+  {
+   "verse": 26,
+   "start": 153.41,
+   "end": 158.31,
+   "text": "Therefore he lifted up his hand against them, to overthrow them in the wilderness:"
+  },
+  {
+   "verse": 27,
+   "start": 159.01,
+   "end": 163.82,
+   "text": "To overthrow their seed also among the nations, and to scatter them in the lands."
+  },
+  {
+   "verse": 28,
+   "start": 164.52,
+   "end": 169.76,
+   "text": "They joined themselves also unto Baal-peor, and ate the sacrifices of the dead."
+  },
+  {
+   "verse": 29,
+   "start": 170.46,
+   "end": 175.45,
+   "text": "Thus they provoked him to anger with their inventions: and the plague brake in upon them."
+  },
+  {
+   "verse": 30,
+   "start": 176.15,
+   "end": 181.0,
+   "text": "Then stood up Phinehas, and executed judgment: and so the plague was stayed."
+  },
+  {
+   "verse": 31,
+   "start": 181.7,
+   "end": 186.81,
+   "text": "And that was counted unto him for righteousness unto all generations for evermore."
+  },
+  {
+   "verse": 32,
+   "start": 187.51,
+   "end": 193.12,
+   "text": "They angered him also at the waters of strife, so that it went ill with Moses for their sakes:"
+  },
+  {
+   "verse": 33,
+   "start": 193.82,
+   "end": 198.64,
+   "text": "Because they provoked his spirit, so that he spake unadvisedly with his lips."
+  },
+  {
+   "verse": 34,
+   "start": 199.34,
+   "end": 203.53,
+   "text": "They did not destroy the nations, concerning whom the LORD commanded them:"
+  },
+  {
+   "verse": 35,
+   "start": 204.23,
+   "end": 207.62,
+   "text": "But were mingled among the heathen, and learned their works."
+  },
+  {
+   "verse": 36,
+   "start": 208.32,
+   "end": 211.8,
+   "text": "And they served their idols: which were a snare unto them."
+  },
+  {
+   "verse": 37,
+   "start": 212.5,
+   "end": 216.34,
+   "text": "Yea, they sacrificed their sons and their daughters unto devils,"
+  },
+  {
+   "verse": 38,
+   "start": 217.04,
+   "end": 226.92,
+   "text": "And shed innocent blood, even the blood of their sons and of their daughters, whom they sacrificed unto the idols of Canaan: and the land was polluted with blood."
+  },
+  {
+   "verse": 39,
+   "start": 227.62,
+   "end": 233.33,
+   "text": "Thus were they defiled with their own works, and went a whoring with their own inventions."
+  },
+  {
+   "verse": 40,
+   "start": 234.03,
+   "end": 241.6,
+   "text": "Therefore was the wrath of the LORD kindled against his people, insomuch that he abhorred his own inheritance."
+  },
+  {
+   "verse": 41,
+   "start": 242.3,
+   "end": 247.17,
+   "text": "And he gave them into the hand of the heathen; and they that hated them ruled over them."
+  },
+  {
+   "verse": 42,
+   "start": 247.87,
+   "end": 252.99,
+   "text": "Their enemies also oppressed them, and they were brought into subjection under their hand."
+  },
+  {
+   "verse": 43,
+   "start": 253.69,
+   "end": 260.62,
+   "text": "Many times did he deliver them; but they provoked him with their counsel, and were brought low for their iniquity."
+  },
+  {
+   "verse": 44,
+   "start": 261.32,
+   "end": 265.08,
+   "text": "Nevertheless he regarded their affliction, when he heard their cry:"
+  },
+  {
+   "verse": 45,
+   "start": 265.78,
+   "end": 271.34,
+   "text": "And he remembered for them his covenant, and repented according to the multitude of his mercies."
+  },
+  {
+   "verse": 46,
+   "start": 272.04,
+   "end": 276.13,
+   "text": "He made them also to be pitied of all those that carried them captives."
+  },
+  {
+   "verse": 47,
+   "start": 276.83,
+   "end": 286.27,
+   "text": "Save us, O LORD our God, and gather us from among the heathen, to give thanks unto thy holy name, and to triumph in thy praise."
+  },
+  {
+   "verse": 48,
+   "start": 286.97,
+   "end": 295.87,
+   "text": "Blessed be the LORD God of Israel from everlasting to everlasting: and let all the people say, Amen. Praise ye the LORD."
+  }
+ ]
+}

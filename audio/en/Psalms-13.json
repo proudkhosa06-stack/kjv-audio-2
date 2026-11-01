@@ -1,0 +1,48 @@
+{
+ "book": "Psalms",
+ "chapter": 13,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-13.mp3",
+ "duration": 45.05,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 10.44,
+   "text": "To the chief Musician, A Psalm of David. How long wilt thou forget me, O LORD? for ever? how long wilt thou hide thy face from me?"
+  },
+  {
+   "verse": 2,
+   "start": 11.14,
+   "end": 19.35,
+   "text": "How long shall I take counsel in my soul, having sorrow in my heart daily? how long shall mine enemy be exalted over me?"
+  },
+  {
+   "verse": 3,
+   "start": 20.05,
+   "end": 26.32,
+   "text": "Consider and hear me, O LORD my God: lighten mine eyes, lest I sleep the sleep of death;"
+  },
+  {
+   "verse": 4,
+   "start": 27.02,
+   "end": 33.56,
+   "text": "Lest mine enemy say, I have prevailed against him; and those that trouble me rejoice when I am moved."
+  },
+  {
+   "verse": 5,
+   "start": 34.26,
+   "end": 39.03,
+   "text": "But I have trusted in thy mercy; my heart shall rejoice in thy salvation."
+  },
+  {
+   "verse": 6,
+   "start": 39.73,
+   "end": 43.98,
+   "text": "I will sing unto the LORD, because he hath dealt bountifully with me."
+  }
+ ]
+}

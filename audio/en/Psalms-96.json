@@ -1,0 +1,90 @@
+{
+ "book": "Psalms",
+ "chapter": 96,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-96.mp3",
+ "duration": 89.59,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 5.71,
+   "text": "O sing unto the LORD a new song: sing unto the LORD, all the earth."
+  },
+  {
+   "verse": 2,
+   "start": 6.41,
+   "end": 11.99,
+   "text": "Sing unto the LORD, bless his name; shew forth his salvation from day to day."
+  },
+  {
+   "verse": 3,
+   "start": 12.69,
+   "end": 16.98,
+   "text": "Declare his glory among the heathen, his wonders among all people."
+  },
+  {
+   "verse": 4,
+   "start": 17.68,
+   "end": 23.61,
+   "text": "For the LORD is great, and greatly to be praised: he is to be feared above all gods."
+  },
+  {
+   "verse": 5,
+   "start": 24.31,
+   "end": 28.84,
+   "text": "For all the gods of the nations are idols: but the LORD made the heavens."
+  },
+  {
+   "verse": 6,
+   "start": 29.54,
+   "end": 34.47,
+   "text": "Honour and majesty are before him: strength and beauty are in his sanctuary."
+  },
+  {
+   "verse": 7,
+   "start": 35.17,
+   "end": 41.71,
+   "text": "Give unto the LORD, O ye kindreds of the people, give unto the LORD glory and strength."
+  },
+  {
+   "verse": 8,
+   "start": 42.41,
+   "end": 48.66,
+   "text": "Give unto the LORD the glory due unto his name: bring an offering, and come into his courts."
+  },
+  {
+   "verse": 9,
+   "start": 49.36,
+   "end": 55.15,
+   "text": "O worship the LORD in the beauty of holiness: fear before him, all the earth."
+  },
+  {
+   "verse": 10,
+   "start": 55.85,
+   "end": 64.95,
+   "text": "Say among the heathen that the LORD reigneth: the world also shall be established that it shall not be moved: he shall judge the people righteously."
+  },
+  {
+   "verse": 11,
+   "start": 65.65,
+   "end": 72.35,
+   "text": "Let the heavens rejoice, and let the earth be glad; let the sea roar, and the fulness thereof."
+  },
+  {
+   "verse": 12,
+   "start": 73.05,
+   "end": 79.23,
+   "text": "Let the field be joyful, and all that is therein: then shall all the trees of the wood rejoice"
+  },
+  {
+   "verse": 13,
+   "start": 79.93,
+   "end": 88.54,
+   "text": "Before the LORD: for he cometh, for he cometh to judge the earth: he shall judge the world with righteousness, and the people with his truth."
+  }
+ ]
+}

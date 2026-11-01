@@ -1,0 +1,78 @@
+{
+ "book": "Psalms",
+ "chapter": 63,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-63.mp3",
+ "duration": 76.34,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 14.77,
+   "text": "A Psalm of David, when he was in the wilderness of Judah. O God, thou art my God; early will I seek thee: my soul thirsteth for thee, my flesh longeth for thee in a dry and thirsty land, where no water is;"
+  },
+  {
+   "verse": 2,
+   "start": 15.47,
+   "end": 20.13,
+   "text": "To see thy power and thy glory, so as I have seen thee in the sanctuary."
+  },
+  {
+   "verse": 3,
+   "start": 20.83,
+   "end": 25.3,
+   "text": "Because thy lovingkindness is better than life, my lips shall praise thee."
+  },
+  {
+   "verse": 4,
+   "start": 26.0,
+   "end": 30.84,
+   "text": "Thus will I bless thee while I live: I will lift up my hands in thy name."
+  },
+  {
+   "verse": 5,
+   "start": 31.54,
+   "end": 38.31,
+   "text": "My soul shall be satisfied as with marrow and fatness; and my mouth shall praise thee with joyful lips:"
+  },
+  {
+   "verse": 6,
+   "start": 39.01,
+   "end": 43.48,
+   "text": "When I remember thee upon my bed, and meditate on thee in the night watches."
+  },
+  {
+   "verse": 7,
+   "start": 44.18,
+   "end": 49.87,
+   "text": "Because thou hast been my help, therefore in the shadow of thy wings will I rejoice."
+  },
+  {
+   "verse": 8,
+   "start": 50.57,
+   "end": 55.19,
+   "text": "My soul followeth hard after thee: thy right hand upholdeth me."
+  },
+  {
+   "verse": 9,
+   "start": 55.89,
+   "end": 61.13,
+   "text": "But those that seek my soul, to destroy it, shall go into the lower parts of the earth."
+  },
+  {
+   "verse": 10,
+   "start": 61.83,
+   "end": 65.86,
+   "text": "They shall fall by the sword: they shall be a portion for foxes."
+  },
+  {
+   "verse": 11,
+   "start": 66.56,
+   "end": 75.28,
+   "text": "But the king shall rejoice in God; every one that sweareth by him shall glory: but the mouth of them that speak lies shall be stopped."
+  }
+ ]
+}

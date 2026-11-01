@@ -1,0 +1,84 @@
+{
+ "book": "Psalms",
+ "chapter": 36,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-36.mp3",
+ "duration": 91.61,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 11.5,
+   "text": "To the chief Musician, A Psalm of David the servant of the LORD. The transgression of the wicked saith within my heart, that there is no fear of God before his eyes."
+  },
+  {
+   "verse": 2,
+   "start": 12.2,
+   "end": 17.81,
+   "text": "For he flattereth himself in his own eyes, until his iniquity be found to be hateful."
+  },
+  {
+   "verse": 3,
+   "start": 18.51,
+   "end": 24.63,
+   "text": "The words of his mouth are iniquity and deceit: he hath left off to be wise, and to do good."
+  },
+  {
+   "verse": 4,
+   "start": 25.33,
+   "end": 33.16,
+   "text": "He deviseth mischief upon his bed; he setteth himself in a way that is not good; he abhorreth not evil."
+  },
+  {
+   "verse": 5,
+   "start": 33.86,
+   "end": 40.15,
+   "text": "Thy mercy, O LORD, is in the heavens; and thy faithfulness reacheth unto the clouds."
+  },
+  {
+   "verse": 6,
+   "start": 40.85,
+   "end": 48.39,
+   "text": "Thy righteousness is like the great mountains; thy judgments are a great deep: O LORD, thou preservest man and beast."
+  },
+  {
+   "verse": 7,
+   "start": 49.09,
+   "end": 57.56,
+   "text": "How excellent is thy lovingkindness, O God! therefore the children of men put their trust under the shadow of thy wings."
+  },
+  {
+   "verse": 8,
+   "start": 58.26,
+   "end": 65.79,
+   "text": "They shall be abundantly satisfied with the fatness of thy house; and thou shalt make them drink of the river of thy pleasures."
+  },
+  {
+   "verse": 9,
+   "start": 66.49,
+   "end": 70.91,
+   "text": "For with thee is the fountain of life: in thy light shall we see light."
+  },
+  {
+   "verse": 10,
+   "start": 71.61,
+   "end": 77.92,
+   "text": "O continue thy lovingkindness unto them that know thee; and thy righteousness to the upright in heart."
+  },
+  {
+   "verse": 11,
+   "start": 78.62,
+   "end": 83.86,
+   "text": "Let not the foot of pride come against me, and let not the hand of the wicked remove me."
+  },
+  {
+   "verse": 12,
+   "start": 84.56,
+   "end": 90.56,
+   "text": "There are the workers of iniquity fallen: they are cast down, and shall not be able to rise."
+  }
+ ]
+}

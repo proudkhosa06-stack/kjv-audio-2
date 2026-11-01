@@ -1,0 +1,144 @@
+{
+ "book": "Psalms",
+ "chapter": 38,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-38.mp3",
+ "duration": 140.4,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 8.91,
+   "text": "A Psalm of David, to bring to remembrance. O LORD, rebuke me not in thy wrath: neither chasten me in thy hot displeasure."
+  },
+  {
+   "verse": 2,
+   "start": 9.61,
+   "end": 14.03,
+   "text": "For thine arrows stick fast in me, and thy hand presseth me sore."
+  },
+  {
+   "verse": 3,
+   "start": 14.73,
+   "end": 21.5,
+   "text": "There is no soundness in my flesh because of thine anger; neither is there any rest in my bones because of my sin."
+  },
+  {
+   "verse": 4,
+   "start": 22.2,
+   "end": 27.63,
+   "text": "For mine iniquities are gone over mine head: as an heavy burden they are too heavy for me."
+  },
+  {
+   "verse": 5,
+   "start": 28.33,
+   "end": 32.01,
+   "text": "My wounds stink and are corrupt because of my foolishness."
+  },
+  {
+   "verse": 6,
+   "start": 32.71,
+   "end": 37.69,
+   "text": "I am troubled; I am bowed down greatly; I go mourning all the day long."
+  },
+  {
+   "verse": 7,
+   "start": 38.39,
+   "end": 44.34,
+   "text": "For my loins are filled with a loathsome disease: and there is no soundness in my flesh."
+  },
+  {
+   "verse": 8,
+   "start": 45.04,
+   "end": 51.3,
+   "text": "I am feeble and sore broken: I have roared by reason of the disquietness of my heart."
+  },
+  {
+   "verse": 9,
+   "start": 52.0,
+   "end": 57.06,
+   "text": "Lord, all my desire is before thee; and my groaning is not hid from thee."
+  },
+  {
+   "verse": 10,
+   "start": 57.76,
+   "end": 64.31,
+   "text": "My heart panteth, my strength faileth me: as for the light of mine eyes, it also is gone from me."
+  },
+  {
+   "verse": 11,
+   "start": 65.01,
+   "end": 70.62,
+   "text": "My lovers and my friends stand aloof from my sore; and my kinsmen stand afar off."
+  },
+  {
+   "verse": 12,
+   "start": 71.32,
+   "end": 81.01,
+   "text": "They also that seek after my life lay snares for me: and they that seek my hurt speak mischievous things, and imagine deceits all the day long."
+  },
+  {
+   "verse": 13,
+   "start": 81.71,
+   "end": 87.09,
+   "text": "But I, as a deaf man, heard not; and I was as a dumb man that openeth not his mouth."
+  },
+  {
+   "verse": 14,
+   "start": 87.79,
+   "end": 93.34,
+   "text": "Thus I was as a man that heareth not, and in whose mouth are no reproofs."
+  },
+  {
+   "verse": 15,
+   "start": 94.04,
+   "end": 99.22,
+   "text": "For in thee, O LORD, do I hope: thou wilt hear, O Lord my God."
+  },
+  {
+   "verse": 16,
+   "start": 99.92,
+   "end": 107.19,
+   "text": "For I said, Hear me, lest otherwise they should rejoice over me: when my foot slippeth, they magnify themselves against me."
+  },
+  {
+   "verse": 17,
+   "start": 107.89,
+   "end": 112.19,
+   "text": "For I am ready to halt, and my sorrow is continually before me."
+  },
+  {
+   "verse": 18,
+   "start": 112.89,
+   "end": 116.83,
+   "text": "For I will declare mine iniquity; I will be sorry for my sin."
+  },
+  {
+   "verse": 19,
+   "start": 117.53,
+   "end": 123.82,
+   "text": "But mine enemies are lively, and they are strong: and they that hate me wrongfully are multiplied."
+  },
+  {
+   "verse": 20,
+   "start": 124.52,
+   "end": 130.64,
+   "text": "They also that render evil for good are mine adversaries; because I follow the thing that good is."
+  },
+  {
+   "verse": 21,
+   "start": 131.34,
+   "end": 135.87,
+   "text": "Forsake me not, O LORD: O my God, be not far from me."
+  },
+  {
+   "verse": 22,
+   "start": 136.57,
+   "end": 139.35,
+   "text": "Make haste to help me, O Lord my salvation."
+  }
+ ]
+}

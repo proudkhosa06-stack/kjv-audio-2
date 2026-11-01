@@ -1,0 +1,42 @@
+{
+ "book": "Psalms",
+ "chapter": 43,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-43.mp3",
+ "duration": 47.11,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 7.6,
+   "text": "Judge me, O God, and plead my cause against an ungodly nation: O deliver me from the deceitful and unjust man."
+  },
+  {
+   "verse": 2,
+   "start": 8.3,
+   "end": 16.1,
+   "text": "For thou art the God of my strength: why dost thou cast me off? why go I mourning because of the oppression of the enemy?"
+  },
+  {
+   "verse": 3,
+   "start": 16.8,
+   "end": 25.56,
+   "text": "O send out thy light and thy truth: let them lead me; let them bring me unto thy holy hill, and to thy tabernacles."
+  },
+  {
+   "verse": 4,
+   "start": 26.26,
+   "end": 34.28,
+   "text": "Then will I go unto the altar of God, unto God my exceeding joy: yea, upon the harp will I praise thee, O God my God."
+  },
+  {
+   "verse": 5,
+   "start": 34.98,
+   "end": 46.05,
+   "text": "Why art thou cast down, O my soul? and why art thou disquieted within me? hope in God: for I shall yet praise him, who is the health of my countenance, and my God."
+  }
+ ]
+}

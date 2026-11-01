@@ -1,0 +1,78 @@
+{
+ "book": "Psalms",
+ "chapter": 46,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-46.mp3",
+ "duration": 83.21,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 9.12,
+   "text": "To the chief Musician for the sons of Korah, A Song upon Alamoth. God is our refuge and strength, a very present help in trouble."
+  },
+  {
+   "verse": 2,
+   "start": 9.82,
+   "end": 16.95,
+   "text": "Therefore will not we fear, though the earth be removed, and though the mountains be carried into the midst of the sea;"
+  },
+  {
+   "verse": 3,
+   "start": 17.65,
+   "end": 24.15,
+   "text": "Though the waters thereof roar and be troubled, though the mountains shake with the swelling thereof. Selah."
+  },
+  {
+   "verse": 4,
+   "start": 24.85,
+   "end": 33.23,
+   "text": "There is a river, the streams whereof shall make glad the city of God, the holy place of the tabernacles of the most High."
+  },
+  {
+   "verse": 5,
+   "start": 33.93,
+   "end": 39.9,
+   "text": "God is in the midst of her; she shall not be moved: God shall help her, and that right early."
+  },
+  {
+   "verse": 6,
+   "start": 40.6,
+   "end": 46.31,
+   "text": "The heathen raged, the kingdoms were moved: he uttered his voice, the earth melted."
+  },
+  {
+   "verse": 7,
+   "start": 47.01,
+   "end": 52.88,
+   "text": "The LORD of hosts is with us; the God of Jacob is our refuge. Selah."
+  },
+  {
+   "verse": 8,
+   "start": 53.58,
+   "end": 58.67,
+   "text": "Come, behold the works of the LORD, what desolations he hath made in the earth."
+  },
+  {
+   "verse": 9,
+   "start": 59.37,
+   "end": 68.45,
+   "text": "He maketh wars to cease unto the end of the earth; he breaketh the bow, and cutteth the spear in sunder; he burneth the chariot in the fire."
+  },
+  {
+   "verse": 10,
+   "start": 69.15,
+   "end": 76.26,
+   "text": "Be still, and know that I am God: I will be exalted among the heathen, I will be exalted in the earth."
+  },
+  {
+   "verse": 11,
+   "start": 76.96,
+   "end": 82.15,
+   "text": "The LORD of hosts is with us; the God of Jacob is our refuge. Selah."
+  }
+ ]
+}

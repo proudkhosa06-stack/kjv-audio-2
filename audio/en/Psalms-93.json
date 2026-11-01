@@ -1,0 +1,42 @@
+{
+ "book": "Psalms",
+ "chapter": 93,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-93.mp3",
+ "duration": 39.65,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 12.71,
+   "text": "The LORD reigneth, he is clothed with majesty; the LORD is clothed with strength, wherewith he hath girded himself: the world also is stablished, that it cannot be moved."
+  },
+  {
+   "verse": 2,
+   "start": 13.41,
+   "end": 17.27,
+   "text": "Thy throne is established of old: thou art from everlasting."
+  },
+  {
+   "verse": 3,
+   "start": 17.97,
+   "end": 25.02,
+   "text": "The floods have lifted up, O LORD, the floods have lifted up their voice; the floods lift up their waves."
+  },
+  {
+   "verse": 4,
+   "start": 25.72,
+   "end": 32.12,
+   "text": "The LORD on high is mightier than the noise of many waters, yea, than the mighty waves of the sea."
+  },
+  {
+   "verse": 5,
+   "start": 32.82,
+   "end": 38.58,
+   "text": "Thy testimonies are very sure: holiness becometh thine house, O LORD, for ever."
+  }
+ ]
+}

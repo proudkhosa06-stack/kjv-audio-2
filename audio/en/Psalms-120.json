@@ -1,0 +1,54 @@
+{
+ "book": "Psalms",
+ "chapter": 120,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-120.mp3",
+ "duration": 36.22,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 5.63,
+   "text": "A Song of degrees. In my distress I cried unto the LORD, and he heard me."
+  },
+  {
+   "verse": 2,
+   "start": 6.33,
+   "end": 11.01,
+   "text": "Deliver my soul, O LORD, from lying lips, and from a deceitful tongue."
+  },
+  {
+   "verse": 3,
+   "start": 11.71,
+   "end": 16.53,
+   "text": "What shall be given unto thee? or what shall be done unto thee, thou false tongue?"
+  },
+  {
+   "verse": 4,
+   "start": 17.23,
+   "end": 20.59,
+   "text": "Sharp arrows of the mighty, with coals of juniper."
+  },
+  {
+   "verse": 5,
+   "start": 21.29,
+   "end": 26.63,
+   "text": "Woe is me, that I sojourn in Mesech, that I dwell in the tents of Kedar!"
+  },
+  {
+   "verse": 6,
+   "start": 27.33,
+   "end": 30.72,
+   "text": "My soul hath long dwelt with him that hateth peace."
+  },
+  {
+   "verse": 7,
+   "start": 31.42,
+   "end": 35.15,
+   "text": "I am for peace: but when I speak, they are for war."
+  }
+ ]
+}

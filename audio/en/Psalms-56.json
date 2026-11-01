@@ -1,0 +1,90 @@
+{
+ "book": "Psalms",
+ "chapter": 56,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-56.mp3",
+ "duration": 91.63,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 14.04,
+   "text": "To the chief Musician upon Jonath-elem-rechokim, Michtam of David, when the Philistines took him in Gath. Be merciful unto me, O God: for man would swallow me up; he fighting daily oppresseth me."
+  },
+  {
+   "verse": 2,
+   "start": 14.74,
+   "end": 20.49,
+   "text": "Mine enemies would daily swallow me up: for they be many that fight against me, O thou most High."
+  },
+  {
+   "verse": 3,
+   "start": 21.19,
+   "end": 24.02,
+   "text": "What time I am afraid, I will trust in thee."
+  },
+  {
+   "verse": 4,
+   "start": 24.72,
+   "end": 32.52,
+   "text": "In God I will praise his word, in God I have put my trust; I will not fear what flesh can do unto me."
+  },
+  {
+   "verse": 5,
+   "start": 33.22,
+   "end": 38.15,
+   "text": "Every day they wrest my words: all their thoughts are against me for evil."
+  },
+  {
+   "verse": 6,
+   "start": 38.85,
+   "end": 44.64,
+   "text": "They gather themselves together, they hide themselves, they mark my steps, when they wait for my soul."
+  },
+  {
+   "verse": 7,
+   "start": 45.34,
+   "end": 50.44,
+   "text": "Shall they escape by iniquity? in thine anger cast down the people, O God."
+  },
+  {
+   "verse": 8,
+   "start": 51.14,
+   "end": 57.5,
+   "text": "Thou tellest my wanderings: put thou my tears into thy bottle: are they not in thy book?"
+  },
+  {
+   "verse": 9,
+   "start": 58.2,
+   "end": 65.12,
+   "text": "When I cry unto thee, then shall mine enemies turn back: this I know; for God is for me."
+  },
+  {
+   "verse": 10,
+   "start": 65.82,
+   "end": 70.63,
+   "text": "In God will I praise his word: in the LORD will I praise his word."
+  },
+  {
+   "verse": 11,
+   "start": 71.33,
+   "end": 76.01,
+   "text": "In God have I put my trust: I will not be afraid what man can do unto me."
+  },
+  {
+   "verse": 12,
+   "start": 76.71,
+   "end": 80.89,
+   "text": "Thy vows are upon me, O God: I will render praises unto thee."
+  },
+  {
+   "verse": 13,
+   "start": 81.59,
+   "end": 90.57,
+   "text": "For thou hast delivered my soul from death: wilt not thou deliver my feet from falling, that I may walk before God in the light of the living?"
+  }
+ ]
+}

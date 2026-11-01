@@ -1,0 +1,48 @@
+{
+ "book": "Psalms",
+ "chapter": 128,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-128.mp3",
+ "duration": 38.04,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 6.15,
+   "text": "A Song of degrees. Blessed is every one that feareth the LORD; that walketh in his ways."
+  },
+  {
+   "verse": 2,
+   "start": 6.85,
+   "end": 12.16,
+   "text": "For thou shalt eat the labour of thine hands: happy shalt thou be, and it shall be well with thee."
+  },
+  {
+   "verse": 3,
+   "start": 12.86,
+   "end": 20.23,
+   "text": "Thy wife shall be as a fruitful vine by the sides of thine house: thy children like olive plants round about thy table."
+  },
+  {
+   "verse": 4,
+   "start": 20.93,
+   "end": 24.68,
+   "text": "Behold, that thus shall the man be blessed that feareth the LORD."
+  },
+  {
+   "verse": 5,
+   "start": 25.38,
+   "end": 31.85,
+   "text": "The LORD shall bless thee out of Zion: and thou shalt see the good of Jerusalem all the days of thy life."
+  },
+  {
+   "verse": 6,
+   "start": 32.55,
+   "end": 36.98,
+   "text": "Yea, thou shalt see thy children's children, and peace upon Israel."
+  }
+ ]
+}

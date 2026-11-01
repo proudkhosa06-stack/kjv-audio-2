@@ -1,0 +1,54 @@
+{
+ "book": "Psalms",
+ "chapter": 67,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-67.mp3",
+ "duration": 48.58,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 11.83,
+   "text": "To the chief Musician on Neginoth, A Psalm or Song. God be merciful unto us, and bless us; and cause his face to shine upon us; Selah."
+  },
+  {
+   "verse": 2,
+   "start": 12.53,
+   "end": 17.06,
+   "text": "That thy way may be known upon earth, thy saving health among all nations."
+  },
+  {
+   "verse": 3,
+   "start": 17.76,
+   "end": 22.1,
+   "text": "Let the people praise thee, O God; let all the people praise thee."
+  },
+  {
+   "verse": 4,
+   "start": 22.8,
+   "end": 31.52,
+   "text": "O let the nations be glad and sing for joy: for thou shalt judge the people righteously, and govern the nations upon earth. Selah."
+  },
+  {
+   "verse": 5,
+   "start": 32.22,
+   "end": 36.34,
+   "text": "Let the people praise thee, O God; let all the people praise thee."
+  },
+  {
+   "verse": 6,
+   "start": 37.04,
+   "end": 42.57,
+   "text": "Then shall the earth yield her increase; and God, even our own God, shall bless us."
+  },
+  {
+   "verse": 7,
+   "start": 43.27,
+   "end": 47.51,
+   "text": "God shall bless us; and all the ends of the earth shall fear him."
+  }
+ ]
+}

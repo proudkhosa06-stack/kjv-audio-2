@@ -1,0 +1,48 @@
+{
+ "book": "Psalms",
+ "chapter": 53,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-53.mp3",
+ "duration": 65.47,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 14.14,
+   "text": "To the chief Musician upon Mahalath, Maschil, A Psalm of David. The fool hath said in his heart, There is no God. Corrupt are they, and have done abominable iniquity: there is none that doeth good."
+  },
+  {
+   "verse": 2,
+   "start": 14.84,
+   "end": 21.89,
+   "text": "God looked down from heaven upon the children of men, to see if there were any that did understand, that did seek God."
+  },
+  {
+   "verse": 3,
+   "start": 22.59,
+   "end": 31.93,
+   "text": "Every one of them is gone back: they are altogether become filthy; there is none that doeth good, no, not one."
+  },
+  {
+   "verse": 4,
+   "start": 32.63,
+   "end": 40.7,
+   "text": "Have the workers of iniquity no knowledge? who eat up my people as they eat bread: they have not called upon God."
+  },
+  {
+   "verse": 5,
+   "start": 41.4,
+   "end": 53.02,
+   "text": "There were they in great fear, where no fear was: for God hath scattered the bones of him that encampeth against thee: thou hast put them to shame, because God hath despised them."
+  },
+  {
+   "verse": 6,
+   "start": 53.72,
+   "end": 64.41,
+   "text": "Oh that the salvation of Israel were come out of Zion! When God bringeth back the captivity of his people, Jacob shall rejoice, and Israel shall be glad."
+  }
+ ]
+}

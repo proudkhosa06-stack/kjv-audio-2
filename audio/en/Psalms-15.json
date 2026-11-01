@@ -1,0 +1,42 @@
+{
+ "book": "Psalms",
+ "chapter": 15,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-15.mp3",
+ "duration": 42.46,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 7.37,
+   "text": "A Psalm of David. LORD, who shall abide in thy tabernacle? who shall dwell in thy holy hill?"
+  },
+  {
+   "verse": 2,
+   "start": 8.07,
+   "end": 13.4,
+   "text": "He that walketh uprightly, and worketh righteousness, and speaketh the truth in his heart."
+  },
+  {
+   "verse": 3,
+   "start": 14.1,
+   "end": 21.63,
+   "text": "He that backbiteth not with his tongue, nor doeth evil to his neighbour, nor taketh up a reproach against his neighbour."
+  },
+  {
+   "verse": 4,
+   "start": 22.33,
+   "end": 31.92,
+   "text": "In whose eyes a vile person is contemned; but he honoureth them that fear the LORD. He that sweareth to his own hurt, and changeth not."
+  },
+  {
+   "verse": 5,
+   "start": 32.62,
+   "end": 41.39,
+   "text": "He that putteth not out his money to usury, nor taketh reward against the innocent. He that doeth these things shall never be moved."
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "book": "Psalms",
+ "chapter": 8,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-8.mp3",
+ "duration": 66.24,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 11.95,
+   "text": "To the chief Musician upon Gittith, A Psalm of David. O LORD our Lord, how excellent is thy name in all the earth! who hast set thy glory above the heavens."
+  },
+  {
+   "verse": 2,
+   "start": 12.65,
+   "end": 21.29,
+   "text": "Out of the mouth of babes and sucklings hast thou ordained strength because of thine enemies, that thou mightest still the enemy and the avenger."
+  },
+  {
+   "verse": 3,
+   "start": 21.99,
+   "end": 28.85,
+   "text": "When I consider thy heavens, the work of thy fingers, the moon and the stars, which thou hast ordained;"
+  },
+  {
+   "verse": 4,
+   "start": 29.55,
+   "end": 35.79,
+   "text": "What is man, that thou art mindful of him? and the son of man, that thou visitest him?"
+  },
+  {
+   "verse": 5,
+   "start": 36.49,
+   "end": 41.95,
+   "text": "For thou hast made him a little lower than the angels, and hast crowned him with glory and honour."
+  },
+  {
+   "verse": 6,
+   "start": 42.65,
+   "end": 48.53,
+   "text": "Thou madest him to have dominion over the works of thy hands; thou hast put all things under his feet:"
+  },
+  {
+   "verse": 7,
+   "start": 49.23,
+   "end": 52.79,
+   "text": "All sheep and oxen, yea, and the beasts of the field;"
+  },
+  {
+   "verse": 8,
+   "start": 53.49,
+   "end": 60.06,
+   "text": "The fowl of the air, and the fish of the sea, and whatsoever passeth through the paths of the seas."
+  },
+  {
+   "verse": 9,
+   "start": 60.76,
+   "end": 65.19,
+   "text": "O LORD our Lord, how excellent is thy name in all the earth!"
+  }
+ ]
+}

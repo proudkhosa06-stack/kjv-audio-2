@@ -1,0 +1,54 @@
+{
+ "book": "Psalms",
+ "chapter": 11,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-11.mp3",
+ "duration": 57.36,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 11.01,
+   "text": "To the chief Musician, A Psalm of David. In the LORD put I my trust: how say ye to my soul, Flee as a bird to your mountain?"
+  },
+  {
+   "verse": 2,
+   "start": 11.71,
+   "end": 20.77,
+   "text": "For, lo, the wicked bend their bow, they make ready their arrow upon the string, that they may privily shoot at the upright in heart."
+  },
+  {
+   "verse": 3,
+   "start": 21.47,
+   "end": 24.64,
+   "text": "If the foundations be destroyed, what can the righteous do?"
+  },
+  {
+   "verse": 4,
+   "start": 25.34,
+   "end": 33.69,
+   "text": "The LORD is in his holy temple, the LORD's throne is in heaven: his eyes behold, his eyelids try, the children of men."
+  },
+  {
+   "verse": 5,
+   "start": 34.39,
+   "end": 40.62,
+   "text": "The LORD trieth the righteous: but the wicked and him that loveth violence his soul hateth."
+  },
+  {
+   "verse": 6,
+   "start": 41.32,
+   "end": 50.53,
+   "text": "Upon the wicked he shall rain snares, fire and brimstone, and an horrible tempest: this shall be the portion of their cup."
+  },
+  {
+   "verse": 7,
+   "start": 51.23,
+   "end": 56.3,
+   "text": "For the righteous LORD loveth righteousness; his countenance doth behold the upright."
+  }
+ ]
+}

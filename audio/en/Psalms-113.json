@@ -1,0 +1,66 @@
+{
+ "book": "Psalms",
+ "chapter": 113,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-113.mp3",
+ "duration": 54.5,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 6.38,
+   "text": "Praise ye the LORD. Praise, O ye servants of the LORD, praise the name of the LORD."
+  },
+  {
+   "verse": 2,
+   "start": 7.08,
+   "end": 10.8,
+   "text": "Blessed be the name of the LORD from this time forth and for evermore."
+  },
+  {
+   "verse": 3,
+   "start": 11.5,
+   "end": 19.11,
+   "text": "From the rising of the sun unto the going down of the same the LORD's name is to be praised."
+  },
+  {
+   "verse": 4,
+   "start": 19.81,
+   "end": 24.2,
+   "text": "The LORD is high above all nations, and his glory above the heavens."
+  },
+  {
+   "verse": 5,
+   "start": 24.9,
+   "end": 28.38,
+   "text": "Who is like unto the LORD our God, who dwelleth on high,"
+  },
+  {
+   "verse": 6,
+   "start": 29.08,
+   "end": 33.99,
+   "text": "Who humbleth himself to behold the things that are in heaven, and in the earth!"
+  },
+  {
+   "verse": 7,
+   "start": 34.69,
+   "end": 39.64,
+   "text": "He raiseth up the poor out of the dust, and lifteth the needy out of the dunghill;"
+  },
+  {
+   "verse": 8,
+   "start": 40.34,
+   "end": 44.28,
+   "text": "That he may set him with princes, even with the princes of his people."
+  },
+  {
+   "verse": 9,
+   "start": 44.98,
+   "end": 53.45,
+   "text": "He maketh the barren woman to keep house, and to be a joyful mother of children. Praise ye the LORD."
+  }
+ ]
+}

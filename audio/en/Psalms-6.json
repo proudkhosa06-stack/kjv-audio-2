@@ -1,0 +1,72 @@
+{
+ "book": "Psalms",
+ "chapter": 6,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-6.mp3",
+ "duration": 68.76,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 11.18,
+   "text": "To the chief Musician on Neginoth upon Sheminith, A Psalm of David. O LORD, rebuke me not in thine anger, neither chasten me in thy hot displeasure."
+  },
+  {
+   "verse": 2,
+   "start": 11.88,
+   "end": 18.61,
+   "text": "Have mercy upon me, O LORD; for I am weak: O LORD, heal me; for my bones are vexed."
+  },
+  {
+   "verse": 3,
+   "start": 19.31,
+   "end": 23.66,
+   "text": "My soul is also sore vexed: but thou, O LORD, how long?"
+  },
+  {
+   "verse": 4,
+   "start": 24.36,
+   "end": 29.27,
+   "text": "Return, O LORD, deliver my soul: oh save me for thy mercies' sake."
+  },
+  {
+   "verse": 5,
+   "start": 29.97,
+   "end": 34.98,
+   "text": "For in death there is no remembrance of thee: in the grave who shall give thee thanks?"
+  },
+  {
+   "verse": 6,
+   "start": 35.68,
+   "end": 42.56,
+   "text": "I am weary with my groaning; all the night make I my bed to swim; I water my couch with my tears."
+  },
+  {
+   "verse": 7,
+   "start": 43.26,
+   "end": 48.83,
+   "text": "Mine eye is consumed because of grief; it waxeth old because of all mine enemies."
+  },
+  {
+   "verse": 8,
+   "start": 49.53,
+   "end": 55.73,
+   "text": "Depart from me, all ye workers of iniquity; for the LORD hath heard the voice of my weeping."
+  },
+  {
+   "verse": 9,
+   "start": 56.43,
+   "end": 60.6,
+   "text": "The LORD hath heard my supplication; the LORD will receive my prayer."
+  },
+  {
+   "verse": 10,
+   "start": 61.3,
+   "end": 67.7,
+   "text": "Let all mine enemies be ashamed and sore vexed: let them return and be ashamed suddenly."
+  }
+ ]
+}

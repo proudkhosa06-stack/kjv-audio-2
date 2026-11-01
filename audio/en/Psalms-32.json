@@ -1,0 +1,78 @@
+{
+ "book": "Psalms",
+ "chapter": 32,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-32.mp3",
+ "duration": 94.92,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 7.74,
+   "text": "A Psalm of David, Maschil. Blessed is he whose transgression is forgiven, whose sin is covered."
+  },
+  {
+   "verse": 2,
+   "start": 8.44,
+   "end": 15.23,
+   "text": "Blessed is the man unto whom the LORD imputeth not iniquity, and in whose spirit there is no guile."
+  },
+  {
+   "verse": 3,
+   "start": 15.93,
+   "end": 20.48,
+   "text": "When I kept silence, my bones waxed old through my roaring all the day long."
+  },
+  {
+   "verse": 4,
+   "start": 21.18,
+   "end": 27.36,
+   "text": "For day and night thy hand was heavy upon me: my moisture is turned into the drought of summer. Selah."
+  },
+  {
+   "verse": 5,
+   "start": 28.06,
+   "end": 40.13,
+   "text": "I acknowledged my sin unto thee, and mine iniquity have I not hid. I said, I will confess my transgressions unto the LORD; and thou forgavest the iniquity of my sin. Selah."
+  },
+  {
+   "verse": 6,
+   "start": 40.83,
+   "end": 52.61,
+   "text": "For this shall every one that is godly pray unto thee in a time when thou mayest be found: surely in the floods of great waters they shall not come nigh unto him."
+  },
+  {
+   "verse": 7,
+   "start": 53.31,
+   "end": 60.83,
+   "text": "Thou art my hiding place; thou shalt preserve me from trouble; thou shalt compass me about with songs of deliverance. Selah."
+  },
+  {
+   "verse": 8,
+   "start": 61.53,
+   "end": 67.51,
+   "text": "I will instruct thee and teach thee in the way which thou shalt go: I will guide thee with mine eye."
+  },
+  {
+   "verse": 9,
+   "start": 68.21,
+   "end": 78.6,
+   "text": "Be ye not as the horse, or as the mule, which have no understanding: whose mouth must be held in with bit and bridle, lest they come near unto thee."
+  },
+  {
+   "verse": 10,
+   "start": 79.3,
+   "end": 85.23,
+   "text": "Many sorrows shall be to the wicked: but he that trusteth in the LORD, mercy shall compass him about."
+  },
+  {
+   "verse": 11,
+   "start": 85.93,
+   "end": 93.85,
+   "text": "Be glad in the LORD, and rejoice, ye righteous: and shout for joy, all ye that are upright in heart."
+  }
+ ]
+}

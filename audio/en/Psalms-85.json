@@ -1,0 +1,90 @@
+{
+ "book": "Psalms",
+ "chapter": 85,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-85.mp3",
+ "duration": 85.49,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 10.55,
+   "text": "To the chief Musician, A Psalm for the sons of Korah. LORD, thou hast been favourable unto thy land: thou hast brought back the captivity of Jacob."
+  },
+  {
+   "verse": 2,
+   "start": 11.25,
+   "end": 17.07,
+   "text": "Thou hast forgiven the iniquity of thy people, thou hast covered all their sin. Selah."
+  },
+  {
+   "verse": 3,
+   "start": 17.77,
+   "end": 23.95,
+   "text": "Thou hast taken away all thy wrath: thou hast turned thyself from the fierceness of thine anger."
+  },
+  {
+   "verse": 4,
+   "start": 24.65,
+   "end": 29.93,
+   "text": "Turn us, O God of our salvation, and cause thine anger toward us to cease."
+  },
+  {
+   "verse": 5,
+   "start": 30.63,
+   "end": 36.13,
+   "text": "Wilt thou be angry with us for ever? wilt thou draw out thine anger to all generations?"
+  },
+  {
+   "verse": 6,
+   "start": 36.83,
+   "end": 40.8,
+   "text": "Wilt thou not revive us again: that thy people may rejoice in thee?"
+  },
+  {
+   "verse": 7,
+   "start": 41.5,
+   "end": 45.66,
+   "text": "Shew us thy mercy, O LORD, and grant us thy salvation."
+  },
+  {
+   "verse": 8,
+   "start": 46.36,
+   "end": 55.01,
+   "text": "I will hear what God the LORD will speak: for he will speak peace unto his people, and to his saints: but let them not turn again to folly."
+  },
+  {
+   "verse": 9,
+   "start": 55.71,
+   "end": 61.24,
+   "text": "Surely his salvation is nigh them that fear him; that glory may dwell in our land."
+  },
+  {
+   "verse": 10,
+   "start": 61.94,
+   "end": 66.6,
+   "text": "Mercy and truth are met together; righteousness and peace have kissed each other."
+  },
+  {
+   "verse": 11,
+   "start": 67.3,
+   "end": 72.05,
+   "text": "Truth shall spring out of the earth; and righteousness shall look down from heaven."
+  },
+  {
+   "verse": 12,
+   "start": 72.75,
+   "end": 78.81,
+   "text": "Yea, the LORD shall give that which is good; and our land shall yield her increase."
+  },
+  {
+   "verse": 13,
+   "start": 79.51,
+   "end": 84.43,
+   "text": "Righteousness shall go before him; and shall set us in the way of his steps."
+  }
+ ]
+}

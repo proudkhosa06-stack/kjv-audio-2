@@ -1,0 +1,102 @@
+{
+ "book": "Psalms",
+ "chapter": 92,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-92.mp3",
+ "duration": 103.25,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 9.92,
+   "text": "A Psalm or Song for the sabbath day. It is a good thing to give thanks unto the LORD, and to sing praises unto thy name, O most High:"
+  },
+  {
+   "verse": 2,
+   "start": 10.62,
+   "end": 15.52,
+   "text": "To shew forth thy lovingkindness in the morning, and thy faithfulness every night,"
+  },
+  {
+   "verse": 3,
+   "start": 16.22,
+   "end": 22.53,
+   "text": "Upon an instrument of ten strings, and upon the psaltery; upon the harp with a solemn sound."
+  },
+  {
+   "verse": 4,
+   "start": 23.23,
+   "end": 29.34,
+   "text": "For thou, LORD, hast made me glad through thy work: I will triumph in the works of thy hands."
+  },
+  {
+   "verse": 5,
+   "start": 30.04,
+   "end": 34.44,
+   "text": "O LORD, how great are thy works! and thy thoughts are very deep."
+  },
+  {
+   "verse": 6,
+   "start": 35.14,
+   "end": 39.47,
+   "text": "A brutish man knoweth not; neither doth a fool understand this."
+  },
+  {
+   "verse": 7,
+   "start": 40.17,
+   "end": 48.8,
+   "text": "When the wicked spring as the grass, and when all the workers of iniquity do flourish; it is that they shall be destroyed for ever:"
+  },
+  {
+   "verse": 8,
+   "start": 49.5,
+   "end": 52.84,
+   "text": "But thou, LORD, art most high for evermore."
+  },
+  {
+   "verse": 9,
+   "start": 53.54,
+   "end": 63.19,
+   "text": "For, lo, thine enemies, O LORD, for, lo, thine enemies shall perish; all the workers of iniquity shall be scattered."
+  },
+  {
+   "verse": 10,
+   "start": 63.89,
+   "end": 69.82,
+   "text": "But my horn shalt thou exalt like the horn of an unicorn: I shall be anointed with fresh oil."
+  },
+  {
+   "verse": 11,
+   "start": 70.52,
+   "end": 78.32,
+   "text": "Mine eye also shall see my desire on mine enemies, and mine ears shall hear my desire of the wicked that rise up against me."
+  },
+  {
+   "verse": 12,
+   "start": 79.02,
+   "end": 84.3,
+   "text": "The righteous shall flourish like the palm tree: he shall grow like a cedar in Lebanon."
+  },
+  {
+   "verse": 13,
+   "start": 85.0,
+   "end": 89.91,
+   "text": "Those that be planted in the house of the LORD shall flourish in the courts of our God."
+  },
+  {
+   "verse": 14,
+   "start": 90.61,
+   "end": 95.56,
+   "text": "They shall still bring forth fruit in old age; they shall be fat and flourishing;"
+  },
+  {
+   "verse": 15,
+   "start": 96.26,
+   "end": 102.19,
+   "text": "To shew that the LORD is upright: he is my rock, and there is no unrighteousness in him."
+  }
+ ]
+}

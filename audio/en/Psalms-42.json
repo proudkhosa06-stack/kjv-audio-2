@@ -1,0 +1,78 @@
+{
+ "book": "Psalms",
+ "chapter": 42,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-42.mp3",
+ "duration": 104.52,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 9.81,
+   "text": "To the chief Musician, Maschil, for the sons of Korah. As the hart panteth after the water brooks, so panteth my soul after thee, O God."
+  },
+  {
+   "verse": 2,
+   "start": 10.51,
+   "end": 16.35,
+   "text": "My soul thirsteth for God, for the living God: when shall I come and appear before God?"
+  },
+  {
+   "verse": 3,
+   "start": 17.05,
+   "end": 22.51,
+   "text": "My tears have been my meat day and night, while they continually say unto me, Where is thy God?"
+  },
+  {
+   "verse": 4,
+   "start": 23.21,
+   "end": 35.65,
+   "text": "When I remember these things, I pour out my soul in me: for I had gone with the multitude, I went with them to the house of God, with the voice of joy and praise, with a multitude that kept holyday."
+  },
+  {
+   "verse": 5,
+   "start": 36.35,
+   "end": 46.31,
+   "text": "Why art thou cast down, O my soul? and why art thou disquieted in me? hope thou in God: for I shall yet praise him for the help of his countenance."
+  },
+  {
+   "verse": 6,
+   "start": 47.01,
+   "end": 56.55,
+   "text": "O my God, my soul is cast down within me: therefore will I remember thee from the land of Jordan, and of the Hermonites, from the hill Mizar."
+  },
+  {
+   "verse": 7,
+   "start": 57.25,
+   "end": 64.88,
+   "text": "Deep calleth unto deep at the noise of thy waterspouts: all thy waves and thy billows are gone over me."
+  },
+  {
+   "verse": 8,
+   "start": 65.58,
+   "end": 74.89,
+   "text": "Yet the LORD will command his lovingkindness in the daytime, and in the night his song shall be with me, and my prayer unto the God of my life."
+  },
+  {
+   "verse": 9,
+   "start": 75.59,
+   "end": 83.15,
+   "text": "I will say unto God my rock, Why hast thou forgotten me? why go I mourning because of the oppression of the enemy?"
+  },
+  {
+   "verse": 10,
+   "start": 83.85,
+   "end": 91.05,
+   "text": "As with a sword in my bones, mine enemies reproach me; while they say daily unto me, Where is thy God?"
+  },
+  {
+   "verse": 11,
+   "start": 91.75,
+   "end": 103.45,
+   "text": "Why art thou cast down, O my soul? and why art thou disquieted within me? hope thou in God: for I shall yet praise him, who is the health of my countenance, and my God."
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "book": "Psalms",
+ "chapter": 82,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-82.mp3",
+ "duration": 46.75,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 7.66,
+   "text": "A Psalm of Asaph. God standeth in the congregation of the mighty; he judgeth among the gods."
+  },
+  {
+   "verse": 2,
+   "start": 8.36,
+   "end": 11.99,
+   "text": "How long will ye judge unjustly, and accept the persons of the wicked? Selah."
+  },
+  {
+   "verse": 3,
+   "start": 12.69,
+   "end": 16.91,
+   "text": "Defend the poor and fatherless: do justice to the afflicted and needy."
+  },
+  {
+   "verse": 4,
+   "start": 17.61,
+   "end": 21.55,
+   "text": "Deliver the poor and needy: rid them out of the hand of the wicked."
+  },
+  {
+   "verse": 5,
+   "start": 22.25,
+   "end": 29.29,
+   "text": "They know not, neither will they understand; they walk on in darkness: all the foundations of the earth are out of course."
+  },
+  {
+   "verse": 6,
+   "start": 29.99,
+   "end": 35.14,
+   "text": "I have said, Ye are gods; and all of you are children of the most High."
+  },
+  {
+   "verse": 7,
+   "start": 35.84,
+   "end": 39.68,
+   "text": "But ye shall die like men, and fall like one of the princes."
+  },
+  {
+   "verse": 8,
+   "start": 40.38,
+   "end": 45.69,
+   "text": "Arise, O God, judge the earth: for thou shalt inherit all nations."
+  }
+ ]
+}

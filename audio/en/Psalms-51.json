@@ -1,0 +1,126 @@
+{
+ "book": "Psalms",
+ "chapter": 51,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-51.mp3",
+ "duration": 140.38,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 17.5,
+   "text": "To the chief Musician, A Psalm of David, when Nathan the prophet came unto him, after he had gone in to Bath-sheba. Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions."
+  },
+  {
+   "verse": 2,
+   "start": 18.2,
+   "end": 23.31,
+   "text": "Wash me throughly from mine iniquity, and cleanse me from my sin."
+  },
+  {
+   "verse": 3,
+   "start": 24.01,
+   "end": 28.39,
+   "text": "For I acknowledge my transgressions: and my sin is ever before me."
+  },
+  {
+   "verse": 4,
+   "start": 29.09,
+   "end": 39.48,
+   "text": "Against thee, thee only, have I sinned, and done this evil in thy sight: that thou mightest be justified when thou speakest, and be clear when thou judgest."
+  },
+  {
+   "verse": 5,
+   "start": 40.18,
+   "end": 45.84,
+   "text": "Behold, I was shapen in iniquity; and in sin did my mother conceive me."
+  },
+  {
+   "verse": 6,
+   "start": 46.54,
+   "end": 53.86,
+   "text": "Behold, thou desirest truth in the inward parts: and in the hidden part thou shalt make me to know wisdom."
+  },
+  {
+   "verse": 7,
+   "start": 54.56,
+   "end": 60.81,
+   "text": "Purge me with hyssop, and I shall be clean: wash me, and I shall be whiter than snow."
+  },
+  {
+   "verse": 8,
+   "start": 61.51,
+   "end": 67.19,
+   "text": "Make me to hear joy and gladness; that the bones which thou hast broken may rejoice."
+  },
+  {
+   "verse": 9,
+   "start": 67.89,
+   "end": 72.6,
+   "text": "Hide thy face from my sins, and blot out all mine iniquities."
+  },
+  {
+   "verse": 10,
+   "start": 73.3,
+   "end": 77.8,
+   "text": "Create in me a clean heart, O God; and renew a right spirit within me."
+  },
+  {
+   "verse": 11,
+   "start": 78.5,
+   "end": 83.44,
+   "text": "Cast me not away from thy presence; and take not thy holy spirit from me."
+  },
+  {
+   "verse": 12,
+   "start": 84.14,
+   "end": 88.72,
+   "text": "Restore unto me the joy of thy salvation; and uphold me with thy free spirit."
+  },
+  {
+   "verse": 13,
+   "start": 89.42,
+   "end": 94.68,
+   "text": "Then will I teach transgressors thy ways; and sinners shall be converted unto thee."
+  },
+  {
+   "verse": 14,
+   "start": 95.38,
+   "end": 103.02,
+   "text": "Deliver me from bloodguiltiness, O God, thou God of my salvation: and my tongue shall sing aloud of thy righteousness."
+  },
+  {
+   "verse": 15,
+   "start": 103.72,
+   "end": 108.69,
+   "text": "O Lord, open thou my lips; and my mouth shall shew forth thy praise."
+  },
+  {
+   "verse": 16,
+   "start": 109.39,
+   "end": 115.03,
+   "text": "For thou desirest not sacrifice; else would I give it: thou delightest not in burnt offering."
+  },
+  {
+   "verse": 17,
+   "start": 115.73,
+   "end": 122.81,
+   "text": "The sacrifices of God are a broken spirit: a broken and a contrite heart, O God, thou wilt not despise."
+  },
+  {
+   "verse": 18,
+   "start": 123.51,
+   "end": 128.36,
+   "text": "Do good in thy good pleasure unto Zion: build thou the walls of Jerusalem."
+  },
+  {
+   "verse": 19,
+   "start": 129.06,
+   "end": 139.32,
+   "text": "Then shalt thou be pleased with the sacrifices of righteousness, with burnt offering and whole burnt offering: then shall they offer bullocks upon thine altar."
+  }
+ ]
+}

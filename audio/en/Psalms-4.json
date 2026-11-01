@@ -1,0 +1,60 @@
+{
+ "book": "Psalms",
+ "chapter": 4,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-4.mp3",
+ "duration": 66.36,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 13.57,
+   "text": "To the chief Musician on Neginoth, A Psalm of David. Hear me when I call, O God of my righteousness: thou hast enlarged me when I was in distress; have mercy upon me, and hear my prayer."
+  },
+  {
+   "verse": 2,
+   "start": 14.27,
+   "end": 23.61,
+   "text": "O ye sons of men, how long will ye turn my glory into shame? how long will ye love vanity, and seek after leasing? Selah."
+  },
+  {
+   "verse": 3,
+   "start": 24.31,
+   "end": 31.09,
+   "text": "But know that the LORD hath set apart him that is godly for himself: the LORD will hear when I call unto him."
+  },
+  {
+   "verse": 4,
+   "start": 31.79,
+   "end": 38.53,
+   "text": "Stand in awe, and sin not: commune with your own heart upon your bed, and be still. Selah."
+  },
+  {
+   "verse": 5,
+   "start": 39.23,
+   "end": 43.78,
+   "text": "Offer the sacrifices of righteousness, and put your trust in the LORD."
+  },
+  {
+   "verse": 6,
+   "start": 44.48,
+   "end": 52.24,
+   "text": "There be many that say, Who will shew us any good? LORD, lift thou up the light of thy countenance upon us."
+  },
+  {
+   "verse": 7,
+   "start": 52.94,
+   "end": 58.28,
+   "text": "Thou hast put gladness in my heart, more than in the time that their corn and their wine increased."
+  },
+  {
+   "verse": 8,
+   "start": 58.98,
+   "end": 65.31,
+   "text": "I will both lay me down in peace, and sleep: for thou, LORD, only makest me dwell in safety."
+  }
+ ]
+}

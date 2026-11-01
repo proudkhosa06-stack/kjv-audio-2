@@ -1,0 +1,66 @@
+{
+ "book": "Psalms",
+ "chapter": 149,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-149.mp3",
+ "duration": 55.06,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 6.58,
+   "text": "Praise ye the LORD. Sing unto the LORD a new song, and his praise in the congregation of saints."
+  },
+  {
+   "verse": 2,
+   "start": 7.28,
+   "end": 13.01,
+   "text": "Let Israel rejoice in him that made him: let the children of Zion be joyful in their King."
+  },
+  {
+   "verse": 3,
+   "start": 13.71,
+   "end": 19.41,
+   "text": "Let them praise his name in the dance: let them sing praises unto him with the timbrel and harp."
+  },
+  {
+   "verse": 4,
+   "start": 20.11,
+   "end": 25.42,
+   "text": "For the LORD taketh pleasure in his people: he will beautify the meek with salvation."
+  },
+  {
+   "verse": 5,
+   "start": 26.12,
+   "end": 31.1,
+   "text": "Let the saints be joyful in glory: let them sing aloud upon their beds."
+  },
+  {
+   "verse": 6,
+   "start": 31.8,
+   "end": 36.8,
+   "text": "Let the high praises of God be in their mouth, and a twoedged sword in their hand;"
+  },
+  {
+   "verse": 7,
+   "start": 37.5,
+   "end": 41.84,
+   "text": "To execute vengeance upon the heathen, and punishments upon the people;"
+  },
+  {
+   "verse": 8,
+   "start": 42.54,
+   "end": 46.61,
+   "text": "To bind their kings with chains, and their nobles with fetters of iron;"
+  },
+  {
+   "verse": 9,
+   "start": 47.31,
+   "end": 53.99,
+   "text": "To execute upon them the judgment written: this honour have all his saints. Praise ye the LORD."
+  }
+ ]
+}

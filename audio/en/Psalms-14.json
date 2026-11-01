@@ -1,0 +1,54 @@
+{
+ "book": "Psalms",
+ "chapter": 14,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-14.mp3",
+ "duration": 57.7,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 12.57,
+   "text": "To the chief Musician, A Psalm of David. The fool hath said in his heart, There is no God. They are corrupt, they have done abominable works, there is none that doeth good."
+  },
+  {
+   "verse": 2,
+   "start": 13.27,
+   "end": 20.18,
+   "text": "The LORD looked down from heaven upon the children of men, to see if there were any that did understand, and seek God."
+  },
+  {
+   "verse": 3,
+   "start": 20.88,
+   "end": 27.82,
+   "text": "They are all gone aside, they are all together become filthy: there is none that doeth good, no, not one."
+  },
+  {
+   "verse": 4,
+   "start": 28.52,
+   "end": 35.71,
+   "text": "Have all the workers of iniquity no knowledge? who eat up my people as they eat bread, and call not upon the LORD."
+  },
+  {
+   "verse": 5,
+   "start": 36.41,
+   "end": 41.03,
+   "text": "There were they in great fear: for God is in the generation of the righteous."
+  },
+  {
+   "verse": 6,
+   "start": 41.73,
+   "end": 45.87,
+   "text": "Ye have shamed the counsel of the poor, because the LORD is his refuge."
+  },
+  {
+   "verse": 7,
+   "start": 46.57,
+   "end": 56.63,
+   "text": "Oh that the salvation of Israel were come out of Zion! when the LORD bringeth back the captivity of his people, Jacob shall rejoice, and Israel shall be glad."
+  }
+ ]
+}

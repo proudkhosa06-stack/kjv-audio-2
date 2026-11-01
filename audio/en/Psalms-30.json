@@ -1,0 +1,84 @@
+{
+ "book": "Psalms",
+ "chapter": 30,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-30.mp3",
+ "duration": 90.84,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 11.38,
+   "text": "A Psalm and Song at the dedication of the house of David. I will extol thee, O LORD; for thou hast lifted me up, and hast not made my foes to rejoice over me."
+  },
+  {
+   "verse": 2,
+   "start": 12.08,
+   "end": 16.19,
+   "text": "O LORD my God, I cried unto thee, and thou hast healed me."
+  },
+  {
+   "verse": 3,
+   "start": 16.89,
+   "end": 24.54,
+   "text": "O LORD, thou hast brought up my soul from the grave: thou hast kept me alive, that I should not go down to the pit."
+  },
+  {
+   "verse": 4,
+   "start": 25.24,
+   "end": 30.85,
+   "text": "Sing unto the LORD, O ye saints of his, and give thanks at the remembrance of his holiness."
+  },
+  {
+   "verse": 5,
+   "start": 31.55,
+   "end": 42.31,
+   "text": "For his anger endureth but a moment; in his favour is life: weeping may endure for a night, but joy cometh in the morning."
+  },
+  {
+   "verse": 6,
+   "start": 43.01,
+   "end": 46.53,
+   "text": "And in my prosperity I said, I shall never be moved."
+  },
+  {
+   "verse": 7,
+   "start": 47.23,
+   "end": 54.11,
+   "text": "LORD, by thy favour thou hast made my mountain to stand strong: thou didst hide thy face, and I was troubled."
+  },
+  {
+   "verse": 8,
+   "start": 54.81,
+   "end": 59.19,
+   "text": "I cried to thee, O LORD; and unto the LORD I made supplication."
+  },
+  {
+   "verse": 9,
+   "start": 59.89,
+   "end": 66.97,
+   "text": "What profit is there in my blood, when I go down to the pit? Shall the dust praise thee? shall it declare thy truth?"
+  },
+  {
+   "verse": 10,
+   "start": 67.67,
+   "end": 72.59,
+   "text": "Hear, O LORD, and have mercy upon me: LORD, be thou my helper."
+  },
+  {
+   "verse": 11,
+   "start": 73.29,
+   "end": 80.33,
+   "text": "Thou hast turned for me my mourning into dancing: thou hast put off my sackcloth, and girded me with gladness;"
+  },
+  {
+   "verse": 12,
+   "start": 81.03,
+   "end": 89.78,
+   "text": "To the end that my glory may sing praise to thee, and not be silent. O LORD my God, I will give thanks unto thee for ever."
+  }
+ ]
+}

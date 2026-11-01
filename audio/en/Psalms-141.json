@@ -1,0 +1,72 @@
+{
+ "book": "Psalms",
+ "chapter": 141,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-141.mp3",
+ "duration": 77.06,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 8.47,
+   "text": "A Psalm of David. LORD, I cry unto thee: make haste unto me; give ear unto my voice, when I cry unto thee."
+  },
+  {
+   "verse": 2,
+   "start": 9.17,
+   "end": 15.93,
+   "text": "Let my prayer be set forth before thee as incense; and the lifting up of my hands as the evening sacrifice."
+  },
+  {
+   "verse": 3,
+   "start": 16.63,
+   "end": 21.65,
+   "text": "Set a watch, O LORD, before my mouth; keep the door of my lips."
+  },
+  {
+   "verse": 4,
+   "start": 22.35,
+   "end": 31.54,
+   "text": "Incline not my heart to any evil thing, to practise wicked works with men that work iniquity: and let me not eat of their dainties."
+  },
+  {
+   "verse": 5,
+   "start": 32.24,
+   "end": 43.21,
+   "text": "Let the righteous smite me; it shall be a kindness: and let him reprove me; it shall be an excellent oil, which shall not break my head: for yet my prayer also shall be in their calamities."
+  },
+  {
+   "verse": 6,
+   "start": 43.91,
+   "end": 49.28,
+   "text": "When their judges are overthrown in stony places, they shall hear my words; for they are sweet."
+  },
+  {
+   "verse": 7,
+   "start": 49.98,
+   "end": 55.55,
+   "text": "Our bones are scattered at the grave's mouth, as when one cutteth and cleaveth wood upon the earth."
+  },
+  {
+   "verse": 8,
+   "start": 56.25,
+   "end": 64.0,
+   "text": "But mine eyes are unto thee, O GOD the Lord: in thee is my trust; leave not my soul destitute."
+  },
+  {
+   "verse": 9,
+   "start": 64.7,
+   "end": 70.94,
+   "text": "Keep me from the snares which they have laid for me, and the gins of the workers of iniquity."
+  },
+  {
+   "verse": 10,
+   "start": 71.64,
+   "end": 76.0,
+   "text": "Let the wicked fall into their own nets, whilst that I withal escape."
+  }
+ ]
+}

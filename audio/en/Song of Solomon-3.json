@@ -1,0 +1,78 @@
+{
+ "book": "Song of Solomon",
+ "chapter": 3,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Song of Solomon-3.mp3",
+ "duration": 105.5,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 5.76,
+   "text": "By night on my bed I sought him whom my soul loveth: I sought him, but I found him not."
+  },
+  {
+   "verse": 2,
+   "start": 6.46,
+   "end": 16.0,
+   "text": "I will rise now, and go about the city in the streets, and in the broad ways I will seek him whom my soul loveth: I sought him, but I found him not."
+  },
+  {
+   "verse": 3,
+   "start": 16.7,
+   "end": 23.58,
+   "text": "The watchmen that go about the city found me: to whom I said, Saw ye him whom my soul loveth?"
+  },
+  {
+   "verse": 4,
+   "start": 24.28,
+   "end": 39.39,
+   "text": "It was but a little that I passed from them, but I found him whom my soul loveth: I held him, and would not let him go, until I had brought him into my mother's house, and into the chamber of her that conceived me."
+  },
+  {
+   "verse": 5,
+   "start": 40.09,
+   "end": 49.09,
+   "text": "I charge you, O ye daughters of Jerusalem, by the roes, and by the hinds of the field, that ye stir not up, nor awake my love, till he please."
+  },
+  {
+   "verse": 6,
+   "start": 49.79,
+   "end": 58.49,
+   "text": "Who is this that cometh out of the wilderness like pillars of smoke, perfumed with myrrh and frankincense, with all powders of the merchant?"
+  },
+  {
+   "verse": 7,
+   "start": 59.19,
+   "end": 66.71,
+   "text": "Behold his bed, which is Solomon's; threescore valiant men are about it, of the valiant of Israel."
+  },
+  {
+   "verse": 8,
+   "start": 67.41,
+   "end": 75.79,
+   "text": "They all hold swords, being expert in war: every man hath his sword upon his thigh because of fear in the night."
+  },
+  {
+   "verse": 9,
+   "start": 76.49,
+   "end": 80.17,
+   "text": "King Solomon made himself a chariot of the wood of Lebanon."
+  },
+  {
+   "verse": 10,
+   "start": 80.87,
+   "end": 92.5,
+   "text": "He made the pillars thereof of silver, the bottom thereof of gold, the covering of it of purple, the midst thereof being paved with love, for the daughters of Jerusalem."
+  },
+  {
+   "verse": 11,
+   "start": 93.2,
+   "end": 104.45,
+   "text": "Go forth, O ye daughters of Zion, and behold king Solomon with the crown wherewith his mother crowned him in the day of his espousals, and in the day of the gladness of his heart."
+  }
+ ]
+}

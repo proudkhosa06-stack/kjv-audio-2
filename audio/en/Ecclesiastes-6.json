@@ -1,0 +1,84 @@
+{
+ "book": "Ecclesiastes",
+ "chapter": 6,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Ecclesiastes-6.mp3",
+ "duration": 106.03,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 5.26,
+   "text": "There is an evil which I have seen under the sun, and it is common among men:"
+  },
+  {
+   "verse": 2,
+   "start": 5.96,
+   "end": 22.2,
+   "text": "A man to whom God hath given riches, wealth, and honour, so that he wanteth nothing for his soul of all that he desireth, yet God giveth him not power to eat thereof, but a stranger eateth it: this is vanity, and it is an evil disease."
+  },
+  {
+   "verse": 3,
+   "start": 22.9,
+   "end": 39.11,
+   "text": "If a man beget an hundred children, and live many years, so that the days of his years be many, and his soul be not filled with good, and also that he have no burial; I say, that an untimely birth is better than he."
+  },
+  {
+   "verse": 4,
+   "start": 39.81,
+   "end": 46.14,
+   "text": "For he cometh in with vanity, and departeth in darkness, and his name shall be covered with darkness."
+  },
+  {
+   "verse": 5,
+   "start": 46.84,
+   "end": 52.99,
+   "text": "Moreover he hath not seen the sun, nor known any thing: this hath more rest than the other."
+  },
+  {
+   "verse": 6,
+   "start": 53.69,
+   "end": 60.56,
+   "text": "Yea, though he live a thousand years twice told, yet hath he seen no good: do not all go to one place?"
+  },
+  {
+   "verse": 7,
+   "start": 61.26,
+   "end": 65.9,
+   "text": "All the labour of man is for his mouth, and yet the appetite is not filled."
+  },
+  {
+   "verse": 8,
+   "start": 66.6,
+   "end": 72.88,
+   "text": "For what hath the wise more than the fool? what hath the poor, that knoweth to walk before the living?"
+  },
+  {
+   "verse": 9,
+   "start": 73.58,
+   "end": 80.32,
+   "text": "Better is the sight of the eyes than the wandering of the desire: this is also vanity and vexation of spirit."
+  },
+  {
+   "verse": 10,
+   "start": 81.02,
+   "end": 88.46,
+   "text": "That which hath been is named already, and it is known that it is man: neither may he contend with him that is mightier than he."
+  },
+  {
+   "verse": 11,
+   "start": 89.16,
+   "end": 93.71,
+   "text": "Seeing there be many things that increase vanity, what is man the better?"
+  },
+  {
+   "verse": 12,
+   "start": 94.41,
+   "end": 104.98,
+   "text": "For who knoweth what is good for man in this life, all the days of his vain life which he spendeth as a shadow? for who can tell a man what shall be after him under the sun?"
+  }
+ ]
+}

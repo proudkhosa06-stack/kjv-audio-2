@@ -1,0 +1,222 @@
+{
+ "book": "Proverbs",
+ "chapter": 3,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Proverbs-3.mp3",
+ "duration": 206.04,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 5.27,
+   "text": "My son, forget not my law; but let thine heart keep my commandments:"
+  },
+  {
+   "verse": 2,
+   "start": 5.97,
+   "end": 10.97,
+   "text": "For length of days, and long life, and peace, shall they add to thee."
+  },
+  {
+   "verse": 3,
+   "start": 11.67,
+   "end": 19.8,
+   "text": "Let not mercy and truth forsake thee: bind them about thy neck; write them upon the table of thine heart:"
+  },
+  {
+   "verse": 4,
+   "start": 20.5,
+   "end": 25.19,
+   "text": "So shalt thou find favour and good understanding in the sight of God and man."
+  },
+  {
+   "verse": 5,
+   "start": 25.89,
+   "end": 30.84,
+   "text": "Trust in the LORD with all thine heart; and lean not unto thine own understanding."
+  },
+  {
+   "verse": 6,
+   "start": 31.54,
+   "end": 35.69,
+   "text": "In all thy ways acknowledge him, and he shall direct thy paths."
+  },
+  {
+   "verse": 7,
+   "start": 36.39,
+   "end": 41.26,
+   "text": "Be not wise in thine own eyes: fear the LORD, and depart from evil."
+  },
+  {
+   "verse": 8,
+   "start": 41.96,
+   "end": 45.9,
+   "text": "It shall be health to thy navel, and marrow to thy bones."
+  },
+  {
+   "verse": 9,
+   "start": 46.6,
+   "end": 51.32,
+   "text": "Honour the LORD with thy substance, and with the firstfruits of all thine increase:"
+  },
+  {
+   "verse": 10,
+   "start": 52.02,
+   "end": 57.37,
+   "text": "So shall thy barns be filled with plenty, and thy presses shall burst out with new wine."
+  },
+  {
+   "verse": 11,
+   "start": 58.07,
+   "end": 63.45,
+   "text": "My son, despise not the chastening of the LORD; neither be weary of his correction:"
+  },
+  {
+   "verse": 12,
+   "start": 64.15,
+   "end": 69.54,
+   "text": "For whom the LORD loveth he correcteth; even as a father the son in whom he delighteth."
+  },
+  {
+   "verse": 13,
+   "start": 70.24,
+   "end": 75.47,
+   "text": "Happy is the man that findeth wisdom, and the man that getteth understanding."
+  },
+  {
+   "verse": 14,
+   "start": 76.17,
+   "end": 83.11,
+   "text": "For the merchandise of it is better than the merchandise of silver, and the gain thereof than fine gold."
+  },
+  {
+   "verse": 15,
+   "start": 83.81,
+   "end": 90.49,
+   "text": "She is more precious than rubies: and all the things thou canst desire are not to be compared unto her."
+  },
+  {
+   "verse": 16,
+   "start": 91.19,
+   "end": 95.86,
+   "text": "Length of days is in her right hand; and in her left hand riches and honour."
+  },
+  {
+   "verse": 17,
+   "start": 96.56,
+   "end": 100.45,
+   "text": "Her ways are ways of pleasantness, and all her paths are peace."
+  },
+  {
+   "verse": 18,
+   "start": 101.15,
+   "end": 107.3,
+   "text": "She is a tree of life to them that lay hold upon her: and happy is every one that retaineth her."
+  },
+  {
+   "verse": 19,
+   "start": 108.0,
+   "end": 113.64,
+   "text": "The LORD by wisdom hath founded the earth; by understanding hath he established the heavens."
+  },
+  {
+   "verse": 20,
+   "start": 114.34,
+   "end": 118.47,
+   "text": "By his knowledge the depths are broken up, and the clouds drop down the dew."
+  },
+  {
+   "verse": 21,
+   "start": 119.17,
+   "end": 124.62,
+   "text": "My son, let not them depart from thine eyes: keep sound wisdom and discretion:"
+  },
+  {
+   "verse": 22,
+   "start": 125.32,
+   "end": 129.3,
+   "text": "So shall they be life unto thy soul, and grace to thy neck."
+  },
+  {
+   "verse": 23,
+   "start": 130.0,
+   "end": 134.11,
+   "text": "Then shalt thou walk in thy way safely, and thy foot shall not stumble."
+  },
+  {
+   "verse": 24,
+   "start": 134.81,
+   "end": 142.01,
+   "text": "When thou liest down, thou shalt not be afraid: yea, thou shalt lie down, and thy sleep shall be sweet."
+  },
+  {
+   "verse": 25,
+   "start": 142.71,
+   "end": 148.0,
+   "text": "Be not afraid of sudden fear, neither of the desolation of the wicked, when it cometh."
+  },
+  {
+   "verse": 26,
+   "start": 148.7,
+   "end": 153.08,
+   "text": "For the LORD shall be thy confidence, and shall keep thy foot from being taken."
+  },
+  {
+   "verse": 27,
+   "start": 153.78,
+   "end": 160.24,
+   "text": "Withhold not good from them to whom it is due, when it is in the power of thine hand to do it."
+  },
+  {
+   "verse": 28,
+   "start": 160.94,
+   "end": 169.01,
+   "text": "Say not unto thy neighbour, Go, and come again, and to morrow I will give; when thou hast it by thee."
+  },
+  {
+   "verse": 29,
+   "start": 169.71,
+   "end": 174.27,
+   "text": "Devise not evil against thy neighbour, seeing he dwelleth securely by thee."
+  },
+  {
+   "verse": 30,
+   "start": 174.97,
+   "end": 179.52,
+   "text": "Strive not with a man without cause, if he have done thee no harm."
+  },
+  {
+   "verse": 31,
+   "start": 180.22,
+   "end": 183.49,
+   "text": "Envy thou not the oppressor, and choose none of his ways."
+  },
+  {
+   "verse": 32,
+   "start": 184.19,
+   "end": 188.64,
+   "text": "For the froward is abomination to the LORD: but his secret is with the righteous."
+  },
+  {
+   "verse": 33,
+   "start": 189.34,
+   "end": 194.74,
+   "text": "The curse of the LORD is in the house of the wicked: but he blesseth the habitation of the just."
+  },
+  {
+   "verse": 34,
+   "start": 195.44,
+   "end": 200.08,
+   "text": "Surely he scorneth the scorners: but he giveth grace unto the lowly."
+  },
+  {
+   "verse": 35,
+   "start": 200.78,
+   "end": 204.98,
+   "text": "The wise shall inherit glory: but shame shall be the promotion of fools."
+  }
+ ]
+}

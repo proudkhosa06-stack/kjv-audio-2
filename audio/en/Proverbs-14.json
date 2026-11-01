@@ -1,0 +1,222 @@
+{
+ "book": "Proverbs",
+ "chapter": 14,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Proverbs-14.mp3",
+ "duration": 221.04,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 6.05,
+   "text": "Every wise woman buildeth her house: but the foolish plucketh it down with her hands."
+  },
+  {
+   "verse": 2,
+   "start": 6.75,
+   "end": 13.4,
+   "text": "He that walketh in his uprightness feareth the LORD: but he that is perverse in his ways despiseth him."
+  },
+  {
+   "verse": 3,
+   "start": 14.1,
+   "end": 19.86,
+   "text": "In the mouth of the foolish is a rod of pride: but the lips of the wise shall preserve them."
+  },
+  {
+   "verse": 4,
+   "start": 20.56,
+   "end": 26.88,
+   "text": "Where no oxen are, the crib is clean: but much increase is by the strength of the ox."
+  },
+  {
+   "verse": 5,
+   "start": 27.58,
+   "end": 32.09,
+   "text": "A faithful witness will not lie: but a false witness will utter lies."
+  },
+  {
+   "verse": 6,
+   "start": 32.79,
+   "end": 39.54,
+   "text": "A scorner seeketh wisdom, and findeth it not: but knowledge is easy unto him that understandeth."
+  },
+  {
+   "verse": 7,
+   "start": 40.24,
+   "end": 46.24,
+   "text": "Go from the presence of a foolish man, when thou perceivest not in him the lips of knowledge."
+  },
+  {
+   "verse": 8,
+   "start": 46.94,
+   "end": 52.68,
+   "text": "The wisdom of the prudent is to understand his way: but the folly of fools is deceit."
+  },
+  {
+   "verse": 9,
+   "start": 53.38,
+   "end": 57.97,
+   "text": "Fools make a mock at sin: but among the righteous there is favour."
+  },
+  {
+   "verse": 10,
+   "start": 58.67,
+   "end": 63.85,
+   "text": "The heart knoweth his own bitterness; and a stranger doth not intermeddle with his joy."
+  },
+  {
+   "verse": 11,
+   "start": 64.55,
+   "end": 70.22,
+   "text": "The house of the wicked shall be overthrown: but the tabernacle of the upright shall flourish."
+  },
+  {
+   "verse": 12,
+   "start": 70.92,
+   "end": 76.5,
+   "text": "There is a way which seemeth right unto a man, but the end thereof are the ways of death."
+  },
+  {
+   "verse": 13,
+   "start": 77.2,
+   "end": 82.35,
+   "text": "Even in laughter the heart is sorrowful; and the end of that mirth is heaviness."
+  },
+  {
+   "verse": 14,
+   "start": 83.05,
+   "end": 89.37,
+   "text": "The backslider in heart shall be filled with his own ways: and a good man shall be satisfied from himself."
+  },
+  {
+   "verse": 15,
+   "start": 90.07,
+   "end": 95.11,
+   "text": "The simple believeth every word: but the prudent man looketh well to his going."
+  },
+  {
+   "verse": 16,
+   "start": 95.81,
+   "end": 101.53,
+   "text": "A wise man feareth, and departeth from evil: but the fool rageth, and is confident."
+  },
+  {
+   "verse": 17,
+   "start": 102.23,
+   "end": 107.77,
+   "text": "He that is soon angry dealeth foolishly: and a man of wicked devices is hated."
+  },
+  {
+   "verse": 18,
+   "start": 108.47,
+   "end": 112.29,
+   "text": "The simple inherit folly: but the prudent are crowned with knowledge."
+  },
+  {
+   "verse": 19,
+   "start": 112.99,
+   "end": 117.86,
+   "text": "The evil bow before the good; and the wicked at the gates of the righteous."
+  },
+  {
+   "verse": 20,
+   "start": 118.56,
+   "end": 122.83,
+   "text": "The poor is hated even of his own neighbour: but the rich hath many friends."
+  },
+  {
+   "verse": 21,
+   "start": 123.53,
+   "end": 130.75,
+   "text": "He that despiseth his neighbour sinneth: but he that hath mercy on the poor, happy is he."
+  },
+  {
+   "verse": 22,
+   "start": 131.45,
+   "end": 137.2,
+   "text": "Do they not err that devise evil? but mercy and truth shall be to them that devise good."
+  },
+  {
+   "verse": 23,
+   "start": 137.9,
+   "end": 142.52,
+   "text": "In all labour there is profit: but the talk of the lips tendeth only to penury."
+  },
+  {
+   "verse": 24,
+   "start": 143.22,
+   "end": 148.3,
+   "text": "The crown of the wise is their riches: but the foolishness of fools is folly."
+  },
+  {
+   "verse": 25,
+   "start": 149.0,
+   "end": 154.22,
+   "text": "A true witness delivereth souls: but a deceitful witness speaketh lies."
+  },
+  {
+   "verse": 26,
+   "start": 154.92,
+   "end": 160.21,
+   "text": "In the fear of the LORD is strong confidence: and his children shall have a place of refuge."
+  },
+  {
+   "verse": 27,
+   "start": 160.91,
+   "end": 166.17,
+   "text": "The fear of the LORD is a fountain of life, to depart from the snares of death."
+  },
+  {
+   "verse": 28,
+   "start": 166.87,
+   "end": 173.19,
+   "text": "In the multitude of people is the king's honour: but in the want of people is the destruction of the prince."
+  },
+  {
+   "verse": 29,
+   "start": 173.89,
+   "end": 180.44,
+   "text": "He that is slow to wrath is of great understanding: but he that is hasty of spirit exalteth folly."
+  },
+  {
+   "verse": 30,
+   "start": 181.14,
+   "end": 186.08,
+   "text": "A sound heart is the life of the flesh: but envy the rottenness of the bones."
+  },
+  {
+   "verse": 31,
+   "start": 186.78,
+   "end": 193.94,
+   "text": "He that oppresseth the poor reproacheth his Maker: but he that honoureth him hath mercy on the poor."
+  },
+  {
+   "verse": 32,
+   "start": 194.64,
+   "end": 200.07,
+   "text": "The wicked is driven away in his wickedness: but the righteous hath hope in his death."
+  },
+  {
+   "verse": 33,
+   "start": 200.77,
+   "end": 207.84,
+   "text": "Wisdom resteth in the heart of him that hath understanding: but that which is in the midst of fools is made known."
+  },
+  {
+   "verse": 34,
+   "start": 208.54,
+   "end": 213.59,
+   "text": "Righteousness exalteth a nation: but sin is a reproach to any people."
+  },
+  {
+   "verse": 35,
+   "start": 214.29,
+   "end": 219.98,
+   "text": "The king's favour is toward a wise servant: but his wrath is against him that causeth shame."
+  }
+ ]
+}

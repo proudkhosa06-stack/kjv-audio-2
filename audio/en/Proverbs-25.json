@@ -1,0 +1,180 @@
+{
+ "book": "Proverbs",
+ "chapter": 25,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Proverbs-25.mp3",
+ "duration": 190.68,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 6.12,
+   "text": "These are also proverbs of Solomon, which the men of Hezekiah king of Judah copied out."
+  },
+  {
+   "verse": 2,
+   "start": 6.82,
+   "end": 12.32,
+   "text": "It is the glory of God to conceal a thing: but the honour of kings is to search out a matter."
+  },
+  {
+   "verse": 3,
+   "start": 13.02,
+   "end": 19.02,
+   "text": "The heaven for height, and the earth for depth, and the heart of kings is unsearchable."
+  },
+  {
+   "verse": 4,
+   "start": 19.72,
+   "end": 24.26,
+   "text": "Take away the dross from the silver, and there shall come forth a vessel for the finer."
+  },
+  {
+   "verse": 5,
+   "start": 24.96,
+   "end": 29.94,
+   "text": "Take away the wicked from before the king, and his throne shall be established in righteousness."
+  },
+  {
+   "verse": 6,
+   "start": 30.64,
+   "end": 36.84,
+   "text": "Put not forth thyself in the presence of the king, and stand not in the place of great men:"
+  },
+  {
+   "verse": 7,
+   "start": 37.54,
+   "end": 47.21,
+   "text": "For better it is that it be said unto thee, Come up hither; than that thou shouldest be put lower in the presence of the prince whom thine eyes have seen."
+  },
+  {
+   "verse": 8,
+   "start": 47.91,
+   "end": 55.52,
+   "text": "Go not forth hastily to strive, lest thou know not what to do in the end thereof, when thy neighbour hath put thee to shame."
+  },
+  {
+   "verse": 9,
+   "start": 56.22,
+   "end": 61.06,
+   "text": "Debate thy cause with thy neighbour himself; and discover not a secret to another:"
+  },
+  {
+   "verse": 10,
+   "start": 61.76,
+   "end": 66.9,
+   "text": "Lest he that heareth it put thee to shame, and thine infamy turn not away."
+  },
+  {
+   "verse": 11,
+   "start": 67.6,
+   "end": 72.1,
+   "text": "A word fitly spoken is like apples of gold in pictures of silver."
+  },
+  {
+   "verse": 12,
+   "start": 72.8,
+   "end": 79.5,
+   "text": "As an earring of gold, and an ornament of fine gold, so is a wise reprover upon an obedient ear."
+  },
+  {
+   "verse": 13,
+   "start": 80.2,
+   "end": 90.02,
+   "text": "As the cold of snow in the time of harvest, so is a faithful messenger to them that send him: for he refresheth the soul of his masters."
+  },
+  {
+   "verse": 14,
+   "start": 90.72,
+   "end": 96.2,
+   "text": "Whoso boasteth himself of a false gift is like clouds and wind without rain."
+  },
+  {
+   "verse": 15,
+   "start": 96.9,
+   "end": 101.87,
+   "text": "By long forbearing is a prince persuaded, and a soft tongue breaketh the bone."
+  },
+  {
+   "verse": 16,
+   "start": 102.57,
+   "end": 109.06,
+   "text": "Hast thou found honey? eat so much as is sufficient for thee, lest thou be filled therewith, and vomit it."
+  },
+  {
+   "verse": 17,
+   "start": 109.76,
+   "end": 115.28,
+   "text": "Withdraw thy foot from thy neighbour's house; lest he be weary of thee, and so hate thee."
+  },
+  {
+   "verse": 18,
+   "start": 115.98,
+   "end": 122.49,
+   "text": "A man that beareth false witness against his neighbour is a maul, and a sword, and a sharp arrow."
+  },
+  {
+   "verse": 19,
+   "start": 123.19,
+   "end": 129.95,
+   "text": "Confidence in an unfaithful man in time of trouble is like a broken tooth, and a foot out of joint."
+  },
+  {
+   "verse": 20,
+   "start": 130.65,
+   "end": 138.56,
+   "text": "As he that taketh away a garment in cold weather, and as vinegar upon nitre, so is he that singeth songs to an heavy heart."
+  },
+  {
+   "verse": 21,
+   "start": 139.26,
+   "end": 145.12,
+   "text": "If thine enemy be hungry, give him bread to eat; and if he be thirsty, give him water to drink:"
+  },
+  {
+   "verse": 22,
+   "start": 145.82,
+   "end": 150.92,
+   "text": "For thou shalt heap coals of fire upon his head, and the LORD shall reward thee."
+  },
+  {
+   "verse": 23,
+   "start": 151.62,
+   "end": 157.49,
+   "text": "The north wind driveth away rain: so doth an angry countenance a backbiting tongue."
+  },
+  {
+   "verse": 24,
+   "start": 158.19,
+   "end": 164.04,
+   "text": "It is better to dwell in the corner of the housetop, than with a brawling woman and in a wide house."
+  },
+  {
+   "verse": 25,
+   "start": 164.74,
+   "end": 169.66,
+   "text": "As cold waters to a thirsty soul, so is good news from a far country."
+  },
+  {
+   "verse": 26,
+   "start": 170.36,
+   "end": 176.16,
+   "text": "A righteous man falling down before the wicked is as a troubled fountain, and a corrupt spring."
+  },
+  {
+   "verse": 27,
+   "start": 176.86,
+   "end": 182.39,
+   "text": "It is not good to eat much honey: so for men to search their own glory is not glory."
+  },
+  {
+   "verse": 28,
+   "start": 183.09,
+   "end": 189.61,
+   "text": "He that hath no rule over his own spirit is like a city that is broken down, and without walls."
+  }
+ ]
+}

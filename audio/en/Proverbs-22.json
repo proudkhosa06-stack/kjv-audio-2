@@ -1,0 +1,186 @@
+{
+ "book": "Proverbs",
+ "chapter": 22,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Proverbs-22.mp3",
+ "duration": 177.86,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 6.1,
+   "text": "A good name is rather to be chosen than great riches, and loving favour rather than silver and gold."
+  },
+  {
+   "verse": 2,
+   "start": 6.8,
+   "end": 11.0,
+   "text": "The rich and poor meet together: the LORD is the maker of them all."
+  },
+  {
+   "verse": 3,
+   "start": 11.7,
+   "end": 17.84,
+   "text": "A prudent man foreseeth the evil, and hideth himself: but the simple pass on, and are punished."
+  },
+  {
+   "verse": 4,
+   "start": 18.54,
+   "end": 23.03,
+   "text": "By humility and the fear of the LORD are riches, and honour, and life."
+  },
+  {
+   "verse": 5,
+   "start": 23.73,
+   "end": 30.59,
+   "text": "Thorns and snares are in the way of the froward: he that doth keep his soul shall be far from them."
+  },
+  {
+   "verse": 6,
+   "start": 31.29,
+   "end": 37.01,
+   "text": "Train up a child in the way he should go: and when he is old, he will not depart from it."
+  },
+  {
+   "verse": 7,
+   "start": 37.71,
+   "end": 41.81,
+   "text": "The rich ruleth over the poor, and the borrower is servant to the lender."
+  },
+  {
+   "verse": 8,
+   "start": 42.51,
+   "end": 47.83,
+   "text": "He that soweth iniquity shall reap vanity: and the rod of his anger shall fail."
+  },
+  {
+   "verse": 9,
+   "start": 48.53,
+   "end": 53.93,
+   "text": "He that hath a bountiful eye shall be blessed; for he giveth of his bread to the poor."
+  },
+  {
+   "verse": 10,
+   "start": 54.63,
+   "end": 60.27,
+   "text": "Cast out the scorner, and contention shall go out; yea, strife and reproach shall cease."
+  },
+  {
+   "verse": 11,
+   "start": 60.97,
+   "end": 65.97,
+   "text": "He that loveth pureness of heart, for the grace of his lips the king shall be his friend."
+  },
+  {
+   "verse": 12,
+   "start": 66.67,
+   "end": 72.06,
+   "text": "The eyes of the LORD preserve knowledge, and he overthroweth the words of the transgressor."
+  },
+  {
+   "verse": 13,
+   "start": 72.76,
+   "end": 78.18,
+   "text": "The slothful man saith, There is a lion without, I shall be slain in the streets."
+  },
+  {
+   "verse": 14,
+   "start": 78.88,
+   "end": 85.16,
+   "text": "The mouth of strange women is a deep pit: he that is abhorred of the LORD shall fall therein."
+  },
+  {
+   "verse": 15,
+   "start": 85.86,
+   "end": 92.09,
+   "text": "Foolishness is bound in the heart of a child; but the rod of correction shall drive it far from him."
+  },
+  {
+   "verse": 16,
+   "start": 92.79,
+   "end": 100.36,
+   "text": "He that oppresseth the poor to increase his riches, and he that giveth to the rich, shall surely come to want."
+  },
+  {
+   "verse": 17,
+   "start": 101.06,
+   "end": 107.16,
+   "text": "Bow down thine ear, and hear the words of the wise, and apply thine heart unto my knowledge."
+  },
+  {
+   "verse": 18,
+   "start": 107.86,
+   "end": 113.34,
+   "text": "For it is a pleasant thing if thou keep them within thee; they shall withal be fitted in thy lips."
+  },
+  {
+   "verse": 19,
+   "start": 114.04,
+   "end": 119.95,
+   "text": "That thy trust may be in the LORD, I have made known to thee this day, even to thee."
+  },
+  {
+   "verse": 20,
+   "start": 120.65,
+   "end": 124.44,
+   "text": "Have not I written to thee excellent things in counsels and knowledge,"
+  },
+  {
+   "verse": 21,
+   "start": 125.14,
+   "end": 132.52,
+   "text": "That I might make thee know the certainty of the words of truth; that thou mightest answer the words of truth to them that send unto thee?"
+  },
+  {
+   "verse": 22,
+   "start": 133.22,
+   "end": 138.3,
+   "text": "Rob not the poor, because he is poor: neither oppress the afflicted in the gate:"
+  },
+  {
+   "verse": 23,
+   "start": 139.0,
+   "end": 143.82,
+   "text": "For the LORD will plead their cause, and spoil the soul of those that spoiled them."
+  },
+  {
+   "verse": 24,
+   "start": 144.52,
+   "end": 149.61,
+   "text": "Make no friendship with an angry man; and with a furious man thou shalt not go:"
+  },
+  {
+   "verse": 25,
+   "start": 150.31,
+   "end": 153.43,
+   "text": "Lest thou learn his ways, and get a snare to thy soul."
+  },
+  {
+   "verse": 26,
+   "start": 154.13,
+   "end": 159.76,
+   "text": "Be not thou one of them that strike hands, or of them that are sureties for debts."
+  },
+  {
+   "verse": 27,
+   "start": 160.46,
+   "end": 164.98,
+   "text": "If thou hast nothing to pay, why should he take away thy bed from under thee?"
+  },
+  {
+   "verse": 28,
+   "start": 165.68,
+   "end": 169.15,
+   "text": "Remove not the ancient landmark, which thy fathers have set."
+  },
+  {
+   "verse": 29,
+   "start": 169.85,
+   "end": 176.8,
+   "text": "Seest thou a man diligent in his business? he shall stand before kings; he shall not stand before mean men."
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "book": "Isaiah",
+ "chapter": 35,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Isaiah-35.mp3",
+ "duration": 106.9,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 8.36,
+   "text": "The wilderness and the solitary place shall be glad for them; and the desert shall rejoice, and blossom as the rose."
+  },
+  {
+   "verse": 2,
+   "start": 9.06,
+   "end": 23.88,
+   "text": "It shall blossom abundantly, and rejoice even with joy and singing: the glory of Lebanon shall be given unto it, the excellency of Carmel and Sharon, they shall see the glory of the LORD, and the excellency of our God."
+  },
+  {
+   "verse": 3,
+   "start": 24.58,
+   "end": 28.17,
+   "text": "Strengthen ye the weak hands, and confirm the feeble knees."
+  },
+  {
+   "verse": 4,
+   "start": 28.87,
+   "end": 39.85,
+   "text": "Say to them that are of a fearful heart, Be strong, fear not: behold, your God will come with vengeance, even God with a recompence; he will come and save you."
+  },
+  {
+   "verse": 5,
+   "start": 40.55,
+   "end": 45.34,
+   "text": "Then the eyes of the blind shall be opened, and the ears of the deaf shall be unstopped."
+  },
+  {
+   "verse": 6,
+   "start": 46.04,
+   "end": 56.0,
+   "text": "Then shall the lame man leap as an hart, and the tongue of the dumb sing: for in the wilderness shall waters break out, and streams in the desert."
+  },
+  {
+   "verse": 7,
+   "start": 56.7,
+   "end": 67.0,
+   "text": "And the parched ground shall become a pool, and the thirsty land springs of water: in the habitation of dragons, where each lay, shall be grass with reeds and rushes."
+  },
+  {
+   "verse": 8,
+   "start": 67.7,
+   "end": 82.82,
+   "text": "And an highway shall be there, and a way, and it shall be called The way of holiness; the unclean shall not pass over it; but it shall be for those: the wayfaring men, though fools, shall not err therein."
+  },
+  {
+   "verse": 9,
+   "start": 83.52,
+   "end": 92.58,
+   "text": "No lion shall be there, nor any ravenous beast shall go up thereon, it shall not be found there; but the redeemed shall walk there:"
+  },
+  {
+   "verse": 10,
+   "start": 93.28,
+   "end": 105.84,
+   "text": "And the ransomed of the LORD shall return, and come to Zion with songs and everlasting joy upon their heads: they shall obtain joy and gladness, and sorrow and sighing shall flee away."
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "book": "Isaiah",
+ "chapter": 15,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Isaiah-15.mp3",
+ "duration": 104.57,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 11.42,
+   "text": "The burden of Moab. Because in the night Ar of Moab is laid waste, and brought to silence; because in the night Kir of Moab is laid waste, and brought to silence;"
+  },
+  {
+   "verse": 2,
+   "start": 12.12,
+   "end": 25.27,
+   "text": "He is gone up to Bajith, and to Dibon, the high places, to weep: Moab shall howl over Nebo, and over Medeba: on all their heads shall be baldness, and every beard cut off."
+  },
+  {
+   "verse": 3,
+   "start": 25.97,
+   "end": 35.8,
+   "text": "In their streets they shall gird themselves with sackcloth: on the tops of their houses, and in their streets, every one shall howl, weeping abundantly."
+  },
+  {
+   "verse": 4,
+   "start": 36.5,
+   "end": 49.09,
+   "text": "And Heshbon shall cry, and Elealeh: their voice shall be heard even unto Jahaz: therefore the armed soldiers of Moab shall cry out; his life shall be grievous unto him."
+  },
+  {
+   "verse": 5,
+   "start": 49.79,
+   "end": 66.93,
+   "text": "My heart shall cry out for Moab; his fugitives shall flee unto Zoar, an heifer of three years old: for by the mounting up of Luhith with weeping shall they go it up; for in the way of Horonaim they shall raise up a cry of destruction."
+  },
+  {
+   "verse": 6,
+   "start": 67.63,
+   "end": 75.17,
+   "text": "For the waters of Nimrim shall be desolate: for the hay is withered away, the grass faileth, there is no green thing."
+  },
+  {
+   "verse": 7,
+   "start": 75.87,
+   "end": 83.31,
+   "text": "Therefore the abundance they have gotten, and that which they have laid up, shall they carry away to the brook of the willows."
+  },
+  {
+   "verse": 8,
+   "start": 84.01,
+   "end": 92.0,
+   "text": "For the cry is gone round about the borders of Moab; the howling thereof unto Eglaim, and the howling thereof unto Beer-elim."
+  },
+  {
+   "verse": 9,
+   "start": 92.7,
+   "end": 103.52,
+   "text": "For the waters of Dimon shall be full of blood: for I will bring more upon Dimon, lions upon him that escapeth of Moab, and upon the remnant of the land."
+  }
+ ]
+}

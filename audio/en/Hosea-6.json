@@ -1,0 +1,78 @@
+{
+ "book": "Hosea",
+ "chapter": 6,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Hosea-6.mp3",
+ "duration": 94.3,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 8.4,
+   "text": "Come, and let us return unto the LORD: for he hath torn, and he will heal us; he hath smitten, and he will bind us up."
+  },
+  {
+   "verse": 2,
+   "start": 9.1,
+   "end": 15.92,
+   "text": "After two days will he revive us: in the third day he will raise us up, and we shall live in his sight."
+  },
+  {
+   "verse": 3,
+   "start": 16.62,
+   "end": 28.39,
+   "text": "Then shall we know, if we follow on to know the LORD: his going forth is prepared as the morning; and he shall come unto us as the rain, as the latter and former rain unto the earth."
+  },
+  {
+   "verse": 4,
+   "start": 29.09,
+   "end": 40.42,
+   "text": "O Ephraim, what shall I do unto thee? O Judah, what shall I do unto thee? for your goodness is as a morning cloud, and as the early dew it goeth away."
+  },
+  {
+   "verse": 5,
+   "start": 41.12,
+   "end": 49.88,
+   "text": "Therefore have I hewed them by the prophets; I have slain them by the words of my mouth: and thy judgments are as the light that goeth forth."
+  },
+  {
+   "verse": 6,
+   "start": 50.58,
+   "end": 57.12,
+   "text": "For I desired mercy, and not sacrifice; and the knowledge of God more than burnt offerings."
+  },
+  {
+   "verse": 7,
+   "start": 57.82,
+   "end": 63.54,
+   "text": "But they like men have transgressed the covenant: there have they dealt treacherously against me."
+  },
+  {
+   "verse": 8,
+   "start": 64.24,
+   "end": 68.81,
+   "text": "Gilead is a city of them that work iniquity, and is polluted with blood."
+  },
+  {
+   "verse": 9,
+   "start": 69.51,
+   "end": 77.22,
+   "text": "And as troops of robbers wait for a man, so the company of priests murder in the way by consent: for they commit lewdness."
+  },
+  {
+   "verse": 10,
+   "start": 77.92,
+   "end": 86.03,
+   "text": "I have seen an horrible thing in the house of Israel: there is the whoredom of Ephraim, Israel is defiled."
+  },
+  {
+   "verse": 11,
+   "start": 86.73,
+   "end": 93.23,
+   "text": "Also, O Judah, he hath set an harvest for thee, when I returned the captivity of my people."
+  }
+ ]
+}

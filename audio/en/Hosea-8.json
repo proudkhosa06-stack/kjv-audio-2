@@ -1,0 +1,96 @@
+{
+ "book": "Hosea",
+ "chapter": 8,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Hosea-8.mp3",
+ "duration": 127.32,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 10.0,
+   "text": "Set the trumpet to thy mouth. He shall come as an eagle against the house of the LORD, because they have transgressed my covenant, and trespassed against my law."
+  },
+  {
+   "verse": 2,
+   "start": 10.7,
+   "end": 14.02,
+   "text": "Israel shall cry unto me, My God, we know thee."
+  },
+  {
+   "verse": 3,
+   "start": 14.72,
+   "end": 19.47,
+   "text": "Israel hath cast off the thing that is good: the enemy shall pursue him."
+  },
+  {
+   "verse": 4,
+   "start": 20.17,
+   "end": 31.06,
+   "text": "They have set up kings, but not by me: they have made princes, and I knew it not: of their silver and their gold have they made them idols, that they may be cut off."
+  },
+  {
+   "verse": 5,
+   "start": 31.76,
+   "end": 42.12,
+   "text": "Thy calf, O Samaria, hath cast thee off; mine anger is kindled against them: how long will it be ere they attain to innocency?"
+  },
+  {
+   "verse": 6,
+   "start": 42.82,
+   "end": 51.46,
+   "text": "For from Israel was it also: the workman made it; therefore it is not God: but the calf of Samaria shall be broken in pieces."
+  },
+  {
+   "verse": 7,
+   "start": 52.16,
+   "end": 62.86,
+   "text": "For they have sown the wind, and they shall reap the whirlwind: it hath no stalk: the bud shall yield no meal: if so be it yield, the strangers shall swallow it up."
+  },
+  {
+   "verse": 8,
+   "start": 63.56,
+   "end": 69.8,
+   "text": "Israel is swallowed up: now shall they be among the Gentiles as a vessel wherein is no pleasure."
+  },
+  {
+   "verse": 9,
+   "start": 70.5,
+   "end": 78.05,
+   "text": "For they are gone up to Assyria, a wild ass alone by himself: Ephraim hath hired lovers."
+  },
+  {
+   "verse": 10,
+   "start": 78.75,
+   "end": 87.25,
+   "text": "Yea, though they have hired among the nations, now will I gather them, and they shall sorrow a little for the burden of the king of princes."
+  },
+  {
+   "verse": 11,
+   "start": 87.95,
+   "end": 93.33,
+   "text": "Because Ephraim hath made many altars to sin, altars shall be unto him to sin."
+  },
+  {
+   "verse": 12,
+   "start": 94.03,
+   "end": 99.51,
+   "text": "I have written to him the great things of my law, but they were counted as a strange thing."
+  },
+  {
+   "verse": 13,
+   "start": 100.21,
+   "end": 113.04,
+   "text": "They sacrifice flesh for the sacrifices of mine offerings, and eat it; but the LORD accepteth them not; now will he remember their iniquity, and visit their sins: they shall return to Egypt."
+  },
+  {
+   "verse": 14,
+   "start": 113.74,
+   "end": 126.25,
+   "text": "For Israel hath forgotten his Maker, and buildeth temples; and Judah hath multiplied fenced cities: but I will send a fire upon his cities, and it shall devour the palaces thereof."
+  }
+ ]
+}

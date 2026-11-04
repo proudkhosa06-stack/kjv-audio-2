@@ -1,0 +1,84 @@
+{
+ "book": "Hosea",
+ "chapter": 11,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Hosea-11.mp3",
+ "duration": 113.71,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 5.34,
+   "text": "When Israel was a child, then I loved him, and called my son out of Egypt."
+  },
+  {
+   "verse": 2,
+   "start": 6.04,
+   "end": 13.28,
+   "text": "As they called them, so they went from them: they sacrificed unto Baalim, and burned incense to graven images."
+  },
+  {
+   "verse": 3,
+   "start": 13.98,
+   "end": 20.74,
+   "text": "I taught Ephraim also to go, taking them by their arms; but they knew not that I healed them."
+  },
+  {
+   "verse": 4,
+   "start": 21.44,
+   "end": 31.94,
+   "text": "I drew them with cords of a man, with bands of love: and I was to them as they that take off the yoke on their jaws, and I laid meat unto them."
+  },
+  {
+   "verse": 5,
+   "start": 32.64,
+   "end": 39.94,
+   "text": "He shall not return into the land of Egypt, but the Assyrian shall be his king, because they refused to return."
+  },
+  {
+   "verse": 6,
+   "start": 40.64,
+   "end": 48.12,
+   "text": "And the sword shall abide on his cities, and shall consume his branches, and devour them, because of their own counsels."
+  },
+  {
+   "verse": 7,
+   "start": 48.82,
+   "end": 55.98,
+   "text": "And my people are bent to backsliding from me: though they called them to the most High, none at all would exalt him."
+  },
+  {
+   "verse": 8,
+   "start": 56.68,
+   "end": 70.9,
+   "text": "How shall I give thee up, Ephraim? how shall I deliver thee, Israel? how shall I make thee as Admah? how shall I set thee as Zeboim? mine heart is turned within me, my repentings are kindled together."
+  },
+  {
+   "verse": 9,
+   "start": 71.6,
+   "end": 85.23,
+   "text": "I will not execute the fierceness of mine anger, I will not return to destroy Ephraim: for I am God, and not man; the Holy One in the midst of thee: and I will not enter into the city."
+  },
+  {
+   "verse": 10,
+   "start": 85.93,
+   "end": 93.21,
+   "text": "They shall walk after the LORD: he shall roar like a lion: when he shall roar, then the children shall tremble from the west."
+  },
+  {
+   "verse": 11,
+   "start": 93.91,
+   "end": 102.94,
+   "text": "They shall tremble as a bird out of Egypt, and as a dove out of the land of Assyria: and I will place them in their houses, saith the LORD."
+  },
+  {
+   "verse": 12,
+   "start": 103.64,
+   "end": 112.66,
+   "text": "Ephraim compasseth me about with lies, and the house of Israel with deceit: but Judah yet ruleth with God, and is faithful with the saints."
+  }
+ ]
+}

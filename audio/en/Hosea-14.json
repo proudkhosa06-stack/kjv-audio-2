@@ -1,0 +1,66 @@
+{
+ "book": "Hosea",
+ "chapter": 14,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Hosea-14.mp3",
+ "duration": 87.89,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 5.9,
+   "text": "O Israel, return unto the LORD thy God; for thou hast fallen by thine iniquity."
+  },
+  {
+   "verse": 2,
+   "start": 6.6,
+   "end": 17.43,
+   "text": "Take with you words, and turn to the LORD: say unto him, Take away all iniquity, and receive us graciously: so will we render the calves of our lips."
+  },
+  {
+   "verse": 3,
+   "start": 18.13,
+   "end": 30.61,
+   "text": "Asshur shall not save us; we will not ride upon horses: neither will we say any more to the work of our hands, Ye are our gods: for in thee the fatherless findeth mercy."
+  },
+  {
+   "verse": 4,
+   "start": 31.31,
+   "end": 36.95,
+   "text": "I will heal their backsliding, I will love them freely: for mine anger is turned away from him."
+  },
+  {
+   "verse": 5,
+   "start": 37.65,
+   "end": 44.32,
+   "text": "I will be as the dew unto Israel: he shall grow as the lily, and cast forth his roots as Lebanon."
+  },
+  {
+   "verse": 6,
+   "start": 45.02,
+   "end": 50.69,
+   "text": "His branches shall spread, and his beauty shall be as the olive tree, and his smell as Lebanon."
+  },
+  {
+   "verse": 7,
+   "start": 51.39,
+   "end": 61.72,
+   "text": "They that dwell under his shadow shall return; they shall revive as the corn, and grow as the vine: the scent thereof shall be as the wine of Lebanon."
+  },
+  {
+   "verse": 8,
+   "start": 62.42,
+   "end": 73.6,
+   "text": "Ephraim shall say, What have I to do any more with idols? I have heard him, and observed him: I am like a green fir tree. From me is thy fruit found."
+  },
+  {
+   "verse": 9,
+   "start": 74.3,
+   "end": 86.82,
+   "text": "Who is wise, and he shall understand these things? prudent, and he shall know them? for the ways of the LORD are right, and the just shall walk in them: but the transgressors shall fall therein."
+  }
+ ]
+}

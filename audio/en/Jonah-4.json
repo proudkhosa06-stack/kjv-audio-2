@@ -1,0 +1,78 @@
+{
+ "book": "Jonah",
+ "chapter": 4,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Jonah-4.mp3",
+ "duration": 114.79,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 4.0,
+   "text": "But it displeased Jonah exceedingly, and he was very angry."
+  },
+  {
+   "verse": 2,
+   "start": 4.7,
+   "end": 23.28,
+   "text": "And he prayed unto the LORD, and said, I pray thee, O LORD, was not this my saying, when I was yet in my country? Therefore I fled before unto Tarshish: for I knew that thou art a gracious God, and merciful, slow to anger, and of great kindness, and repentest thee of the evil."
+  },
+  {
+   "verse": 3,
+   "start": 23.98,
+   "end": 31.2,
+   "text": "Therefore now, O LORD, take, I beseech thee, my life from me; for it is better for me to die than to live."
+  },
+  {
+   "verse": 4,
+   "start": 31.9,
+   "end": 34.65,
+   "text": "Then said the LORD, Doest thou well to be angry?"
+  },
+  {
+   "verse": 5,
+   "start": 35.35,
+   "end": 46.64,
+   "text": "So Jonah went out of the city, and sat on the east side of the city, and there made him a booth, and sat under it in the shadow, till he might see what would become of the city."
+  },
+  {
+   "verse": 6,
+   "start": 47.34,
+   "end": 60.33,
+   "text": "And the LORD God prepared a gourd, and made it to come up over Jonah, that it might be a shadow over his head, to deliver him from his grief. So Jonah was exceeding glad of the gourd."
+  },
+  {
+   "verse": 7,
+   "start": 61.03,
+   "end": 67.05,
+   "text": "But God prepared a worm when the morning rose the next day, and it smote the gourd that it withered."
+  },
+  {
+   "verse": 8,
+   "start": 67.75,
+   "end": 82.77,
+   "text": "And it came to pass, when the sun did arise, that God prepared a vehement east wind; and the sun beat upon the head of Jonah, that he fainted, and wished in himself to die, and said, It is better for me to die than to live."
+  },
+  {
+   "verse": 9,
+   "start": 83.47,
+   "end": 91.33,
+   "text": "And God said to Jonah, Doest thou well to be angry for the gourd? And he said, I do well to be angry, even unto death."
+  },
+  {
+   "verse": 10,
+   "start": 92.03,
+   "end": 102.42,
+   "text": "Then said the LORD, Thou hast had pity on the gourd, for the which thou hast not laboured, neither madest it grow; which came up in a night, and perished in a night:"
+  },
+  {
+   "verse": 11,
+   "start": 103.12,
+   "end": 113.73,
+   "text": "And should not I spare Nineveh, that great city, wherein are more than sixscore thousand persons that cannot discern between their right hand and their left hand; and also much cattle?"
+  }
+ ]
+}

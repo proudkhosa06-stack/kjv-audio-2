@@ -1,0 +1,336 @@
+{
+ "book": "Luke",
+ "chapter": 11,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Luke-11.mp3",
+ "duration": 489.24,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 13.02,
+   "text": "And it came to pass, that, as he was praying in a certain place, when he ceased, one of his disciples said unto him, Lord, teach us to pray, as John also taught his disciples."
+  },
+  {
+   "verse": 2,
+   "start": 13.72,
+   "end": 26.71,
+   "text": "And he said unto them, When ye pray, say, Our Father which art in heaven, Hallowed be thy name. Thy kingdom come. Thy will be done, as in heaven, so in earth."
+  },
+  {
+   "verse": 3,
+   "start": 27.41,
+   "end": 29.62,
+   "text": "Give us day by day our daily bread."
+  },
+  {
+   "verse": 4,
+   "start": 30.32,
+   "end": 39.43,
+   "text": "And forgive us our sins; for we also forgive every one that is indebted to us. And lead us not into temptation; but deliver us from evil."
+  },
+  {
+   "verse": 5,
+   "start": 40.13,
+   "end": 49.45,
+   "text": "And he said unto them, Which of you shall have a friend, and shall go unto him at midnight, and say unto him, Friend, lend me three loaves;"
+  },
+  {
+   "verse": 6,
+   "start": 50.15,
+   "end": 55.17,
+   "text": "For a friend of mine in his journey is come to me, and I have nothing to set before him?"
+  },
+  {
+   "verse": 7,
+   "start": 55.87,
+   "end": 65.58,
+   "text": "And he from within shall answer and say, Trouble me not: the door is now shut, and my children are with me in bed; I cannot rise and give thee."
+  },
+  {
+   "verse": 8,
+   "start": 66.28,
+   "end": 77.1,
+   "text": "I say unto you, Though he will not rise and give him, because he is his friend, yet because of his importunity he will rise and give him as many as he needeth."
+  },
+  {
+   "verse": 9,
+   "start": 77.8,
+   "end": 86.24,
+   "text": "And I say unto you, Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you."
+  },
+  {
+   "verse": 10,
+   "start": 86.94,
+   "end": 94.99,
+   "text": "For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened."
+  },
+  {
+   "verse": 11,
+   "start": 95.69,
+   "end": 105.07,
+   "text": "If a son shall ask bread of any of you that is a father, will he give him a stone? or if he ask a fish, will he for a fish give him a serpent?"
+  },
+  {
+   "verse": 12,
+   "start": 105.77,
+   "end": 109.5,
+   "text": "Or if he shall ask an egg, will he offer him a scorpion?"
+  },
+  {
+   "verse": 13,
+   "start": 110.2,
+   "end": 119.51,
+   "text": "If ye then, being evil, know how to give good gifts unto your children: how much more shall your heavenly Father give the Holy Spirit to them that ask him?"
+  },
+  {
+   "verse": 14,
+   "start": 120.21,
+   "end": 129.43,
+   "text": "And he was casting out a devil, and it was dumb. And it came to pass, when the devil was gone out, the dumb spake; and the people wondered."
+  },
+  {
+   "verse": 15,
+   "start": 130.13,
+   "end": 135.53,
+   "text": "But some of them said, He casteth out devils through Beelzebub the chief of the devils."
+  },
+  {
+   "verse": 16,
+   "start": 136.23,
+   "end": 139.76,
+   "text": "And others, tempting him, sought of him a sign from heaven."
+  },
+  {
+   "verse": 17,
+   "start": 140.46,
+   "end": 149.81,
+   "text": "But he, knowing their thoughts, said unto them, Every kingdom divided against itself is brought to desolation; and a house divided against a house falleth."
+  },
+  {
+   "verse": 18,
+   "start": 150.51,
+   "end": 159.35,
+   "text": "If Satan also be divided against himself, how shall his kingdom stand? because ye say that I cast out devils through Beelzebub."
+  },
+  {
+   "verse": 19,
+   "start": 160.05,
+   "end": 168.45,
+   "text": "And if I by Beelzebub cast out devils, by whom do your sons cast them out? therefore shall they be your judges."
+  },
+  {
+   "verse": 20,
+   "start": 169.15,
+   "end": 175.47,
+   "text": "But if I with the finger of God cast out devils, no doubt the kingdom of God is come upon you."
+  },
+  {
+   "verse": 21,
+   "start": 176.17,
+   "end": 180.25,
+   "text": "When a strong man armed keepeth his palace, his goods are in peace:"
+  },
+  {
+   "verse": 22,
+   "start": 180.95,
+   "end": 190.65,
+   "text": "But when a stronger than he shall come upon him, and overcome him, he taketh from him all his armour wherein he trusted, and divideth his spoils."
+  },
+  {
+   "verse": 23,
+   "start": 191.35,
+   "end": 196.74,
+   "text": "He that is not with me is against me: and he that gathereth not with me scattereth."
+  },
+  {
+   "verse": 24,
+   "start": 197.44,
+   "end": 209.1,
+   "text": "When the unclean spirit is gone out of a man, he walketh through dry places, seeking rest; and finding none, he saith, I will return unto my house whence I came out."
+  },
+  {
+   "verse": 25,
+   "start": 209.8,
+   "end": 213.52,
+   "text": "And when he cometh, he findeth it swept and garnished."
+  },
+  {
+   "verse": 26,
+   "start": 214.22,
+   "end": 225.75,
+   "text": "Then goeth he, and taketh to him seven other spirits more wicked than himself; and they enter in, and dwell there: and the last state of that man is worse than the first."
+  },
+  {
+   "verse": 27,
+   "start": 226.45,
+   "end": 238.76,
+   "text": "And it came to pass, as he spake these things, a certain woman of the company lifted up her voice, and said unto him, Blessed is the womb that bare thee, and the paps which thou hast sucked."
+  },
+  {
+   "verse": 28,
+   "start": 239.46,
+   "end": 244.41,
+   "text": "But he said, Yea rather, blessed are they that hear the word of God, and keep it."
+  },
+  {
+   "verse": 29,
+   "start": 245.11,
+   "end": 257.87,
+   "text": "And when the people were gathered thick together, he began to say, This is an evil generation: they seek a sign; and there shall no sign be given it, but the sign of Jonas the prophet."
+  },
+  {
+   "verse": 30,
+   "start": 258.57,
+   "end": 265.57,
+   "text": "For as Jonas was a sign unto the Ninevites, so shall also the Son of man be to this generation."
+  },
+  {
+   "verse": 31,
+   "start": 266.27,
+   "end": 280.93,
+   "text": "The queen of the south shall rise up in the judgment with the men of this generation, and condemn them: for she came from the utmost parts of the earth to hear the wisdom of Solomon; and, behold, a greater than Solomon is here."
+  },
+  {
+   "verse": 32,
+   "start": 281.63,
+   "end": 292.77,
+   "text": "The men of Nineve shall rise up in the judgment with this generation, and shall condemn it: for they repented at the preaching of Jonas; and, behold, a greater than Jonas is here."
+  },
+  {
+   "verse": 33,
+   "start": 293.47,
+   "end": 303.26,
+   "text": "No man, when he hath lighted a candle, putteth it in a secret place, neither under a bushel, but on a candlestick, that they which come in may see the light."
+  },
+  {
+   "verse": 34,
+   "start": 303.96,
+   "end": 316.61,
+   "text": "The light of the body is the eye: therefore when thine eye is single, thy whole body also is full of light; but when thine eye is evil, thy body also is full of darkness."
+  },
+  {
+   "verse": 35,
+   "start": 317.31,
+   "end": 321.27,
+   "text": "Take heed therefore that the light which is in thee be not darkness."
+  },
+  {
+   "verse": 36,
+   "start": 321.97,
+   "end": 331.34,
+   "text": "If thy whole body therefore be full of light, having no part dark, the whole shall be full of light, as when the bright shining of a candle doth give thee light."
+  },
+  {
+   "verse": 37,
+   "start": 332.04,
+   "end": 339.04,
+   "text": "And as he spake, a certain Pharisee besought him to dine with him: and he went in, and sat down to meat."
+  },
+  {
+   "verse": 38,
+   "start": 339.74,
+   "end": 344.75,
+   "text": "And when the Pharisee saw it, he marvelled that he had not first washed before dinner."
+  },
+  {
+   "verse": 39,
+   "start": 345.45,
+   "end": 355.04,
+   "text": "And the Lord said unto him, Now do ye Pharisees make clean the outside of the cup and the platter; but your inward part is full of ravening and wickedness."
+  },
+  {
+   "verse": 40,
+   "start": 355.74,
+   "end": 360.64,
+   "text": "Ye fools, did not he that made that which is without make that which is within also?"
+  },
+  {
+   "verse": 41,
+   "start": 361.34,
+   "end": 367.95,
+   "text": "But rather give alms of such things as ye have; and, behold, all things are clean unto you."
+  },
+  {
+   "verse": 42,
+   "start": 368.65,
+   "end": 381.0,
+   "text": "But woe unto you, Pharisees! for ye tithe mint and rue and all manner of herbs, and pass over judgment and the love of God: these ought ye to have done, and not to leave the other undone."
+  },
+  {
+   "verse": 43,
+   "start": 381.7,
+   "end": 388.32,
+   "text": "Woe unto you, Pharisees! for ye love the uppermost seats in the synagogues, and greetings in the markets."
+  },
+  {
+   "verse": 44,
+   "start": 389.02,
+   "end": 398.48,
+   "text": "Woe unto you, scribes and Pharisees, hypocrites! for ye are as graves which appear not, and the men that walk over them are not aware of them."
+  },
+  {
+   "verse": 45,
+   "start": 399.18,
+   "end": 405.65,
+   "text": "Then answered one of the lawyers, and said unto him, Master, thus saying thou reproachest us also."
+  },
+  {
+   "verse": 46,
+   "start": 406.35,
+   "end": 417.84,
+   "text": "And he said, Woe unto you also, ye lawyers! for ye lade men with burdens grievous to be borne, and ye yourselves touch not the burdens with one of your fingers."
+  },
+  {
+   "verse": 47,
+   "start": 418.54,
+   "end": 424.3,
+   "text": "Woe unto you! for ye build the sepulchres of the prophets, and your fathers killed them."
+  },
+  {
+   "verse": 48,
+   "start": 425.0,
+   "end": 432.63,
+   "text": "Truly ye bear witness that ye allow the deeds of your fathers: for they indeed killed them, and ye build their sepulchres."
+  },
+  {
+   "verse": 49,
+   "start": 433.33,
+   "end": 441.49,
+   "text": "Therefore also said the wisdom of God, I will send them prophets and apostles, and some of them they shall slay and persecute:"
+  },
+  {
+   "verse": 50,
+   "start": 442.19,
+   "end": 449.14,
+   "text": "That the blood of all the prophets, which was shed from the foundation of the world, may be required of this generation;"
+  },
+  {
+   "verse": 51,
+   "start": 449.84,
+   "end": 462.37,
+   "text": "From the blood of Abel unto the blood of Zacharias, which perished between the altar and the temple: verily I say unto you, It shall be required of this generation."
+  },
+  {
+   "verse": 52,
+   "start": 463.07,
+   "end": 472.11,
+   "text": "Woe unto you, lawyers! for ye have taken away the key of knowledge: ye entered not in yourselves, and them that were entering in ye hindered."
+  },
+  {
+   "verse": 53,
+   "start": 472.81,
+   "end": 482.08,
+   "text": "And as he said these things unto them, the scribes and the Pharisees began to urge him vehemently, and to provoke him to speak of many things:"
+  },
+  {
+   "verse": 54,
+   "start": 482.78,
+   "end": 488.17,
+   "text": "Laying wait for him, and seeking to catch something out of his mouth, that they might accuse him."
+  }
+ ]
+}

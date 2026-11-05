@@ -1,0 +1,330 @@
+{
+ "book": "Luke",
+ "chapter": 24,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Luke-24.mp3",
+ "duration": 390.12,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 10.51,
+   "text": "Now upon the first day of the week, very early in the morning, they came unto the sepulchre, bringing the spices which they had prepared, and certain others with them."
+  },
+  {
+   "verse": 2,
+   "start": 11.21,
+   "end": 14.19,
+   "text": "And they found the stone rolled away from the sepulchre."
+  },
+  {
+   "verse": 3,
+   "start": 14.89,
+   "end": 18.42,
+   "text": "And they entered in, and found not the body of the Lord Jesus."
+  },
+  {
+   "verse": 4,
+   "start": 19.12,
+   "end": 26.26,
+   "text": "And it came to pass, as they were much perplexed thereabout, behold, two men stood by them in shining garments:"
+  },
+  {
+   "verse": 5,
+   "start": 26.96,
+   "end": 34.83,
+   "text": "And as they were afraid, and bowed down their faces to the earth, they said unto them, Why seek ye the living among the dead?"
+  },
+  {
+   "verse": 6,
+   "start": 35.53,
+   "end": 41.4,
+   "text": "He is not here, but is risen: remember how he spake unto you when he was yet in Galilee,"
+  },
+  {
+   "verse": 7,
+   "start": 42.1,
+   "end": 49.59,
+   "text": "Saying, The Son of man must be delivered into the hands of sinful men, and be crucified, and the third day rise again."
+  },
+  {
+   "verse": 8,
+   "start": 50.29,
+   "end": 52.08,
+   "text": "And they remembered his words,"
+  },
+  {
+   "verse": 9,
+   "start": 52.78,
+   "end": 58.9,
+   "text": "And returned from the sepulchre, and told all these things unto the eleven, and to all the rest."
+  },
+  {
+   "verse": 10,
+   "start": 59.6,
+   "end": 68.38,
+   "text": "It was Mary Magdalene, and Joanna, and Mary the mother of James, and other women that were with them, which told these things unto the apostles."
+  },
+  {
+   "verse": 11,
+   "start": 69.08,
+   "end": 73.84,
+   "text": "And their words seemed to them as idle tales, and they believed them not."
+  },
+  {
+   "verse": 12,
+   "start": 74.54,
+   "end": 86.93,
+   "text": "Then arose Peter, and ran unto the sepulchre; and stooping down, he beheld the linen clothes laid by themselves, and departed, wondering in himself at that which was come to pass."
+  },
+  {
+   "verse": 13,
+   "start": 87.63,
+   "end": 97.1,
+   "text": "And, behold, two of them went that same day to a village called Emmaus, which was from Jerusalem about threescore furlongs."
+  },
+  {
+   "verse": 14,
+   "start": 97.8,
+   "end": 100.95,
+   "text": "And they talked together of all these things which had happened."
+  },
+  {
+   "verse": 15,
+   "start": 101.65,
+   "end": 108.72,
+   "text": "And it came to pass, that, while they communed together and reasoned, Jesus himself drew near, and went with them."
+  },
+  {
+   "verse": 16,
+   "start": 109.42,
+   "end": 112.39,
+   "text": "But their eyes were holden that they should not know him."
+  },
+  {
+   "verse": 17,
+   "start": 113.09,
+   "end": 121.26,
+   "text": "And he said unto them, What manner of communications are these that ye have one to another, as ye walk, and are sad?"
+  },
+  {
+   "verse": 18,
+   "start": 121.96,
+   "end": 134.54,
+   "text": "And the one of them, whose name was Cleopas, answering said unto him, Art thou only a stranger in Jerusalem, and hast not known the things which are come to pass there in these days?"
+  },
+  {
+   "verse": 19,
+   "start": 135.24,
+   "end": 145.64,
+   "text": "And he said unto them, What things? And they said unto him, Concerning Jesus of Nazareth, which was a prophet mighty in deed and word before God and all the people:"
+  },
+  {
+   "verse": 20,
+   "start": 146.34,
+   "end": 152.56,
+   "text": "And how the chief priests and our rulers delivered him to be condemned to death, and have crucified him."
+  },
+  {
+   "verse": 21,
+   "start": 153.26,
+   "end": 162.27,
+   "text": "But we trusted that it had been he which should have redeemed Israel: and beside all this, to day is the third day since these things were done."
+  },
+  {
+   "verse": 22,
+   "start": 162.97,
+   "end": 169.34,
+   "text": "Yea, and certain women also of our company made us astonished, which were early at the sepulchre;"
+  },
+  {
+   "verse": 23,
+   "start": 170.04,
+   "end": 178.19,
+   "text": "And when they found not his body, they came, saying, that they had also seen a vision of angels, which said that he was alive."
+  },
+  {
+   "verse": 24,
+   "start": 178.89,
+   "end": 188.28,
+   "text": "And certain of them which were with us went to the sepulchre, and found it even so as the women had said: but him they saw not."
+  },
+  {
+   "verse": 25,
+   "start": 188.98,
+   "end": 195.02,
+   "text": "Then he said unto them, O fools, and slow of heart to believe all that the prophets have spoken:"
+  },
+  {
+   "verse": 26,
+   "start": 195.72,
+   "end": 200.36,
+   "text": "Ought not Christ to have suffered these things, and to enter into his glory?"
+  },
+  {
+   "verse": 27,
+   "start": 201.06,
+   "end": 208.86,
+   "text": "And beginning at Moses and all the prophets, he expounded unto them in all the scriptures the things concerning himself."
+  },
+  {
+   "verse": 28,
+   "start": 209.56,
+   "end": 215.76,
+   "text": "And they drew nigh unto the village, whither they went: and he made as though he would have gone further."
+  },
+  {
+   "verse": 29,
+   "start": 216.46,
+   "end": 225.76,
+   "text": "But they constrained him, saying, Abide with us: for it is toward evening, and the day is far spent. And he went in to tarry with them."
+  },
+  {
+   "verse": 30,
+   "start": 226.46,
+   "end": 233.42,
+   "text": "And it came to pass, as he sat at meat with them, he took bread, and blessed it, and brake, and gave to them."
+  },
+  {
+   "verse": 31,
+   "start": 234.12,
+   "end": 238.75,
+   "text": "And their eyes were opened, and they knew him; and he vanished out of their sight."
+  },
+  {
+   "verse": 32,
+   "start": 239.45,
+   "end": 247.48,
+   "text": "And they said one to another, Did not our heart burn within us, while he talked with us by the way, and while he opened to us the scriptures?"
+  },
+  {
+   "verse": 33,
+   "start": 248.18,
+   "end": 255.91,
+   "text": "And they rose up the same hour, and returned to Jerusalem, and found the eleven gathered together, and them that were with them,"
+  },
+  {
+   "verse": 34,
+   "start": 256.61,
+   "end": 261.49,
+   "text": "Saying, The Lord is risen indeed, and hath appeared to Simon."
+  },
+  {
+   "verse": 35,
+   "start": 262.19,
+   "end": 267.55,
+   "text": "And they told what things were done in the way, and how he was known of them in breaking of bread."
+  },
+  {
+   "verse": 36,
+   "start": 268.25,
+   "end": 276.28,
+   "text": "And as they thus spake, Jesus himself stood in the midst of them, and saith unto them, Peace be unto you."
+  },
+  {
+   "verse": 37,
+   "start": 276.98,
+   "end": 281.29,
+   "text": "But they were terrified and affrighted, and supposed that they had seen a spirit."
+  },
+  {
+   "verse": 38,
+   "start": 281.99,
+   "end": 287.15,
+   "text": "And he said unto them, Why are ye troubled? and why do thoughts arise in your hearts?"
+  },
+  {
+   "verse": 39,
+   "start": 287.85,
+   "end": 298.52,
+   "text": "Behold my hands and my feet, that it is I myself: handle me, and see; for a spirit hath not flesh and bones, as ye see me have."
+  },
+  {
+   "verse": 40,
+   "start": 299.22,
+   "end": 303.29,
+   "text": "And when he had thus spoken, he shewed them his hands and his feet."
+  },
+  {
+   "verse": 41,
+   "start": 303.99,
+   "end": 310.25,
+   "text": "And while they yet believed not for joy, and wondered, he said unto them, Have ye here any meat?"
+  },
+  {
+   "verse": 42,
+   "start": 310.95,
+   "end": 314.73,
+   "text": "And they gave him a piece of a broiled fish, and of an honeycomb."
+  },
+  {
+   "verse": 43,
+   "start": 315.43,
+   "end": 318.04,
+   "text": "And he took it, and did eat before them."
+  },
+  {
+   "verse": 44,
+   "start": 318.74,
+   "end": 333.49,
+   "text": "And he said unto them, These are the words which I spake unto you, while I was yet with you, that all things must be fulfilled, which were written in the law of Moses, and in the prophets, and in the psalms, concerning me."
+  },
+  {
+   "verse": 45,
+   "start": 334.19,
+   "end": 337.7,
+   "text": "Then opened he their understanding, that they might understand the scriptures,"
+  },
+  {
+   "verse": 46,
+   "start": 338.4,
+   "end": 345.43,
+   "text": "And said unto them, Thus it is written, and thus it behoved Christ to suffer, and to rise from the dead the third day:"
+  },
+  {
+   "verse": 47,
+   "start": 346.13,
+   "end": 353.19,
+   "text": "And that repentance and remission of sins should be preached in his name among all nations, beginning at Jerusalem."
+  },
+  {
+   "verse": 48,
+   "start": 353.89,
+   "end": 356.07,
+   "text": "And ye are witnesses of these things."
+  },
+  {
+   "verse": 49,
+   "start": 356.77,
+   "end": 366.12,
+   "text": "And, behold, I send the promise of my Father upon you: but tarry ye in the city of Jerusalem, until ye be endued with power from on high."
+  },
+  {
+   "verse": 50,
+   "start": 366.82,
+   "end": 372.03,
+   "text": "And he led them out as far as to Bethany, and he lifted up his hands, and blessed them."
+  },
+  {
+   "verse": 51,
+   "start": 372.73,
+   "end": 378.88,
+   "text": "And it came to pass, while he blessed them, he was parted from them, and carried up into heaven."
+  },
+  {
+   "verse": 52,
+   "start": 379.58,
+   "end": 383.75,
+   "text": "And they worshipped him, and returned to Jerusalem with great joy:"
+  },
+  {
+   "verse": 53,
+   "start": 384.45,
+   "end": 389.06,
+   "text": "And were continually in the temple, praising and blessing God. Amen."
+  }
+ ]
+}

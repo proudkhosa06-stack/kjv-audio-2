@@ -1,0 +1,438 @@
+{
+ "book": "Luke",
+ "chapter": 22,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Luke-22.mp3",
+ "duration": 522.72,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 4.95,
+   "text": "Now the feast of unleavened bread drew nigh, which is called the Passover."
+  },
+  {
+   "verse": 2,
+   "start": 5.65,
+   "end": 10.94,
+   "text": "And the chief priests and scribes sought how they might kill him; for they feared the people."
+  },
+  {
+   "verse": 3,
+   "start": 11.64,
+   "end": 17.91,
+   "text": "Then entered Satan into Judas surnamed Iscariot, being of the number of the twelve."
+  },
+  {
+   "verse": 4,
+   "start": 18.61,
+   "end": 25.77,
+   "text": "And he went his way, and communed with the chief priests and captains, how he might betray him unto them."
+  },
+  {
+   "verse": 5,
+   "start": 26.47,
+   "end": 29.5,
+   "text": "And they were glad, and covenanted to give him money."
+  },
+  {
+   "verse": 6,
+   "start": 30.2,
+   "end": 36.17,
+   "text": "And he promised, and sought opportunity to betray him unto them in the absence of the multitude."
+  },
+  {
+   "verse": 7,
+   "start": 36.87,
+   "end": 41.26,
+   "text": "Then came the day of unleavened bread, when the passover must be killed."
+  },
+  {
+   "verse": 8,
+   "start": 41.96,
+   "end": 47.16,
+   "text": "And he sent Peter and John, saying, Go and prepare us the passover, that we may eat."
+  },
+  {
+   "verse": 9,
+   "start": 47.86,
+   "end": 51.15,
+   "text": "And they said unto him, Where wilt thou that we prepare?"
+  },
+  {
+   "verse": 10,
+   "start": 51.85,
+   "end": 63.28,
+   "text": "And he said unto them, Behold, when ye are entered into the city, there shall a man meet you, bearing a pitcher of water; follow him into the house where he entereth in."
+  },
+  {
+   "verse": 11,
+   "start": 63.98,
+   "end": 73.99,
+   "text": "And ye shall say unto the goodman of the house, The Master saith unto thee, Where is the guestchamber, where I shall eat the passover with my disciples?"
+  },
+  {
+   "verse": 12,
+   "start": 74.69,
+   "end": 79.01,
+   "text": "And he shall shew you a large upper room furnished: there make ready."
+  },
+  {
+   "verse": 13,
+   "start": 79.71,
+   "end": 84.94,
+   "text": "And they went, and found as he had said unto them: and they made ready the passover."
+  },
+  {
+   "verse": 14,
+   "start": 85.64,
+   "end": 90.22,
+   "text": "And when the hour was come, he sat down, and the twelve apostles with him."
+  },
+  {
+   "verse": 15,
+   "start": 90.92,
+   "end": 96.89,
+   "text": "And he said unto them, With desire I have desired to eat this passover with you before I suffer:"
+  },
+  {
+   "verse": 16,
+   "start": 97.59,
+   "end": 104.15,
+   "text": "For I say unto you, I will not any more eat thereof, until it be fulfilled in the kingdom of God."
+  },
+  {
+   "verse": 17,
+   "start": 104.85,
+   "end": 110.27,
+   "text": "And he took the cup, and gave thanks, and said, Take this, and divide it among yourselves:"
+  },
+  {
+   "verse": 18,
+   "start": 110.97,
+   "end": 117.14,
+   "text": "For I say unto you, I will not drink of the fruit of the vine, until the kingdom of God shall come."
+  },
+  {
+   "verse": 19,
+   "start": 117.84,
+   "end": 127.79,
+   "text": "And he took bread, and gave thanks, and brake it, and gave unto them, saying, This is my body which is given for you: this do in remembrance of me."
+  },
+  {
+   "verse": 20,
+   "start": 128.49,
+   "end": 135.42,
+   "text": "Likewise also the cup after supper, saying, This cup is the new testament in my blood, which is shed for you."
+  },
+  {
+   "verse": 21,
+   "start": 136.12,
+   "end": 141.26,
+   "text": "But, behold, the hand of him that betrayeth me is with me on the table."
+  },
+  {
+   "verse": 22,
+   "start": 141.96,
+   "end": 149.43,
+   "text": "And truly the Son of man goeth, as it was determined: but woe unto that man by whom he is betrayed!"
+  },
+  {
+   "verse": 23,
+   "start": 150.13,
+   "end": 155.8,
+   "text": "And they began to enquire among themselves, which of them it was that should do this thing."
+  },
+  {
+   "verse": 24,
+   "start": 156.5,
+   "end": 161.36,
+   "text": "And there was also a strife among them, which of them should be accounted the greatest."
+  },
+  {
+   "verse": 25,
+   "start": 162.06,
+   "end": 171.17,
+   "text": "And he said unto them, The kings of the Gentiles exercise lordship over them; and they that exercise authority upon them are called benefactors."
+  },
+  {
+   "verse": 26,
+   "start": 171.87,
+   "end": 181.37,
+   "text": "But ye shall not be so: but he that is greatest among you, let him be as the younger; and he that is chief, as he that doth serve."
+  },
+  {
+   "verse": 27,
+   "start": 182.07,
+   "end": 192.22,
+   "text": "For whether is greater, he that sitteth at meat, or he that serveth? is not he that sitteth at meat? but I am among you as he that serveth."
+  },
+  {
+   "verse": 28,
+   "start": 192.92,
+   "end": 196.32,
+   "text": "Ye are they which have continued with me in my temptations."
+  },
+  {
+   "verse": 29,
+   "start": 197.02,
+   "end": 201.82,
+   "text": "And I appoint unto you a kingdom, as my Father hath appointed unto me;"
+  },
+  {
+   "verse": 30,
+   "start": 202.52,
+   "end": 209.87,
+   "text": "That ye may eat and drink at my table in my kingdom, and sit on thrones judging the twelve tribes of Israel."
+  },
+  {
+   "verse": 31,
+   "start": 210.57,
+   "end": 217.77,
+   "text": "And the Lord said, Simon, Simon, behold, Satan hath desired to have you, that he may sift you as wheat:"
+  },
+  {
+   "verse": 32,
+   "start": 218.47,
+   "end": 225.21,
+   "text": "But I have prayed for thee, that thy faith fail not: and when thou art converted, strengthen thy brethren."
+  },
+  {
+   "verse": 33,
+   "start": 225.91,
+   "end": 231.72,
+   "text": "And he said unto him, Lord, I am ready to go with thee, both into prison, and to death."
+  },
+  {
+   "verse": 34,
+   "start": 232.42,
+   "end": 240.07,
+   "text": "And he said, I tell thee, Peter, the cock shall not crow this day, before that thou shalt thrice deny that thou knowest me."
+  },
+  {
+   "verse": 35,
+   "start": 240.77,
+   "end": 248.84,
+   "text": "And he said unto them, When I sent you without purse, and scrip, and shoes, lacked ye any thing? And they said, Nothing."
+  },
+  {
+   "verse": 36,
+   "start": 249.54,
+   "end": 260.89,
+   "text": "Then said he unto them, But now, he that hath a purse, let him take it, and likewise his scrip: and he that hath no sword, let him sell his garment, and buy one."
+  },
+  {
+   "verse": 37,
+   "start": 261.59,
+   "end": 271.61,
+   "text": "For I say unto you, that this that is written must yet be accomplished in me, And he was reckoned among the transgressors: for the things concerning me have an end."
+  },
+  {
+   "verse": 38,
+   "start": 272.31,
+   "end": 278.25,
+   "text": "And they said, Lord, behold, here are two swords. And he said unto them, It is enough."
+  },
+  {
+   "verse": 39,
+   "start": 278.95,
+   "end": 285.78,
+   "text": "And he came out, and went, as he was wont, to the mount of Olives; and his disciples also followed him."
+  },
+  {
+   "verse": 40,
+   "start": 286.48,
+   "end": 292.52,
+   "text": "And when he was at the place, he said unto them, Pray that ye enter not into temptation."
+  },
+  {
+   "verse": 41,
+   "start": 293.22,
+   "end": 298.6,
+   "text": "And he was withdrawn from them about a stone's cast, and kneeled down, and prayed,"
+  },
+  {
+   "verse": 42,
+   "start": 299.3,
+   "end": 306.67,
+   "text": "Saying, Father, if thou be willing, remove this cup from me: nevertheless not my will, but thine, be done."
+  },
+  {
+   "verse": 43,
+   "start": 307.37,
+   "end": 311.39,
+   "text": "And there appeared an angel unto him from heaven, strengthening him."
+  },
+  {
+   "verse": 44,
+   "start": 312.09,
+   "end": 321.04,
+   "text": "And being in an agony he prayed more earnestly: and his sweat was as it were great drops of blood falling down to the ground."
+  },
+  {
+   "verse": 45,
+   "start": 321.74,
+   "end": 328.1,
+   "text": "And when he rose up from prayer, and was come to his disciples, he found them sleeping for sorrow,"
+  },
+  {
+   "verse": 46,
+   "start": 328.8,
+   "end": 334.25,
+   "text": "And said unto them, Why sleep ye? rise and pray, lest ye enter into temptation."
+  },
+  {
+   "verse": 47,
+   "start": 334.95,
+   "end": 346.23,
+   "text": "And while he yet spake, behold a multitude, and he that was called Judas, one of the twelve, went before them, and drew near unto Jesus to kiss him."
+  },
+  {
+   "verse": 48,
+   "start": 346.93,
+   "end": 352.25,
+   "text": "But Jesus said unto him, Judas, betrayest thou the Son of man with a kiss?"
+  },
+  {
+   "verse": 49,
+   "start": 352.95,
+   "end": 360.74,
+   "text": "When they which were about him saw what would follow, they said unto him, Lord, shall we smite with the sword?"
+  },
+  {
+   "verse": 50,
+   "start": 361.44,
+   "end": 366.44,
+   "text": "And one of them smote the servant of the high priest, and cut off his right ear."
+  },
+  {
+   "verse": 51,
+   "start": 367.14,
+   "end": 373.57,
+   "text": "And Jesus answered and said, Suffer ye thus far. And he touched his ear, and healed him."
+  },
+  {
+   "verse": 52,
+   "start": 374.27,
+   "end": 386.34,
+   "text": "Then Jesus said unto the chief priests, and captains of the temple, and the elders, which were come to him, Be ye come out, as against a thief, with swords and staves?"
+  },
+  {
+   "verse": 53,
+   "start": 387.04,
+   "end": 394.73,
+   "text": "When I was daily with you in the temple, ye stretched forth no hands against me: but this is your hour, and the power of darkness."
+  },
+  {
+   "verse": 54,
+   "start": 395.43,
+   "end": 402.37,
+   "text": "Then took they him, and led him, and brought him into the high priest's house. And Peter followed afar off."
+  },
+  {
+   "verse": 55,
+   "start": 403.07,
+   "end": 409.61,
+   "text": "And when they had kindled a fire in the midst of the hall, and were set down together, Peter sat down among them."
+  },
+  {
+   "verse": 56,
+   "start": 410.31,
+   "end": 418.11,
+   "text": "But a certain maid beheld him as he sat by the fire, and earnestly looked upon him, and said, This man was also with him."
+  },
+  {
+   "verse": 57,
+   "start": 418.81,
+   "end": 422.01,
+   "text": "And he denied him, saying, Woman, I know him not."
+  },
+  {
+   "verse": 58,
+   "start": 422.71,
+   "end": 430.11,
+   "text": "And after a little while another saw him, and said, Thou art also of them. And Peter said, Man, I am not."
+  },
+  {
+   "verse": 59,
+   "start": 430.81,
+   "end": 440.47,
+   "text": "And about the space of one hour after another confidently affirmed, saying, Of a truth this fellow also was with him: for he is a Galilaean."
+  },
+  {
+   "verse": 60,
+   "start": 441.17,
+   "end": 448.53,
+   "text": "And Peter said, Man, I know not what thou sayest. And immediately, while he yet spake, the cock crew."
+  },
+  {
+   "verse": 61,
+   "start": 449.23,
+   "end": 460.59,
+   "text": "And the Lord turned, and looked upon Peter. And Peter remembered the word of the Lord, how he had said unto him, Before the cock crow, thou shalt deny me thrice."
+  },
+  {
+   "verse": 62,
+   "start": 461.29,
+   "end": 463.68,
+   "text": "And Peter went out, and wept bitterly."
+  },
+  {
+   "verse": 63,
+   "start": 464.38,
+   "end": 467.49,
+   "text": "And the men that held Jesus mocked him, and smote him."
+  },
+  {
+   "verse": 64,
+   "start": 468.19,
+   "end": 475.82,
+   "text": "And when they had blindfolded him, they struck him on the face, and asked him, saying, Prophesy, who is it that smote thee?"
+  },
+  {
+   "verse": 65,
+   "start": 476.52,
+   "end": 479.86,
+   "text": "And many other things blasphemously spake they against him."
+  },
+  {
+   "verse": 66,
+   "start": 480.56,
+   "end": 489.73,
+   "text": "And as soon as it was day, the elders of the people and the chief priests and the scribes came together, and led him into their council, saying,"
+  },
+  {
+   "verse": 67,
+   "start": 490.43,
+   "end": 496.91,
+   "text": "Art thou the Christ? tell us. And he said unto them, If I tell you, ye will not believe:"
+  },
+  {
+   "verse": 68,
+   "start": 497.61,
+   "end": 501.83,
+   "text": "And if I also ask you, ye will not answer me, nor let me go."
+  },
+  {
+   "verse": 69,
+   "start": 502.53,
+   "end": 506.76,
+   "text": "Hereafter shall the Son of man sit on the right hand of the power of God."
+  },
+  {
+   "verse": 70,
+   "start": 507.46,
+   "end": 515.71,
+   "text": "Then said they all, Art thou then the Son of God? And he said unto them, Ye say that I am."
+  },
+  {
+   "verse": 71,
+   "start": 516.41,
+   "end": 521.66,
+   "text": "And they said, What need we any further witness? for we ourselves have heard of his own mouth."
+  }
+ ]
+}

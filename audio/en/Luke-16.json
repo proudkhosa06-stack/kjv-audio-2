@@ -1,0 +1,198 @@
+{
+ "book": "Luke",
+ "chapter": 16,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Luke-16.mp3",
+ "duration": 279.05,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 10.48,
+   "text": "And he said also unto his disciples, There was a certain rich man, which had a steward; and the same was accused unto him that he had wasted his goods."
+  },
+  {
+   "verse": 2,
+   "start": 11.18,
+   "end": 20.38,
+   "text": "And he called him, and said unto him, How is it that I hear this of thee? give an account of thy stewardship; for thou mayest be no longer steward."
+  },
+  {
+   "verse": 3,
+   "start": 21.08,
+   "end": 29.93,
+   "text": "Then the steward said within himself, What shall I do? for my lord taketh away from me the stewardship: I cannot dig; to beg I am ashamed."
+  },
+  {
+   "verse": 4,
+   "start": 30.63,
+   "end": 37.99,
+   "text": "I am resolved what to do, that, when I am put out of the stewardship, they may receive me into their houses."
+  },
+  {
+   "verse": 5,
+   "start": 38.69,
+   "end": 45.65,
+   "text": "So he called every one of his lord's debtors unto him, and said unto the first, How much owest thou unto my lord?"
+  },
+  {
+   "verse": 6,
+   "start": 46.35,
+   "end": 52.7,
+   "text": "And he said, An hundred measures of oil. And he said unto him, Take thy bill, and sit down quickly, and write fifty."
+  },
+  {
+   "verse": 7,
+   "start": 53.4,
+   "end": 63.82,
+   "text": "Then said he to another, And how much owest thou? And he said, An hundred measures of wheat. And he said unto him, Take thy bill, and write fourscore."
+  },
+  {
+   "verse": 8,
+   "start": 64.52,
+   "end": 73.84,
+   "text": "And the lord commended the unjust steward, because he had done wisely: for the children of this world are in their generation wiser than the children of light."
+  },
+  {
+   "verse": 9,
+   "start": 74.54,
+   "end": 85.25,
+   "text": "And I say unto you, Make to yourselves friends of the mammon of unrighteousness; that, when ye fail, they may receive you into everlasting habitations."
+  },
+  {
+   "verse": 10,
+   "start": 85.95,
+   "end": 94.81,
+   "text": "He that is faithful in that which is least is faithful also in much: and he that is unjust in the least is unjust also in much."
+  },
+  {
+   "verse": 11,
+   "start": 95.51,
+   "end": 101.67,
+   "text": "If therefore ye have not been faithful in the unrighteous mammon, who will commit to your trust the true riches?"
+  },
+  {
+   "verse": 12,
+   "start": 102.37,
+   "end": 108.37,
+   "text": "And if ye have not been faithful in that which is another man's, who shall give you that which is your own?"
+  },
+  {
+   "verse": 13,
+   "start": 109.07,
+   "end": 121.09,
+   "text": "No servant can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon."
+  },
+  {
+   "verse": 14,
+   "start": 121.79,
+   "end": 127.81,
+   "text": "And the Pharisees also, who were covetous, heard all these things: and they derided him."
+  },
+  {
+   "verse": 15,
+   "start": 128.51,
+   "end": 140.69,
+   "text": "And he said unto them, Ye are they which justify yourselves before men; but God knoweth your hearts: for that which is highly esteemed among men is abomination in the sight of God."
+  },
+  {
+   "verse": 16,
+   "start": 141.39,
+   "end": 149.29,
+   "text": "The law and the prophets were until John: since that time the kingdom of God is preached, and every man presseth into it."
+  },
+  {
+   "verse": 17,
+   "start": 149.99,
+   "end": 155.03,
+   "text": "And it is easier for heaven and earth to pass, than one tittle of the law to fail."
+  },
+  {
+   "verse": 18,
+   "start": 155.73,
+   "end": 166.18,
+   "text": "Whosoever putteth away his wife, and marrieth another, committeth adultery: and whosoever marrieth her that is put away from her husband committeth adultery."
+  },
+  {
+   "verse": 19,
+   "start": 166.88,
+   "end": 174.0,
+   "text": "There was a certain rich man, which was clothed in purple and fine linen, and fared sumptuously every day:"
+  },
+  {
+   "verse": 20,
+   "start": 174.7,
+   "end": 180.05,
+   "text": "And there was a certain beggar named Lazarus, which was laid at his gate, full of sores,"
+  },
+  {
+   "verse": 21,
+   "start": 180.75,
+   "end": 188.95,
+   "text": "And desiring to be fed with the crumbs which fell from the rich man's table: moreover the dogs came and licked his sores."
+  },
+  {
+   "verse": 22,
+   "start": 189.65,
+   "end": 199.09,
+   "text": "And it came to pass, that the beggar died, and was carried by the angels into Abraham's bosom: the rich man also died, and was buried;"
+  },
+  {
+   "verse": 23,
+   "start": 199.79,
+   "end": 207.79,
+   "text": "And in hell he lift up his eyes, being in torments, and seeth Abraham afar off, and Lazarus in his bosom."
+  },
+  {
+   "verse": 24,
+   "start": 208.49,
+   "end": 220.29,
+   "text": "And he cried and said, Father Abraham, have mercy on me, and send Lazarus, that he may dip the tip of his finger in water, and cool my tongue; for I am tormented in this flame."
+  },
+  {
+   "verse": 25,
+   "start": 220.99,
+   "end": 231.64,
+   "text": "But Abraham said, Son, remember that thou in thy lifetime receivedst thy good things, and likewise Lazarus evil things: but now he is comforted, and thou art tormented."
+  },
+  {
+   "verse": 26,
+   "start": 232.34,
+   "end": 243.77,
+   "text": "And beside all this, between us and you there is a great gulf fixed: so that they which would pass from hence to you cannot; neither can they pass to us, that would come from thence."
+  },
+  {
+   "verse": 27,
+   "start": 244.47,
+   "end": 249.34,
+   "text": "Then he said, I pray thee therefore, father, that thou wouldest send him to my father's house:"
+  },
+  {
+   "verse": 28,
+   "start": 250.04,
+   "end": 256.87,
+   "text": "For I have five brethren; that he may testify unto them, lest they also come into this place of torment."
+  },
+  {
+   "verse": 29,
+   "start": 257.57,
+   "end": 262.97,
+   "text": "Abraham saith unto him, They have Moses and the prophets; let them hear them."
+  },
+  {
+   "verse": 30,
+   "start": 263.67,
+   "end": 269.41,
+   "text": "And he said, Nay, father Abraham: but if one went unto them from the dead, they will repent."
+  },
+  {
+   "verse": 31,
+   "start": 270.11,
+   "end": 277.99,
+   "text": "And he said unto him, If they hear not Moses and the prophets, neither will they be persuaded, though one rose from the dead."
+  }
+ ]
+}

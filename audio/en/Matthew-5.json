@@ -1,0 +1,300 @@
+{
+ "book": "Matthew",
+ "chapter": 5,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Matthew-5.mp3",
+ "duration": 397.49,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 7.26,
+   "text": "And seeing the multitudes, he went up into a mountain: and when he was set, his disciples came unto him:"
+  },
+  {
+   "verse": 2,
+   "start": 7.96,
+   "end": 10.92,
+   "text": "And he opened his mouth, and taught them, saying,"
+  },
+  {
+   "verse": 3,
+   "start": 11.62,
+   "end": 15.7,
+   "text": "Blessed are the poor in spirit: for theirs is the kingdom of heaven."
+  },
+  {
+   "verse": 4,
+   "start": 16.4,
+   "end": 20.02,
+   "text": "Blessed are they that mourn: for they shall be comforted."
+  },
+  {
+   "verse": 5,
+   "start": 20.72,
+   "end": 24.04,
+   "text": "Blessed are the meek: for they shall inherit the earth."
+  },
+  {
+   "verse": 6,
+   "start": 24.74,
+   "end": 30.45,
+   "text": "Blessed are they which do hunger and thirst after righteousness: for they shall be filled."
+  },
+  {
+   "verse": 7,
+   "start": 31.15,
+   "end": 34.89,
+   "text": "Blessed are the merciful: for they shall obtain mercy."
+  },
+  {
+   "verse": 8,
+   "start": 35.59,
+   "end": 39.15,
+   "text": "Blessed are the pure in heart: for they shall see God."
+  },
+  {
+   "verse": 9,
+   "start": 39.85,
+   "end": 44.32,
+   "text": "Blessed are the peacemakers: for they shall be called the children of God."
+  },
+  {
+   "verse": 10,
+   "start": 45.02,
+   "end": 51.2,
+   "text": "Blessed are they which are persecuted for righteousness' sake: for theirs is the kingdom of heaven."
+  },
+  {
+   "verse": 11,
+   "start": 51.9,
+   "end": 61.05,
+   "text": "Blessed are ye, when men shall revile you, and persecute you, and shall say all manner of evil against you falsely, for my sake."
+  },
+  {
+   "verse": 12,
+   "start": 61.75,
+   "end": 70.19,
+   "text": "Rejoice, and be exceeding glad: for great is your reward in heaven: for so persecuted they the prophets which were before you."
+  },
+  {
+   "verse": 13,
+   "start": 70.89,
+   "end": 83.11,
+   "text": "Ye are the salt of the earth: but if the salt have lost his savour, wherewith shall it be salted? it is thenceforth good for nothing, but to be cast out, and to be trodden under foot of men."
+  },
+  {
+   "verse": 14,
+   "start": 83.81,
+   "end": 88.79,
+   "text": "Ye are the light of the world. A city that is set on an hill cannot be hid."
+  },
+  {
+   "verse": 15,
+   "start": 89.49,
+   "end": 98.27,
+   "text": "Neither do men light a candle, and put it under a bushel, but on a candlestick; and it giveth light unto all that are in the house."
+  },
+  {
+   "verse": 16,
+   "start": 98.97,
+   "end": 106.09,
+   "text": "Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven."
+  },
+  {
+   "verse": 17,
+   "start": 106.79,
+   "end": 113.3,
+   "text": "Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil."
+  },
+  {
+   "verse": 18,
+   "start": 114.0,
+   "end": 123.43,
+   "text": "For verily I say unto you, Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law, till all be fulfilled."
+  },
+  {
+   "verse": 19,
+   "start": 124.13,
+   "end": 138.16,
+   "text": "Whosoever therefore shall break one of these least commandments, and shall teach men so, he shall be called the least in the kingdom of heaven: but whosoever shall do and teach them, the same shall be called great in the kingdom of heaven."
+  },
+  {
+   "verse": 20,
+   "start": 138.86,
+   "end": 148.18,
+   "text": "For I say unto you, That except your righteousness shall exceed the righteousness of the scribes and Pharisees, ye shall in no case enter into the kingdom of heaven."
+  },
+  {
+   "verse": 21,
+   "start": 148.88,
+   "end": 157.88,
+   "text": "Ye have heard that it was said by them of old time, Thou shalt not kill; and whosoever shall kill shall be in danger of the judgment:"
+  },
+  {
+   "verse": 22,
+   "start": 158.58,
+   "end": 176.4,
+   "text": "But I say unto you, That whosoever is angry with his brother without a cause shall be in danger of the judgment: and whosoever shall say to his brother, Raca, shall be in danger of the council: but whosoever shall say, Thou fool, shall be in danger of hell fire."
+  },
+  {
+   "verse": 23,
+   "start": 177.1,
+   "end": 183.71,
+   "text": "Therefore if thou bring thy gift to the altar, and there rememberest that thy brother hath ought against thee;"
+  },
+  {
+   "verse": 24,
+   "start": 184.41,
+   "end": 194.09,
+   "text": "Leave there thy gift before the altar, and go thy way; first be reconciled to thy brother, and then come and offer thy gift."
+  },
+  {
+   "verse": 25,
+   "start": 194.79,
+   "end": 207.68,
+   "text": "Agree with thine adversary quickly, whiles thou art in the way with him; lest at any time the adversary deliver thee to the judge, and the judge deliver thee to the officer, and thou be cast into prison."
+  },
+  {
+   "verse": 26,
+   "start": 208.38,
+   "end": 215.28,
+   "text": "Verily I say unto thee, Thou shalt by no means come out thence, till thou hast paid the uttermost farthing."
+  },
+  {
+   "verse": 27,
+   "start": 215.98,
+   "end": 221.71,
+   "text": "Ye have heard that it was said by them of old time, Thou shalt not commit adultery:"
+  },
+  {
+   "verse": 28,
+   "start": 222.41,
+   "end": 230.25,
+   "text": "But I say unto you, That whosoever looketh on a woman to lust after her hath committed adultery with her already in his heart."
+  },
+  {
+   "verse": 29,
+   "start": 230.95,
+   "end": 243.01,
+   "text": "And if thy right eye offend thee, pluck it out, and cast it from thee: for it is profitable for thee that one of thy members should perish, and not that thy whole body should be cast into hell."
+  },
+  {
+   "verse": 30,
+   "start": 243.71,
+   "end": 255.02,
+   "text": "And if thy right hand offend thee, cut it off, and cast it from thee: for it is profitable for thee that one of thy members should perish, and not that thy whole body should be cast into hell."
+  },
+  {
+   "verse": 31,
+   "start": 255.72,
+   "end": 261.79,
+   "text": "It hath been said, Whosoever shall put away his wife, let him give her a writing of divorcement:"
+  },
+  {
+   "verse": 32,
+   "start": 262.49,
+   "end": 276.04,
+   "text": "But I say unto you, That whosoever shall put away his wife, saving for the cause of fornication, causeth her to commit adultery: and whosoever shall marry her that is divorced committeth adultery."
+  },
+  {
+   "verse": 33,
+   "start": 276.74,
+   "end": 287.37,
+   "text": "Again, ye have heard that it hath been said by them of old time, Thou shalt not forswear thyself, but shalt perform unto the Lord thine oaths:"
+  },
+  {
+   "verse": 34,
+   "start": 288.07,
+   "end": 293.45,
+   "text": "But I say unto you, Swear not at all; neither by heaven; for it is God's throne:"
+  },
+  {
+   "verse": 35,
+   "start": 294.15,
+   "end": 300.98,
+   "text": "Nor by the earth; for it is his footstool: neither by Jerusalem; for it is the city of the great King."
+  },
+  {
+   "verse": 36,
+   "start": 301.68,
+   "end": 307.41,
+   "text": "Neither shalt thou swear by thy head, because thou canst not make one hair white or black."
+  },
+  {
+   "verse": 37,
+   "start": 308.11,
+   "end": 315.87,
+   "text": "But let your communication be, Yea, yea; Nay, nay: for whatsoever is more than these cometh of evil."
+  },
+  {
+   "verse": 38,
+   "start": 316.57,
+   "end": 322.42,
+   "text": "Ye have heard that it hath been said, An eye for an eye, and a tooth for a tooth:"
+  },
+  {
+   "verse": 39,
+   "start": 323.12,
+   "end": 331.6,
+   "text": "But I say unto you, That ye resist not evil: but whosoever shall smite thee on thy right cheek, turn to him the other also."
+  },
+  {
+   "verse": 40,
+   "start": 332.3,
+   "end": 338.29,
+   "text": "And if any man will sue thee at the law, and take away thy coat, let him have thy cloke also."
+  },
+  {
+   "verse": 41,
+   "start": 338.99,
+   "end": 343.4,
+   "text": "And whosoever shall compel thee to go a mile, go with him twain."
+  },
+  {
+   "verse": 42,
+   "start": 344.1,
+   "end": 349.37,
+   "text": "Give to him that asketh thee, and from him that would borrow of thee turn not thou away."
+  },
+  {
+   "verse": 43,
+   "start": 350.07,
+   "end": 355.3,
+   "text": "Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy."
+  },
+  {
+   "verse": 44,
+   "start": 356.0,
+   "end": 366.15,
+   "text": "But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;"
+  },
+  {
+   "verse": 45,
+   "start": 366.85,
+   "end": 377.97,
+   "text": "That ye may be the children of your Father which is in heaven: for he maketh his sun to rise on the evil and on the good, and sendeth rain on the just and on the unjust."
+  },
+  {
+   "verse": 46,
+   "start": 378.67,
+   "end": 384.61,
+   "text": "For if ye love them which love you, what reward have ye? do not even the publicans the same?"
+  },
+  {
+   "verse": 47,
+   "start": 385.31,
+   "end": 391.51,
+   "text": "And if ye salute your brethren only, what do ye more than others? do not even the publicans so?"
+  },
+  {
+   "verse": 48,
+   "start": 392.21,
+   "end": 396.42,
+   "text": "Be ye therefore perfect, even as your Father which is in heaven is perfect."
+  }
+ ]
+}

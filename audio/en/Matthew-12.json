@@ -1,0 +1,312 @@
+{
+ "book": "Matthew",
+ "chapter": 12,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Matthew-12.mp3",
+ "duration": 433.58,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 9.24,
+   "text": "At that time Jesus went on the sabbath day through the corn; and his disciples were an hungred, and began to pluck the ears of corn, and to eat."
+  },
+  {
+   "verse": 2,
+   "start": 9.94,
+   "end": 18.35,
+   "text": "But when the Pharisees saw it, they said unto him, Behold, thy disciples do that which is not lawful to do upon the sabbath day."
+  },
+  {
+   "verse": 3,
+   "start": 19.05,
+   "end": 26.66,
+   "text": "But he said unto them, Have ye not read what David did, when he was an hungred, and they that were with him;"
+  },
+  {
+   "verse": 4,
+   "start": 27.36,
+   "end": 38.62,
+   "text": "How he entered into the house of God, and did eat the shewbread, which was not lawful for him to eat, neither for them which were with him, but only for the priests?"
+  },
+  {
+   "verse": 5,
+   "start": 39.32,
+   "end": 47.12,
+   "text": "Or have ye not read in the law, how that on the sabbath days the priests in the temple profane the sabbath, and are blameless?"
+  },
+  {
+   "verse": 6,
+   "start": 47.82,
+   "end": 52.5,
+   "text": "But I say unto you, That in this place is one greater than the temple."
+  },
+  {
+   "verse": 7,
+   "start": 53.2,
+   "end": 60.87,
+   "text": "But if ye had known what this meaneth, I will have mercy, and not sacrifice, ye would not have condemned the guiltless."
+  },
+  {
+   "verse": 8,
+   "start": 61.57,
+   "end": 65.15,
+   "text": "For the Son of man is Lord even of the sabbath day."
+  },
+  {
+   "verse": 9,
+   "start": 65.85,
+   "end": 68.99,
+   "text": "And when he was departed thence, he went into their synagogue:"
+  },
+  {
+   "verse": 10,
+   "start": 69.69,
+   "end": 79.67,
+   "text": "And, behold, there was a man which had his hand withered. And they asked him, saying, Is it lawful to heal on the sabbath days? that they might accuse him."
+  },
+  {
+   "verse": 11,
+   "start": 80.37,
+   "end": 90.8,
+   "text": "And he said unto them, What man shall there be among you, that shall have one sheep, and if it fall into a pit on the sabbath day, will he not lay hold on it, and lift it out?"
+  },
+  {
+   "verse": 12,
+   "start": 91.5,
+   "end": 98.03,
+   "text": "How much then is a man better than a sheep? Wherefore it is lawful to do well on the sabbath days."
+  },
+  {
+   "verse": 13,
+   "start": 98.73,
+   "end": 107.15,
+   "text": "Then saith he to the man, Stretch forth thine hand. And he stretched it forth; and it was restored whole, like as the other."
+  },
+  {
+   "verse": 14,
+   "start": 107.85,
+   "end": 112.91,
+   "text": "Then the Pharisees went out, and held a council against him, how they might destroy him."
+  },
+  {
+   "verse": 15,
+   "start": 113.61,
+   "end": 120.64,
+   "text": "But when Jesus knew it, he withdrew himself from thence: and great multitudes followed him, and he healed them all;"
+  },
+  {
+   "verse": 16,
+   "start": 121.34,
+   "end": 124.27,
+   "text": "And charged them that they should not make him known:"
+  },
+  {
+   "verse": 17,
+   "start": 124.97,
+   "end": 129.61,
+   "text": "That it might be fulfilled which was spoken by Esaias the prophet, saying,"
+  },
+  {
+   "verse": 18,
+   "start": 130.31,
+   "end": 141.84,
+   "text": "Behold my servant, whom I have chosen; my beloved, in whom my soul is well pleased: I will put my spirit upon him, and he shall shew judgment to the Gentiles."
+  },
+  {
+   "verse": 19,
+   "start": 142.54,
+   "end": 148.26,
+   "text": "He shall not strive, nor cry; neither shall any man hear his voice in the streets."
+  },
+  {
+   "verse": 20,
+   "start": 148.96,
+   "end": 157.19,
+   "text": "A bruised reed shall he not break, and smoking flax shall he not quench, till he send forth judgment unto victory."
+  },
+  {
+   "verse": 21,
+   "start": 157.89,
+   "end": 160.49,
+   "text": "And in his name shall the Gentiles trust."
+  },
+  {
+   "verse": 22,
+   "start": 161.19,
+   "end": 170.96,
+   "text": "Then was brought unto him one possessed with a devil, blind, and dumb: and he healed him, insomuch that the blind and dumb both spake and saw."
+  },
+  {
+   "verse": 23,
+   "start": 171.66,
+   "end": 175.76,
+   "text": "And all the people were amazed, and said, Is not this the son of David?"
+  },
+  {
+   "verse": 24,
+   "start": 176.46,
+   "end": 184.63,
+   "text": "But when the Pharisees heard it, they said, This fellow doth not cast out devils, but by Beelzebub the prince of the devils."
+  },
+  {
+   "verse": 25,
+   "start": 185.33,
+   "end": 195.72,
+   "text": "And Jesus knew their thoughts, and said unto them, Every kingdom divided against itself is brought to desolation; and every city or house divided against itself shall not stand:"
+  },
+  {
+   "verse": 26,
+   "start": 196.42,
+   "end": 202.92,
+   "text": "And if Satan cast out Satan, he is divided against himself; how shall then his kingdom stand?"
+  },
+  {
+   "verse": 27,
+   "start": 203.62,
+   "end": 212.42,
+   "text": "And if I by Beelzebub cast out devils, by whom do your children cast them out? therefore they shall be your judges."
+  },
+  {
+   "verse": 28,
+   "start": 213.12,
+   "end": 218.44,
+   "text": "But if I cast out devils by the Spirit of God, then the kingdom of God is come unto you."
+  },
+  {
+   "verse": 29,
+   "start": 219.14,
+   "end": 229.79,
+   "text": "Or else how can one enter into a strong man's house, and spoil his goods, except he first bind the strong man? and then he will spoil his house."
+  },
+  {
+   "verse": 30,
+   "start": 230.49,
+   "end": 236.45,
+   "text": "He that is not with me is against me; and he that gathereth not with me scattereth abroad."
+  },
+  {
+   "verse": 31,
+   "start": 237.15,
+   "end": 247.3,
+   "text": "Wherefore I say unto you, All manner of sin and blasphemy shall be forgiven unto men: but the blasphemy against the Holy Ghost shall not be forgiven unto men."
+  },
+  {
+   "verse": 32,
+   "start": 248.0,
+   "end": 261.4,
+   "text": "And whosoever speaketh a word against the Son of man, it shall be forgiven him: but whosoever speaketh against the Holy Ghost, it shall not be forgiven him, neither in this world, neither in the world to come."
+  },
+  {
+   "verse": 33,
+   "start": 262.1,
+   "end": 271.64,
+   "text": "Either make the tree good, and his fruit good; or else make the tree corrupt, and his fruit corrupt: for the tree is known by his fruit."
+  },
+  {
+   "verse": 34,
+   "start": 272.34,
+   "end": 280.81,
+   "text": "O generation of vipers, how can ye, being evil, speak good things? for out of the abundance of the heart the mouth speaketh."
+  },
+  {
+   "verse": 35,
+   "start": 281.51,
+   "end": 290.54,
+   "text": "A good man out of the good treasure of the heart bringeth forth good things: and an evil man out of the evil treasure bringeth forth evil things."
+  },
+  {
+   "verse": 36,
+   "start": 291.24,
+   "end": 298.49,
+   "text": "But I say unto you, That every idle word that men shall speak, they shall give account thereof in the day of judgment."
+  },
+  {
+   "verse": 37,
+   "start": 299.19,
+   "end": 303.9,
+   "text": "For by thy words thou shalt be justified, and by thy words thou shalt be condemned."
+  },
+  {
+   "verse": 38,
+   "start": 304.6,
+   "end": 311.39,
+   "text": "Then certain of the scribes and of the Pharisees answered, saying, Master, we would see a sign from thee."
+  },
+  {
+   "verse": 39,
+   "start": 312.09,
+   "end": 324.14,
+   "text": "But he answered and said unto them, An evil and adulterous generation seeketh after a sign; and there shall no sign be given to it, but the sign of the prophet Jonas:"
+  },
+  {
+   "verse": 40,
+   "start": 324.84,
+   "end": 333.85,
+   "text": "For as Jonas was three days and three nights in the whale's belly; so shall the Son of man be three days and three nights in the heart of the earth."
+  },
+  {
+   "verse": 41,
+   "start": 334.55,
+   "end": 345.79,
+   "text": "The men of Nineveh shall rise in judgment with this generation, and shall condemn it: because they repented at the preaching of Jonas; and, behold, a greater than Jonas is here."
+  },
+  {
+   "verse": 42,
+   "start": 346.49,
+   "end": 360.4,
+   "text": "The queen of the south shall rise up in the judgment with this generation, and shall condemn it: for she came from the uttermost parts of the earth to hear the wisdom of Solomon; and, behold, a greater than Solomon is here."
+  },
+  {
+   "verse": 43,
+   "start": 361.1,
+   "end": 368.48,
+   "text": "When the unclean spirit is gone out of a man, he walketh through dry places, seeking rest, and findeth none."
+  },
+  {
+   "verse": 44,
+   "start": 369.18,
+   "end": 379.1,
+   "text": "Then he saith, I will return into my house from whence I came out; and when he is come, he findeth it empty, swept, and garnished."
+  },
+  {
+   "verse": 45,
+   "start": 379.8,
+   "end": 395.5,
+   "text": "Then goeth he, and taketh with himself seven other spirits more wicked than himself, and they enter in and dwell there: and the last state of that man is worse than the first. Even so shall it be also unto this wicked generation."
+  },
+  {
+   "verse": 46,
+   "start": 396.2,
+   "end": 402.96,
+   "text": "While he yet talked to the people, behold, his mother and his brethren stood without, desiring to speak with him."
+  },
+  {
+   "verse": 47,
+   "start": 403.66,
+   "end": 410.72,
+   "text": "Then one said unto him, Behold, thy mother and thy brethren stand without, desiring to speak with thee."
+  },
+  {
+   "verse": 48,
+   "start": 411.42,
+   "end": 417.33,
+   "text": "But he answered and said unto him that told him, Who is my mother? and who are my brethren?"
+  },
+  {
+   "verse": 49,
+   "start": 418.03,
+   "end": 424.21,
+   "text": "And he stretched forth his hand toward his disciples, and said, Behold my mother and my brethren!"
+  },
+  {
+   "verse": 50,
+   "start": 424.91,
+   "end": 432.53,
+   "text": "For whosoever shall do the will of my Father which is in heaven, the same is my brother, and sister, and mother."
+  }
+ ]
+}

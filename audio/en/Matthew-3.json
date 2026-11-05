@@ -1,0 +1,114 @@
+{
+ "book": "Matthew",
+ "chapter": 3,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Matthew-3.mp3",
+ "duration": 145.42,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 4.19,
+   "text": "In those days came John the Baptist, preaching in the wilderness of Judaea,"
+  },
+  {
+   "verse": 2,
+   "start": 4.89,
+   "end": 9.41,
+   "text": "And saying, Repent ye: for the kingdom of heaven is at hand."
+  },
+  {
+   "verse": 3,
+   "start": 10.11,
+   "end": 20.86,
+   "text": "For this is he that was spoken of by the prophet Esaias, saying, The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight."
+  },
+  {
+   "verse": 4,
+   "start": 21.56,
+   "end": 30.79,
+   "text": "And the same John had his raiment of camel's hair, and a leathern girdle about his loins; and his meat was locusts and wild honey."
+  },
+  {
+   "verse": 5,
+   "start": 31.49,
+   "end": 36.77,
+   "text": "Then went out to him Jerusalem, and all Judaea, and all the region round about Jordan,"
+  },
+  {
+   "verse": 6,
+   "start": 37.47,
+   "end": 40.96,
+   "text": "And were baptized of him in Jordan, confessing their sins."
+  },
+  {
+   "verse": 7,
+   "start": 41.66,
+   "end": 52.08,
+   "text": "But when he saw many of the Pharisees and Sadducees come to his baptism, he said unto them, O generation of vipers, who hath warned you to flee from the wrath to come?"
+  },
+  {
+   "verse": 8,
+   "start": 52.78,
+   "end": 55.51,
+   "text": "Bring forth therefore fruits meet for repentance:"
+  },
+  {
+   "verse": 9,
+   "start": 56.21,
+   "end": 66.18,
+   "text": "And think not to say within yourselves, We have Abraham to our father: for I say unto you, that God is able of these stones to raise up children unto Abraham."
+  },
+  {
+   "verse": 10,
+   "start": 66.88,
+   "end": 76.34,
+   "text": "And now also the axe is laid unto the root of the trees: therefore every tree which bringeth not forth good fruit is hewn down, and cast into the fire."
+  },
+  {
+   "verse": 11,
+   "start": 77.04,
+   "end": 90.91,
+   "text": "I indeed baptize you with water unto repentance: but he that cometh after me is mightier than I, whose shoes I am not worthy to bear: he shall baptize you with the Holy Ghost, and with fire:"
+  },
+  {
+   "verse": 12,
+   "start": 91.61,
+   "end": 101.83,
+   "text": "Whose fan is in his hand, and he will throughly purge his floor, and gather his wheat into the garner; but he will burn up the chaff with unquenchable fire."
+  },
+  {
+   "verse": 13,
+   "start": 102.53,
+   "end": 107.81,
+   "text": "Then cometh Jesus from Galilee to Jordan unto John, to be baptized of him."
+  },
+  {
+   "verse": 14,
+   "start": 108.51,
+   "end": 114.14,
+   "text": "But John forbad him, saying, I have need to be baptized of thee, and comest thou to me?"
+  },
+  {
+   "verse": 15,
+   "start": 114.84,
+   "end": 124.47,
+   "text": "And Jesus answering said unto him, Suffer it to be so now: for thus it becometh us to fulfil all righteousness. Then he suffered him."
+  },
+  {
+   "verse": 16,
+   "start": 125.17,
+   "end": 137.74,
+   "text": "And Jesus, when he was baptized, went up straightway out of the water: and, lo, the heavens were opened unto him, and he saw the Spirit of God descending like a dove, and lighting upon him:"
+  },
+  {
+   "verse": 17,
+   "start": 138.44,
+   "end": 144.35,
+   "text": "And lo a voice from heaven, saying, This is my beloved Son, in whom I am well pleased."
+  }
+ ]
+}

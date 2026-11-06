@@ -1,0 +1,138 @@
+{
+ "book": "Romans",
+ "chapter": 5,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Romans-5.mp3",
+ "duration": 193.8,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 5.31,
+   "text": "Therefore being justified by faith, we have peace with God through our Lord Jesus Christ:"
+  },
+  {
+   "verse": 2,
+   "start": 6.01,
+   "end": 13.81,
+   "text": "By whom also we have access by faith into this grace wherein we stand, and rejoice in hope of the glory of God."
+  },
+  {
+   "verse": 3,
+   "start": 14.51,
+   "end": 21.19,
+   "text": "And not only so, but we glory in tribulations also: knowing that tribulation worketh patience;"
+  },
+  {
+   "verse": 4,
+   "start": 21.89,
+   "end": 25.46,
+   "text": "And patience, experience; and experience, hope:"
+  },
+  {
+   "verse": 5,
+   "start": 26.16,
+   "end": 33.97,
+   "text": "And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us."
+  },
+  {
+   "verse": 6,
+   "start": 34.67,
+   "end": 40.05,
+   "text": "For when we were yet without strength, in due time Christ died for the ungodly."
+  },
+  {
+   "verse": 7,
+   "start": 40.75,
+   "end": 48.99,
+   "text": "For scarcely for a righteous man will one die: yet peradventure for a good man some would even dare to die."
+  },
+  {
+   "verse": 8,
+   "start": 49.69,
+   "end": 55.91,
+   "text": "But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us."
+  },
+  {
+   "verse": 9,
+   "start": 56.61,
+   "end": 63.0,
+   "text": "Much more then, being now justified by his blood, we shall be saved from wrath through him."
+  },
+  {
+   "verse": 10,
+   "start": 63.7,
+   "end": 74.52,
+   "text": "For if, when we were enemies, we were reconciled to God by the death of his Son, much more, being reconciled, we shall be saved by his life."
+  },
+  {
+   "verse": 11,
+   "start": 75.22,
+   "end": 82.63,
+   "text": "And not only so, but we also joy in God through our Lord Jesus Christ, by whom we have now received the atonement."
+  },
+  {
+   "verse": 12,
+   "start": 83.33,
+   "end": 93.14,
+   "text": "Wherefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned:"
+  },
+  {
+   "verse": 13,
+   "start": 93.84,
+   "end": 99.78,
+   "text": "(For until the law sin was in the world: but sin is not imputed when there is no law."
+  },
+  {
+   "verse": 14,
+   "start": 100.48,
+   "end": 110.87,
+   "text": "Nevertheless death reigned from Adam to Moses, even over them that had not sinned after the similitude of Adam's transgression, who is the figure of him that was to come."
+  },
+  {
+   "verse": 15,
+   "start": 111.57,
+   "end": 126.29,
+   "text": "But not as the offence, so also is the free gift. For if through the offence of one many be dead, much more the grace of God, and the gift by grace, which is by one man, Jesus Christ, hath abounded unto many."
+  },
+  {
+   "verse": 16,
+   "start": 126.99,
+   "end": 140.15,
+   "text": "And not as it was by one that sinned, so is the gift: for the judgment was by one to condemnation, but the free gift is of many offences unto justification."
+  },
+  {
+   "verse": 17,
+   "start": 140.85,
+   "end": 153.01,
+   "text": "For if by one man's offence death reigned by one; much more they which receive abundance of grace and of the gift of righteousness shall reign in life by one, Jesus Christ.)"
+  },
+  {
+   "verse": 18,
+   "start": 153.71,
+   "end": 165.98,
+   "text": "Therefore as by the offence of one judgment came upon all men to condemnation; even so by the righteousness of one the free gift came upon all men unto justification of life."
+  },
+  {
+   "verse": 19,
+   "start": 166.68,
+   "end": 175.47,
+   "text": "For as by one man's disobedience many were made sinners, so by the obedience of one shall many be made righteous."
+  },
+  {
+   "verse": 20,
+   "start": 176.17,
+   "end": 183.47,
+   "text": "Moreover the law entered, that the offence might abound. But where sin abounded, grace did much more abound:"
+  },
+  {
+   "verse": 21,
+   "start": 184.17,
+   "end": 192.74,
+   "text": "That as sin hath reigned unto death, even so might grace reign through righteousness unto eternal life by Jesus Christ our Lord."
+  }
+ ]
+}

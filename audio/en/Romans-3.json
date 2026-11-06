@@ -1,0 +1,198 @@
+{
+ "book": "Romans",
+ "chapter": 3,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Romans-3.mp3",
+ "duration": 220.08,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 5.2,
+   "text": "What advantage then hath the Jew? or what profit is there of circumcision?"
+  },
+  {
+   "verse": 2,
+   "start": 5.9,
+   "end": 11.13,
+   "text": "Much every way: chiefly, because that unto them were committed the oracles of God."
+  },
+  {
+   "verse": 3,
+   "start": 11.83,
+   "end": 16.94,
+   "text": "For what if some did not believe? shall their unbelief make the faith of God without effect?"
+  },
+  {
+   "verse": 4,
+   "start": 17.64,
+   "end": 28.83,
+   "text": "God forbid: yea, let God be true, but every man a liar; as it is written, That thou mightest be justified in thy sayings, and mightest overcome when thou art judged."
+  },
+  {
+   "verse": 5,
+   "start": 29.53,
+   "end": 38.89,
+   "text": "But if our unrighteousness commend the righteousness of God, what shall we say? Is God unrighteous who taketh vengeance? (I speak as a man)"
+  },
+  {
+   "verse": 6,
+   "start": 39.59,
+   "end": 42.94,
+   "text": "God forbid: for then how shall God judge the world?"
+  },
+  {
+   "verse": 7,
+   "start": 43.64,
+   "end": 50.85,
+   "text": "For if the truth of God hath more abounded through my lie unto his glory; why yet am I also judged as a sinner?"
+  },
+  {
+   "verse": 8,
+   "start": 51.55,
+   "end": 62.93,
+   "text": "And not rather, (as we be slanderously reported, and as some affirm that we say,) Let us do evil, that good may come? whose damnation is just."
+  },
+  {
+   "verse": 9,
+   "start": 63.63,
+   "end": 73.68,
+   "text": "What then? are we better than they? No, in no wise: for we have before proved both Jews and Gentiles, that they are all under sin;"
+  },
+  {
+   "verse": 10,
+   "start": 74.38,
+   "end": 78.5,
+   "text": "As it is written, There is none righteous, no, not one:"
+  },
+  {
+   "verse": 11,
+   "start": 79.2,
+   "end": 84.06,
+   "text": "There is none that understandeth, there is none that seeketh after God."
+  },
+  {
+   "verse": 12,
+   "start": 84.76,
+   "end": 93.4,
+   "text": "They are all gone out of the way, they are together become unprofitable; there is none that doeth good, no, not one."
+  },
+  {
+   "verse": 13,
+   "start": 94.1,
+   "end": 101.45,
+   "text": "Their throat is an open sepulchre; with their tongues they have used deceit; the poison of asps is under their lips:"
+  },
+  {
+   "verse": 14,
+   "start": 102.15,
+   "end": 104.86,
+   "text": "Whose mouth is full of cursing and bitterness:"
+  },
+  {
+   "verse": 15,
+   "start": 105.56,
+   "end": 107.58,
+   "text": "Their feet are swift to shed blood:"
+  },
+  {
+   "verse": 16,
+   "start": 108.28,
+   "end": 110.68,
+   "text": "Destruction and misery are in their ways:"
+  },
+  {
+   "verse": 17,
+   "start": 111.38,
+   "end": 113.66,
+   "text": "And the way of peace have they not known:"
+  },
+  {
+   "verse": 18,
+   "start": 114.36,
+   "end": 116.68,
+   "text": "There is no fear of God before their eyes."
+  },
+  {
+   "verse": 19,
+   "start": 117.38,
+   "end": 129.1,
+   "text": "Now we know that what things soever the law saith, it saith to them who are under the law: that every mouth may be stopped, and all the world may become guilty before God."
+  },
+  {
+   "verse": 20,
+   "start": 129.8,
+   "end": 137.34,
+   "text": "Therefore by the deeds of the law there shall no flesh be justified in his sight: for by the law is the knowledge of sin."
+  },
+  {
+   "verse": 21,
+   "start": 138.04,
+   "end": 144.53,
+   "text": "But now the righteousness of God without the law is manifested, being witnessed by the law and the prophets;"
+  },
+  {
+   "verse": 22,
+   "start": 145.23,
+   "end": 153.76,
+   "text": "Even the righteousness of God which is by faith of Jesus Christ unto all and upon all them that believe: for there is no difference:"
+  },
+  {
+   "verse": 23,
+   "start": 154.46,
+   "end": 158.17,
+   "text": "For all have sinned, and come short of the glory of God;"
+  },
+  {
+   "verse": 24,
+   "start": 158.87,
+   "end": 163.68,
+   "text": "Being justified freely by his grace through the redemption that is in Christ Jesus:"
+  },
+  {
+   "verse": 25,
+   "start": 164.38,
+   "end": 174.21,
+   "text": "Whom God hath set forth to be a propitiation through faith in his blood, to declare his righteousness for the remission of sins that are past, through the forbearance of God;"
+  },
+  {
+   "verse": 26,
+   "start": 174.91,
+   "end": 183.18,
+   "text": "To declare, I say, at this time his righteousness: that he might be just, and the justifier of him which believeth in Jesus."
+  },
+  {
+   "verse": 27,
+   "start": 183.88,
+   "end": 192.45,
+   "text": "Where is boasting then? It is excluded. By what law? of works? Nay: but by the law of faith."
+  },
+  {
+   "verse": 28,
+   "start": 193.15,
+   "end": 198.13,
+   "text": "Therefore we conclude that a man is justified by faith without the deeds of the law."
+  },
+  {
+   "verse": 29,
+   "start": 198.83,
+   "end": 205.47,
+   "text": "Is he the God of the Jews only? is he not also of the Gentiles? Yes, of the Gentiles also:"
+  },
+  {
+   "verse": 30,
+   "start": 206.17,
+   "end": 212.86,
+   "text": "Seeing it is one God, which shall justify the circumcision by faith, and uncircumcision through faith."
+  },
+  {
+   "verse": 31,
+   "start": 213.56,
+   "end": 219.01,
+   "text": "Do we then make void the law through faith? God forbid: yea, we establish the law."
+  }
+ ]
+}

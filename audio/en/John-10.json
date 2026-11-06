@@ -1,0 +1,264 @@
+{
+ "book": "John",
+ "chapter": 10,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "John-10.mp3",
+ "duration": 298.32,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 11.37,
+   "text": "Verily, verily, I say unto you, He that entereth not by the door into the sheepfold, but climbeth up some other way, the same is a thief and a robber."
+  },
+  {
+   "verse": 2,
+   "start": 12.07,
+   "end": 16.25,
+   "text": "But he that entereth in by the door is the shepherd of the sheep."
+  },
+  {
+   "verse": 3,
+   "start": 16.95,
+   "end": 24.03,
+   "text": "To him the porter openeth; and the sheep hear his voice: and he calleth his own sheep by name, and leadeth them out."
+  },
+  {
+   "verse": 4,
+   "start": 24.73,
+   "end": 31.72,
+   "text": "And when he putteth forth his own sheep, he goeth before them, and the sheep follow him: for they know his voice."
+  },
+  {
+   "verse": 5,
+   "start": 32.42,
+   "end": 38.63,
+   "text": "And a stranger will they not follow, but will flee from him: for they know not the voice of strangers."
+  },
+  {
+   "verse": 6,
+   "start": 39.33,
+   "end": 45.63,
+   "text": "This parable spake Jesus unto them: but they understood not what things they were which he spake unto them."
+  },
+  {
+   "verse": 7,
+   "start": 46.33,
+   "end": 56.4,
+   "text": "Then said Jesus unto them again, Verily, verily, I say unto you, I am the door of the sheep."
+  },
+  {
+   "verse": 8,
+   "start": 57.1,
+   "end": 61.81,
+   "text": "All that ever came before me are thieves and robbers: but the sheep did not hear them."
+  },
+  {
+   "verse": 9,
+   "start": 62.51,
+   "end": 69.7,
+   "text": "I am the door: by me if any man enter in, he shall be saved, and shall go in and out, and find pasture."
+  },
+  {
+   "verse": 10,
+   "start": 70.4,
+   "end": 79.88,
+   "text": "The thief cometh not, but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have it more abundantly."
+  },
+  {
+   "verse": 11,
+   "start": 80.58,
+   "end": 84.57,
+   "text": "I am the good shepherd: the good shepherd giveth his life for the sheep."
+  },
+  {
+   "verse": 12,
+   "start": 85.27,
+   "end": 97.57,
+   "text": "But he that is an hireling, and not the shepherd, whose own the sheep are not, seeth the wolf coming, and leaveth the sheep, and fleeth: and the wolf catcheth them, and scattereth the sheep."
+  },
+  {
+   "verse": 13,
+   "start": 98.27,
+   "end": 103.01,
+   "text": "The hireling fleeth, because he is an hireling, and careth not for the sheep."
+  },
+  {
+   "verse": 14,
+   "start": 103.71,
+   "end": 108.21,
+   "text": "I am the good shepherd, and know my sheep, and am known of mine."
+  },
+  {
+   "verse": 15,
+   "start": 108.91,
+   "end": 115.21,
+   "text": "As the Father knoweth me, even so know I the Father: and I lay down my life for the sheep."
+  },
+  {
+   "verse": 16,
+   "start": 115.91,
+   "end": 125.12,
+   "text": "And other sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice; and there shall be one fold, and one shepherd."
+  },
+  {
+   "verse": 17,
+   "start": 125.82,
+   "end": 131.13,
+   "text": "Therefore doth my Father love me, because I lay down my life, that I might take it again."
+  },
+  {
+   "verse": 18,
+   "start": 131.83,
+   "end": 143.59,
+   "text": "No man taketh it from me, but I lay it down of myself. I have power to lay it down, and I have power to take it again. This commandment have I received of my Father."
+  },
+  {
+   "verse": 19,
+   "start": 144.29,
+   "end": 147.71,
+   "text": "There was a division therefore again among the Jews for these sayings."
+  },
+  {
+   "verse": 20,
+   "start": 148.41,
+   "end": 153.27,
+   "text": "And many of them said, He hath a devil, and is mad; why hear ye him?"
+  },
+  {
+   "verse": 21,
+   "start": 153.97,
+   "end": 160.57,
+   "text": "Others said, These are not the words of him that hath a devil. Can a devil open the eyes of the blind?"
+  },
+  {
+   "verse": 22,
+   "start": 161.27,
+   "end": 165.89,
+   "text": "And it was at Jerusalem the feast of the dedication, and it was winter."
+  },
+  {
+   "verse": 23,
+   "start": 166.59,
+   "end": 169.55,
+   "text": "And Jesus walked in the temple in Solomon's porch."
+  },
+  {
+   "verse": 24,
+   "start": 170.25,
+   "end": 180.31,
+   "text": "Then came the Jews round about him, and said unto him, How long dost thou make us to doubt? If thou be the Christ, tell us plainly."
+  },
+  {
+   "verse": 25,
+   "start": 181.01,
+   "end": 188.35,
+   "text": "Jesus answered them, I told you, and ye believed not: the works that I do in my Father's name, they bear witness of me."
+  },
+  {
+   "verse": 26,
+   "start": 189.05,
+   "end": 193.48,
+   "text": "But ye believe not, because ye are not of my sheep, as I said unto you."
+  },
+  {
+   "verse": 27,
+   "start": 194.18,
+   "end": 197.9,
+   "text": "My sheep hear my voice, and I know them, and they follow me:"
+  },
+  {
+   "verse": 28,
+   "start": 198.6,
+   "end": 206.6,
+   "text": "And I give unto them eternal life; and they shall never perish, neither shall any man pluck them out of my hand."
+  },
+  {
+   "verse": 29,
+   "start": 207.3,
+   "end": 213.78,
+   "text": "My Father, which gave them me, is greater than all; and no man is able to pluck them out of my Father's hand."
+  },
+  {
+   "verse": 30,
+   "start": 214.48,
+   "end": 216.29,
+   "text": "I and my Father are one."
+  },
+  {
+   "verse": 31,
+   "start": 216.99,
+   "end": 219.7,
+   "text": "Then the Jews took up stones again to stone him."
+  },
+  {
+   "verse": 32,
+   "start": 220.4,
+   "end": 228.08,
+   "text": "Jesus answered them, Many good works have I shewed you from my Father; for which of those works do ye stone me?"
+  },
+  {
+   "verse": 33,
+   "start": 228.78,
+   "end": 238.24,
+   "text": "The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself God."
+  },
+  {
+   "verse": 34,
+   "start": 238.94,
+   "end": 244.39,
+   "text": "Jesus answered them, Is it not written in your law, I said, Ye are gods?"
+  },
+  {
+   "verse": 35,
+   "start": 245.09,
+   "end": 250.81,
+   "text": "If he called them gods, unto whom the word of God came, and the scripture cannot be broken;"
+  },
+  {
+   "verse": 36,
+   "start": 251.51,
+   "end": 260.92,
+   "text": "Say ye of him, whom the Father hath sanctified, and sent into the world, Thou blasphemest; because I said, I am the Son of God?"
+  },
+  {
+   "verse": 37,
+   "start": 261.62,
+   "end": 264.4,
+   "text": "If I do not the works of my Father, believe me not."
+  },
+  {
+   "verse": 38,
+   "start": 265.1,
+   "end": 274.96,
+   "text": "But if I do, though ye believe not me, believe the works: that ye may know, and believe, that the Father is in me, and I in him."
+  },
+  {
+   "verse": 39,
+   "start": 275.66,
+   "end": 279.51,
+   "text": "Therefore they sought again to take him: but he escaped out of their hand,"
+  },
+  {
+   "verse": 40,
+   "start": 280.21,
+   "end": 286.33,
+   "text": "And went away again beyond Jordan into the place where John at first baptized; and there he abode."
+  },
+  {
+   "verse": 41,
+   "start": 287.03,
+   "end": 294.81,
+   "text": "And many resorted unto him, and said, John did no miracle: but all things that John spake of this man were true."
+  },
+  {
+   "verse": 42,
+   "start": 295.51,
+   "end": 297.27,
+   "text": "And many believed on him there."
+  }
+ ]
+}

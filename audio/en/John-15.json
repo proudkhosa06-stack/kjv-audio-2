@@ -1,0 +1,174 @@
+{
+ "book": "John",
+ "chapter": 15,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "John-15.mp3",
+ "duration": 223.8,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 3.58,
+   "text": "I am the true vine, and my Father is the husbandman."
+  },
+  {
+   "verse": 2,
+   "start": 4.28,
+   "end": 15.37,
+   "text": "Every branch in me that beareth not fruit he taketh away: and every branch that beareth fruit, he purgeth it, that it may bring forth more fruit."
+  },
+  {
+   "verse": 3,
+   "start": 16.07,
+   "end": 19.7,
+   "text": "Now ye are clean through the word which I have spoken unto you."
+  },
+  {
+   "verse": 4,
+   "start": 20.4,
+   "end": 31.19,
+   "text": "Abide in me, and I in you. As the branch cannot bear fruit of itself, except it abide in the vine; no more can ye, except ye abide in me."
+  },
+  {
+   "verse": 5,
+   "start": 31.89,
+   "end": 42.42,
+   "text": "I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing."
+  },
+  {
+   "verse": 6,
+   "start": 43.12,
+   "end": 53.04,
+   "text": "If a man abide not in me, he is cast forth as a branch, and is withered; and men gather them, and cast them into the fire, and they are burned."
+  },
+  {
+   "verse": 7,
+   "start": 53.74,
+   "end": 62.18,
+   "text": "If ye abide in me, and my words abide in you, ye shall ask what ye will, and it shall be done unto you."
+  },
+  {
+   "verse": 8,
+   "start": 62.88,
+   "end": 68.9,
+   "text": "Herein is my Father glorified, that ye bear much fruit; so shall ye be my disciples."
+  },
+  {
+   "verse": 9,
+   "start": 69.6,
+   "end": 75.01,
+   "text": "As the Father hath loved me, so have I loved you: continue ye in my love."
+  },
+  {
+   "verse": 10,
+   "start": 75.71,
+   "end": 85.22,
+   "text": "If ye keep my commandments, ye shall abide in my love; even as I have kept my Father's commandments, and abide in his love."
+  },
+  {
+   "verse": 11,
+   "start": 85.92,
+   "end": 92.59,
+   "text": "These things have I spoken unto you, that my joy might remain in you, and that your joy might be full."
+  },
+  {
+   "verse": 12,
+   "start": 93.29,
+   "end": 97.88,
+   "text": "This is my commandment, That ye love one another, as I have loved you."
+  },
+  {
+   "verse": 13,
+   "start": 98.58,
+   "end": 103.33,
+   "text": "Greater love hath no man than this, that a man lay down his life for his friends."
+  },
+  {
+   "verse": 14,
+   "start": 104.03,
+   "end": 107.54,
+   "text": "Ye are my friends, if ye do whatsoever I command you."
+  },
+  {
+   "verse": 15,
+   "start": 108.24,
+   "end": 120.3,
+   "text": "Henceforth I call you not servants; for the servant knoweth not what his lord doeth: but I have called you friends; for all things that I have heard of my Father I have made known unto you."
+  },
+  {
+   "verse": 16,
+   "start": 121.0,
+   "end": 137.84,
+   "text": "Ye have not chosen me, but I have chosen you, and ordained you, that ye should go and bring forth fruit, and that your fruit should remain: that whatsoever ye shall ask of the Father in my name, he may give it you."
+  },
+  {
+   "verse": 17,
+   "start": 138.54,
+   "end": 141.66,
+   "text": "These things I command you, that ye love one another."
+  },
+  {
+   "verse": 18,
+   "start": 142.36,
+   "end": 146.41,
+   "text": "If the world hate you, ye know that it hated me before it hated you."
+  },
+  {
+   "verse": 19,
+   "start": 147.11,
+   "end": 157.11,
+   "text": "If ye were of the world, the world would love his own: but because ye are not of the world, but I have chosen you out of the world, therefore the world hateth you."
+  },
+  {
+   "verse": 20,
+   "start": 157.81,
+   "end": 170.05,
+   "text": "Remember the word that I said unto you, The servant is not greater than his lord. If they have persecuted me, they will also persecute you; if they have kept my saying, they will keep yours also."
+  },
+  {
+   "verse": 21,
+   "start": 170.75,
+   "end": 176.39,
+   "text": "But all these things will they do unto you for my name's sake, because they know not him that sent me."
+  },
+  {
+   "verse": 22,
+   "start": 177.09,
+   "end": 183.29,
+   "text": "If I had not come and spoken unto them, they had not had sin: but now they have no cloke for their sin."
+  },
+  {
+   "verse": 23,
+   "start": 183.99,
+   "end": 186.58,
+   "text": "He that hateth me hateth my Father also."
+  },
+  {
+   "verse": 24,
+   "start": 187.28,
+   "end": 197.14,
+   "text": "If I had not done among them the works which none other man did, they had not had sin: but now have they both seen and hated both me and my Father."
+  },
+  {
+   "verse": 25,
+   "start": 197.84,
+   "end": 205.66,
+   "text": "But this cometh to pass, that the word might be fulfilled that is written in their law, They hated me without a cause."
+  },
+  {
+   "verse": 26,
+   "start": 206.36,
+   "end": 217.19,
+   "text": "But when the Comforter is come, whom I will send unto you from the Father, even the Spirit of truth, which proceedeth from the Father, he shall testify of me:"
+  },
+  {
+   "verse": 27,
+   "start": 217.89,
+   "end": 222.73,
+   "text": "And ye also shall bear witness, because ye have been with me from the beginning."
+  }
+ ]
+}

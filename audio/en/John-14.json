@@ -1,0 +1,198 @@
+{
+ "book": "John",
+ "chapter": 14,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "John-14.mp3",
+ "duration": 264.84,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 5.25,
+   "text": "Let not your heart be troubled: ye believe in God, believe also in me."
+  },
+  {
+   "verse": 2,
+   "start": 5.95,
+   "end": 14.26,
+   "text": "In my Father's house are many mansions: if it were not so, I would have told you. I go to prepare a place for you."
+  },
+  {
+   "verse": 3,
+   "start": 14.96,
+   "end": 25.29,
+   "text": "And if I go and prepare a place for you, I will come again, and receive you unto myself; that where I am, there ye may be also."
+  },
+  {
+   "verse": 4,
+   "start": 25.99,
+   "end": 29.25,
+   "text": "And whither I go ye know, and the way ye know."
+  },
+  {
+   "verse": 5,
+   "start": 29.95,
+   "end": 36.01,
+   "text": "Thomas saith unto him, Lord, we know not whither thou goest; and how can we know the way?"
+  },
+  {
+   "verse": 6,
+   "start": 36.71,
+   "end": 44.9,
+   "text": "Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me."
+  },
+  {
+   "verse": 7,
+   "start": 45.6,
+   "end": 52.67,
+   "text": "If ye had known me, ye should have known my Father also: and from henceforth ye know him, and have seen him."
+  },
+  {
+   "verse": 8,
+   "start": 53.37,
+   "end": 59.27,
+   "text": "Philip saith unto him, Lord, shew us the Father, and it sufficeth us."
+  },
+  {
+   "verse": 9,
+   "start": 59.97,
+   "end": 72.55,
+   "text": "Jesus saith unto him, Have I been so long time with you, and yet hast thou not known me, Philip? he that hath seen me hath seen the Father; and how sayest thou then, Shew us the Father?"
+  },
+  {
+   "verse": 10,
+   "start": 73.25,
+   "end": 84.58,
+   "text": "Believest thou not that I am in the Father, and the Father in me? the words that I speak unto you I speak not of myself: but the Father that dwelleth in me, he doeth the works."
+  },
+  {
+   "verse": 11,
+   "start": 85.28,
+   "end": 91.52,
+   "text": "Believe me that I am in the Father, and the Father in me: or else believe me for the very works' sake."
+  },
+  {
+   "verse": 12,
+   "start": 92.22,
+   "end": 104.47,
+   "text": "Verily, verily, I say unto you, He that believeth on me, the works that I do shall he do also; and greater works than these shall he do; because I go unto my Father."
+  },
+  {
+   "verse": 13,
+   "start": 105.17,
+   "end": 112.83,
+   "text": "And whatsoever ye shall ask in my name, that will I do, that the Father may be glorified in the Son."
+  },
+  {
+   "verse": 14,
+   "start": 113.53,
+   "end": 117.16,
+   "text": "If ye shall ask any thing in my name, I will do it."
+  },
+  {
+   "verse": 15,
+   "start": 117.86,
+   "end": 120.25,
+   "text": "If ye love me, keep my commandments."
+  },
+  {
+   "verse": 16,
+   "start": 120.95,
+   "end": 126.93,
+   "text": "And I will pray the Father, and he shall give you another Comforter, that he may abide with you for ever;"
+  },
+  {
+   "verse": 17,
+   "start": 127.63,
+   "end": 140.02,
+   "text": "Even the Spirit of truth; whom the world cannot receive, because it seeth him not, neither knoweth him: but ye know him; for he dwelleth with you, and shall be in you."
+  },
+  {
+   "verse": 18,
+   "start": 140.72,
+   "end": 143.78,
+   "text": "I will not leave you comfortless: I will come to you."
+  },
+  {
+   "verse": 19,
+   "start": 144.48,
+   "end": 152.38,
+   "text": "Yet a little while, and the world seeth me no more; but ye see me: because I live, ye shall live also."
+  },
+  {
+   "verse": 20,
+   "start": 153.08,
+   "end": 158.86,
+   "text": "At that day ye shall know that I am in my Father, and ye in me, and I in you."
+  },
+  {
+   "verse": 21,
+   "start": 159.56,
+   "end": 172.61,
+   "text": "He that hath my commandments, and keepeth them, he it is that loveth me: and he that loveth me shall be loved of my Father, and I will love him, and will manifest myself to him."
+  },
+  {
+   "verse": 22,
+   "start": 173.31,
+   "end": 181.32,
+   "text": "Judas saith unto him, not Iscariot, Lord, how is it that thou wilt manifest thyself unto us, and not unto the world?"
+  },
+  {
+   "verse": 23,
+   "start": 182.02,
+   "end": 193.25,
+   "text": "Jesus answered and said unto him, If a man love me, he will keep my words: and my Father will love him, and we will come unto him, and make our abode with him."
+  },
+  {
+   "verse": 24,
+   "start": 193.95,
+   "end": 201.55,
+   "text": "He that loveth me not keepeth not my sayings: and the word which ye hear is not mine, but the Father's which sent me."
+  },
+  {
+   "verse": 25,
+   "start": 202.25,
+   "end": 206.21,
+   "text": "These things have I spoken unto you, being yet present with you."
+  },
+  {
+   "verse": 26,
+   "start": 206.91,
+   "end": 218.22,
+   "text": "But the Comforter, which is the Holy Ghost, whom the Father will send in my name, he shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you."
+  },
+  {
+   "verse": 27,
+   "start": 218.92,
+   "end": 229.22,
+   "text": "Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid."
+  },
+  {
+   "verse": 28,
+   "start": 229.92,
+   "end": 242.49,
+   "text": "Ye have heard how I said unto you, I go away, and come again unto you. If ye loved me, ye would rejoice, because I said, I go unto the Father: for my Father is greater than I."
+  },
+  {
+   "verse": 29,
+   "start": 243.19,
+   "end": 249.52,
+   "text": "And now I have told you before it come to pass, that, when it is come to pass, ye might believe."
+  },
+  {
+   "verse": 30,
+   "start": 250.22,
+   "end": 256.21,
+   "text": "Hereafter I will not talk much with you: for the prince of this world cometh, and hath nothing in me."
+  },
+  {
+   "verse": 31,
+   "start": 256.91,
+   "end": 263.78,
+   "text": "But that the world may know that I love the Father; and as the Father gave me commandment, even so I do. Arise, let us go hence."
+  }
+ ]
+}

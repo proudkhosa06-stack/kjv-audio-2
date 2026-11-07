@@ -1,0 +1,90 @@
+{
+ "book": "1 Corinthians",
+ "chapter": 8,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "1 Corinthians-8.mp3",
+ "duration": 114.41,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 8.41,
+   "text": "Now as touching things offered unto idols, we know that we all have knowledge. Knowledge puffeth up, but charity edifieth."
+  },
+  {
+   "verse": 2,
+   "start": 9.11,
+   "end": 15.23,
+   "text": "And if any man think that he knoweth any thing, he knoweth nothing yet as he ought to know."
+  },
+  {
+   "verse": 3,
+   "start": 15.93,
+   "end": 19.09,
+   "text": "But if any man love God, the same is known of him."
+  },
+  {
+   "verse": 4,
+   "start": 19.79,
+   "end": 31.46,
+   "text": "As concerning therefore the eating of those things that are offered in sacrifice unto idols, we know that an idol is nothing in the world, and that there is none other God but one."
+  },
+  {
+   "verse": 5,
+   "start": 32.16,
+   "end": 39.07,
+   "text": "For though there be that are called gods, whether in heaven or in earth, (as there be gods many, and lords many,)"
+  },
+  {
+   "verse": 6,
+   "start": 39.77,
+   "end": 50.62,
+   "text": "But to us there is but one God, the Father, of whom are all things, and we in him; and one Lord Jesus Christ, by whom are all things, and we by him."
+  },
+  {
+   "verse": 7,
+   "start": 51.32,
+   "end": 64.65,
+   "text": "Howbeit there is not in every man that knowledge: for some with conscience of the idol unto this hour eat it as a thing offered unto an idol; and their conscience being weak is defiled."
+  },
+  {
+   "verse": 8,
+   "start": 65.35,
+   "end": 74.53,
+   "text": "But meat commendeth us not to God: for neither, if we eat, are we the better; neither, if we eat not, are we the worse."
+  },
+  {
+   "verse": 9,
+   "start": 75.23,
+   "end": 80.94,
+   "text": "But take heed lest by any means this liberty of yours become a stumblingblock to them that are weak."
+  },
+  {
+   "verse": 10,
+   "start": 81.64,
+   "end": 93.38,
+   "text": "For if any man see thee which hast knowledge sit at meat in the idol's temple, shall not the conscience of him which is weak be emboldened to eat those things which are offered to idols;"
+  },
+  {
+   "verse": 11,
+   "start": 94.08,
+   "end": 98.34,
+   "text": "And through thy knowledge shall the weak brother perish, for whom Christ died?"
+  },
+  {
+   "verse": 12,
+   "start": 99.04,
+   "end": 104.79,
+   "text": "But when ye sin so against the brethren, and wound their weak conscience, ye sin against Christ."
+  },
+  {
+   "verse": 13,
+   "start": 105.49,
+   "end": 113.34,
+   "text": "Wherefore, if meat make my brother to offend, I will eat no flesh while the world standeth, lest I make my brother to offend."
+  }
+ ]
+}

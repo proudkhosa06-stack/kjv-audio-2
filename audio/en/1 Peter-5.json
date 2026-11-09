@@ -1,0 +1,96 @@
+{
+ "book": "1 Peter",
+ "chapter": 5,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "1 Peter-5.mp3",
+ "duration": 120.24,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 11.15,
+   "text": "The elders which are among you I exhort, who am also an elder, and a witness of the sufferings of Christ, and also a partaker of the glory that shall be revealed:"
+  },
+  {
+   "verse": 2,
+   "start": 11.85,
+   "end": 21.72,
+   "text": "Feed the flock of God which is among you, taking the oversight thereof, not by constraint, but willingly; not for filthy lucre, but of a ready mind;"
+  },
+  {
+   "verse": 3,
+   "start": 22.42,
+   "end": 27.53,
+   "text": "Neither as being lords over God's heritage, but being ensamples to the flock."
+  },
+  {
+   "verse": 4,
+   "start": 28.23,
+   "end": 34.0,
+   "text": "And when the chief Shepherd shall appear, ye shall receive a crown of glory that fadeth not away."
+  },
+  {
+   "verse": 5,
+   "start": 34.7,
+   "end": 48.2,
+   "text": "Likewise, ye younger, submit yourselves unto the elder. Yea, all of you be subject one to another, and be clothed with humility: for God resisteth the proud, and giveth grace to the humble."
+  },
+  {
+   "verse": 6,
+   "start": 48.9,
+   "end": 55.04,
+   "text": "Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time:"
+  },
+  {
+   "verse": 7,
+   "start": 55.74,
+   "end": 59.03,
+   "text": "Casting all your care upon him; for he careth for you."
+  },
+  {
+   "verse": 8,
+   "start": 59.73,
+   "end": 68.35,
+   "text": "Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour:"
+  },
+  {
+   "verse": 9,
+   "start": 69.05,
+   "end": 76.79,
+   "text": "Whom resist stedfast in the faith, knowing that the same afflictions are accomplished in your brethren that are in the world."
+  },
+  {
+   "verse": 10,
+   "start": 77.49,
+   "end": 88.25,
+   "text": "But the God of all grace, who hath called us unto his eternal glory by Christ Jesus, after that ye have suffered a while, make you perfect, stablish, strengthen, settle you."
+  },
+  {
+   "verse": 11,
+   "start": 88.95,
+   "end": 92.77,
+   "text": "To him be glory and dominion for ever and ever. Amen."
+  },
+  {
+   "verse": 12,
+   "start": 93.47,
+   "end": 104.65,
+   "text": "By Silvanus, a faithful brother unto you, as I suppose, I have written briefly, exhorting, and testifying that this is the true grace of God wherein ye stand."
+  },
+  {
+   "verse": 13,
+   "start": 105.35,
+   "end": 112.47,
+   "text": "The church that is at Babylon, elected together with you, saluteth you; and so doth Marcus my son."
+  },
+  {
+   "verse": 14,
+   "start": 113.17,
+   "end": 119.19,
+   "text": "Greet ye one another with a kiss of charity. Peace be with you all that are in Christ Jesus. Amen."
+  }
+ ]
+}

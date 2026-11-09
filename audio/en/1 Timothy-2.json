@@ -1,0 +1,102 @@
+{
+ "book": "1 Timothy",
+ "chapter": 2,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "1 Timothy-2.mp3",
+ "duration": 103.39,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 9.4,
+   "text": "I exhort therefore, that, first of all, supplications, prayers, intercessions, and giving of thanks, be made for all men;"
+  },
+  {
+   "verse": 2,
+   "start": 10.1,
+   "end": 18.66,
+   "text": "For kings, and for all that are in authority; that we may lead a quiet and peaceable life in all godliness and honesty."
+  },
+  {
+   "verse": 3,
+   "start": 19.36,
+   "end": 23.31,
+   "text": "For this is good and acceptable in the sight of God our Saviour;"
+  },
+  {
+   "verse": 4,
+   "start": 24.01,
+   "end": 28.58,
+   "text": "Who will have all men to be saved, and to come unto the knowledge of the truth."
+  },
+  {
+   "verse": 5,
+   "start": 29.28,
+   "end": 34.78,
+   "text": "For there is one God, and one mediator between God and men, the man Christ Jesus;"
+  },
+  {
+   "verse": 6,
+   "start": 35.48,
+   "end": 39.99,
+   "text": "Who gave himself a ransom for all, to be testified in due time."
+  },
+  {
+   "verse": 7,
+   "start": 40.69,
+   "end": 51.56,
+   "text": "Where unto I am ordained a preacher, and an apostle, (I speak the truth in Christ, and lie not;) a teacher of the Gentiles in faith and verity."
+  },
+  {
+   "verse": 8,
+   "start": 52.26,
+   "end": 58.35,
+   "text": "I will therefore that men pray every where, lifting up holy hands, without wrath and doubting."
+  },
+  {
+   "verse": 9,
+   "start": 59.05,
+   "end": 70.54,
+   "text": "In like manner also, that women adorn themselves in modest apparel, with shamefacedness and sobriety; not with broided hair, or gold, or pearls, or costly array;"
+  },
+  {
+   "verse": 10,
+   "start": 71.24,
+   "end": 75.85,
+   "text": "But (which becometh women professing godliness) with good works."
+  },
+  {
+   "verse": 11,
+   "start": 76.55,
+   "end": 79.51,
+   "text": "Let the woman learn in silence with all subjection."
+  },
+  {
+   "verse": 12,
+   "start": 80.21,
+   "end": 86.66,
+   "text": "But I suffer not a woman to teach, nor to usurp authority over the man, but to be in silence."
+  },
+  {
+   "verse": 13,
+   "start": 87.36,
+   "end": 89.77,
+   "text": "For Adam was first formed, then Eve."
+  },
+  {
+   "verse": 14,
+   "start": 90.47,
+   "end": 94.85,
+   "text": "And Adam was not deceived, but the woman being deceived was in the transgression."
+  },
+  {
+   "verse": 15,
+   "start": 95.55,
+   "end": 102.33,
+   "text": "Notwithstanding she shall be saved in childbearing, if they continue in faith and charity and holiness with sobriety."
+  }
+ ]
+}

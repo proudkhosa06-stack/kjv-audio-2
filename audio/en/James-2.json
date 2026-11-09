@@ -1,0 +1,168 @@
+{
+ "book": "James",
+ "chapter": 2,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "James-2.mp3",
+ "duration": 206.76,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 6.54,
+   "text": "My brethren, have not the faith of our Lord Jesus Christ, the Lord of glory, with respect of persons."
+  },
+  {
+   "verse": 2,
+   "start": 7.24,
+   "end": 16.55,
+   "text": "For if there come unto your assembly a man with a gold ring, in goodly apparel, and there come in also a poor man in vile raiment;"
+  },
+  {
+   "verse": 3,
+   "start": 17.25,
+   "end": 29.34,
+   "text": "And ye have respect to him that weareth the gay clothing, and say unto him, Sit thou here in a good place; and say to the poor, Stand thou there, or sit here under my footstool:"
+  },
+  {
+   "verse": 4,
+   "start": 30.04,
+   "end": 34.75,
+   "text": "Are ye not then partial in yourselves, and are become judges of evil thoughts?"
+  },
+  {
+   "verse": 5,
+   "start": 35.45,
+   "end": 46.13,
+   "text": "Hearken, my beloved brethren, Hath not God chosen the poor of this world rich in faith, and heirs of the kingdom which he hath promised to them that love him?"
+  },
+  {
+   "verse": 6,
+   "start": 46.83,
+   "end": 53.7,
+   "text": "But ye have despised the poor. Do not rich men oppress you, and draw you before the judgment seats?"
+  },
+  {
+   "verse": 7,
+   "start": 54.4,
+   "end": 58.11,
+   "text": "Do not they blaspheme that worthy name by the which ye are called?"
+  },
+  {
+   "verse": 8,
+   "start": 58.81,
+   "end": 66.08,
+   "text": "If ye fulfil the royal law according to the scripture, Thou shalt love thy neighbour as thyself, ye do well:"
+  },
+  {
+   "verse": 9,
+   "start": 66.78,
+   "end": 72.88,
+   "text": "But if ye have respect to persons, ye commit sin, and are convinced of the law as transgressors."
+  },
+  {
+   "verse": 10,
+   "start": 73.58,
+   "end": 79.81,
+   "text": "For whosoever shall keep the whole law, and yet offend in one point, he is guilty of all."
+  },
+  {
+   "verse": 11,
+   "start": 80.51,
+   "end": 92.55,
+   "text": "For he that said, Do not commit adultery, said also, Do not kill. Now if thou commit no adultery, yet if thou kill, thou art become a transgressor of the law."
+  },
+  {
+   "verse": 12,
+   "start": 93.25,
+   "end": 98.77,
+   "text": "So speak ye, and so do, as they that shall be judged by the law of liberty."
+  },
+  {
+   "verse": 13,
+   "start": 99.47,
+   "end": 106.91,
+   "text": "For he shall have judgment without mercy, that hath shewed no mercy; and mercy rejoiceth against judgment."
+  },
+  {
+   "verse": 14,
+   "start": 107.61,
+   "end": 115.68,
+   "text": "What doth it profit, my brethren, though a man say he hath faith, and have not works? can faith save him?"
+  },
+  {
+   "verse": 15,
+   "start": 116.38,
+   "end": 120.63,
+   "text": "If a brother or sister be naked, and destitute of daily food,"
+  },
+  {
+   "verse": 16,
+   "start": 121.33,
+   "end": 133.17,
+   "text": "And one of you say unto them, Depart in peace, be ye warmed and filled; notwithstanding ye give them not those things which are needful to the body; what doth it profit?"
+  },
+  {
+   "verse": 17,
+   "start": 133.87,
+   "end": 138.36,
+   "text": "Even so faith, if it hath not works, is dead, being alone."
+  },
+  {
+   "verse": 18,
+   "start": 139.06,
+   "end": 150.08,
+   "text": "Yea, a man may say, Thou hast faith, and I have works: shew me thy faith without thy works, and I will shew thee my faith by my works."
+  },
+  {
+   "verse": 19,
+   "start": 150.78,
+   "end": 157.53,
+   "text": "Thou believest that there is one God; thou doest well: the devils also believe, and tremble."
+  },
+  {
+   "verse": 20,
+   "start": 158.23,
+   "end": 162.39,
+   "text": "But wilt thou know, O vain man, that faith without works is dead?"
+  },
+  {
+   "verse": 21,
+   "start": 163.09,
+   "end": 169.67,
+   "text": "Was not Abraham our father justified by works, when he had offered Isaac his son upon the altar?"
+  },
+  {
+   "verse": 22,
+   "start": 170.37,
+   "end": 175.66,
+   "text": "Seest thou how faith wrought with his works, and by works was faith made perfect?"
+  },
+  {
+   "verse": 23,
+   "start": 176.36,
+   "end": 185.54,
+   "text": "And the scripture was fulfilled which saith, Abraham believed God, and it was imputed unto him for righteousness: and he was called the Friend of God."
+  },
+  {
+   "verse": 24,
+   "start": 186.24,
+   "end": 191.07,
+   "text": "Ye see then how that by works a man is justified, and not by faith only."
+  },
+  {
+   "verse": 25,
+   "start": 191.77,
+   "end": 199.97,
+   "text": "Likewise also was not Rahab the harlot justified by works, when she had received the messengers, and had sent them out another way?"
+  },
+  {
+   "verse": 26,
+   "start": 200.67,
+   "end": 205.71,
+   "text": "For as the body without the spirit is dead, so faith without works is dead also."
+  }
+ ]
+}

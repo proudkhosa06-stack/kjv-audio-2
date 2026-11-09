@@ -1,0 +1,96 @@
+{
+ "book": "Hebrews",
+ "chapter": 1,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Hebrews-1.mp3",
+ "duration": 127.61,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 7.27,
+   "text": "God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets,"
+  },
+  {
+   "verse": 2,
+   "start": 7.97,
+   "end": 16.87,
+   "text": "Hath in these last days spoken unto us by his Son, whom he hath appointed heir of all things, by whom also he made the worlds;"
+  },
+  {
+   "verse": 3,
+   "start": 17.57,
+   "end": 31.76,
+   "text": "Who being the brightness of his glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high;"
+  },
+  {
+   "verse": 4,
+   "start": 32.46,
+   "end": 38.86,
+   "text": "Being made so much better than the angels, as he hath by inheritance obtained a more excellent name than they."
+  },
+  {
+   "verse": 5,
+   "start": 39.56,
+   "end": 52.04,
+   "text": "For unto which of the angels said he at any time, Thou art my Son, this day have I begotten thee? And again, I will be to him a Father, and he shall be to me a Son?"
+  },
+  {
+   "verse": 6,
+   "start": 52.74,
+   "end": 61.33,
+   "text": "And again, when he bringeth in the firstbegotten into the world, he saith, And let all the angels of God worship him."
+  },
+  {
+   "verse": 7,
+   "start": 62.03,
+   "end": 68.26,
+   "text": "And of the angels he saith, Who maketh his angels spirits, and his ministers a flame of fire."
+  },
+  {
+   "verse": 8,
+   "start": 68.96,
+   "end": 78.22,
+   "text": "But unto the Son he saith, Thy throne, O God, is for ever and ever: a sceptre of righteousness is the sceptre of thy kingdom."
+  },
+  {
+   "verse": 9,
+   "start": 78.92,
+   "end": 88.56,
+   "text": "Thou hast loved righteousness, and hated iniquity; therefore God, even thy God, hath anointed thee with the oil of gladness above thy fellows."
+  },
+  {
+   "verse": 10,
+   "start": 89.26,
+   "end": 96.05,
+   "text": "And, Thou, Lord, in the beginning hast laid the foundation of the earth; and the heavens are the works of thine hands:"
+  },
+  {
+   "verse": 11,
+   "start": 96.75,
+   "end": 102.52,
+   "text": "They shall perish; but thou remainest; and they all shall wax old as doth a garment;"
+  },
+  {
+   "verse": 12,
+   "start": 103.22,
+   "end": 110.99,
+   "text": "And as a vesture shalt thou fold them up, and they shall be changed: but thou art the same, and thy years shall not fail."
+  },
+  {
+   "verse": 13,
+   "start": 111.69,
+   "end": 119.49,
+   "text": "But to which of the angels said he at any time, Sit on my right hand, until I make thine enemies thy footstool?"
+  },
+  {
+   "verse": 14,
+   "start": 120.19,
+   "end": 126.54,
+   "text": "Are they not all ministering spirits, sent forth to minister for them who shall be heirs of salvation?"
+  }
+ ]
+}

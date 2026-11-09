@@ -1,0 +1,72 @@
+{
+ "book": "1 John",
+ "chapter": 1,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "1 John-1.mp3",
+ "duration": 85.85,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 10.75,
+   "text": "That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, of the Word of life;"
+  },
+  {
+   "verse": 2,
+   "start": 11.45,
+   "end": 21.8,
+   "text": "(For the life was manifested, and we have seen it, and bear witness, and shew unto you that eternal life, which was with the Father, and was manifested unto us;)"
+  },
+  {
+   "verse": 3,
+   "start": 22.5,
+   "end": 33.99,
+   "text": "That which we have seen and heard declare we unto you, that ye also may have fellowship with us: and truly our fellowship is with the Father, and with his Son Jesus Christ."
+  },
+  {
+   "verse": 4,
+   "start": 34.69,
+   "end": 38.91,
+   "text": "And these things write we unto you, that your joy may be full."
+  },
+  {
+   "verse": 5,
+   "start": 39.61,
+   "end": 47.07,
+   "text": "This then is the message which we have heard of him, and declare unto you, that God is light, and in him is no darkness at all."
+  },
+  {
+   "verse": 6,
+   "start": 47.77,
+   "end": 54.21,
+   "text": "If we say that we have fellowship with him, and walk in darkness, we lie, and do not the truth:"
+  },
+  {
+   "verse": 7,
+   "start": 54.91,
+   "end": 64.49,
+   "text": "But if we walk in the light, as he is in the light, we have fellowship one with another, and the blood of Jesus Christ his Son cleanseth us from all sin."
+  },
+  {
+   "verse": 8,
+   "start": 65.19,
+   "end": 70.82,
+   "text": "If we say that we have no sin, we deceive ourselves, and the truth is not in us."
+  },
+  {
+   "verse": 9,
+   "start": 71.52,
+   "end": 78.97,
+   "text": "If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness."
+  },
+  {
+   "verse": 10,
+   "start": 79.67,
+   "end": 84.78,
+   "text": "If we say that we have not sinned, we make him a liar, and his word is not in us."
+  }
+ ]
+}

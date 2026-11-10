@@ -1,0 +1,60 @@
+{
+ "book": "Revelation",
+ "chapter": 15,
+ "language": "en",
+ "version": "KJV",
+ "reader": "Ntsako Khosa",
+ "audio": "Revelation-15.mp3",
+ "duration": 94.32,
+ "credit": "King James Version (public domain). Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 10.68,
+   "text": "And I saw another sign in heaven, great and marvellous, seven angels having the seven last plagues; for in them is filled up the wrath of God."
+  },
+  {
+   "verse": 2,
+   "start": 11.38,
+   "end": 27.92,
+   "text": "And I saw as it were a sea of glass mingled with fire: and them that had gotten the victory over the beast, and over his image, and over his mark, and over the number of his name, stand on the sea of glass, having the harps of God."
+  },
+  {
+   "verse": 3,
+   "start": 28.62,
+   "end": 41.88,
+   "text": "And they sing the song of Moses the servant of God, and the song of the Lamb, saying, Great and marvellous are thy works, Lord God Almighty; just and true are thy ways, thou King of saints."
+  },
+  {
+   "verse": 4,
+   "start": 42.58,
+   "end": 54.39,
+   "text": "Who shall not fear thee, O Lord, and glorify thy name? for thou only art holy: for all nations shall come and worship before thee; for thy judgments are made manifest."
+  },
+  {
+   "verse": 5,
+   "start": 55.09,
+   "end": 61.85,
+   "text": "And after that I looked, and, behold, the temple of the tabernacle of the testimony in heaven was opened:"
+  },
+  {
+   "verse": 6,
+   "start": 62.55,
+   "end": 71.97,
+   "text": "And the seven angels came out of the temple, having the seven plagues, clothed in pure and white linen, and having their breasts girded with golden girdles."
+  },
+  {
+   "verse": 7,
+   "start": 72.67,
+   "end": 81.8,
+   "text": "And one of the four beasts gave unto the seven angels seven golden vials full of the wrath of God, who liveth for ever and ever."
+  },
+  {
+   "verse": 8,
+   "start": 82.5,
+   "end": 93.27,
+   "text": "And the temple was filled with smoke from the glory of God, and from his power; and no man was able to enter into the temple, till the seven plagues of the seven angels were fulfilled."
+  }
+ ]
+}
